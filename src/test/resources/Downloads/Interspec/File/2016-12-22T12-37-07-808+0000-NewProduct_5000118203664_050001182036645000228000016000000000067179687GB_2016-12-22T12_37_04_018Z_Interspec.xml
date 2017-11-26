@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="utf-8"?><CU xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+  <CU_MAIN_DATA>
+      <PART_NO>67179688_30</PART_NO>
+      <REVISION>1</REVISION>
+      <STATUS>CURRENT</STATUS>
+      <DESCRIPTION>CU POTNDL KNG CHICK&amp;MUSH PRM 12X114G UK</DESCRIPTION>
+      <PLANNED_EFFECTIVE_DATE>21-Dec-2016</PLANNED_EFFECTIVE_DATE>
+      <ACCESS_GROUP>PLAN</ACCESS_GROUP>
+      <CREATED_BY>BKURZY01</CREATED_BY>
+      <RFI>new CU for Win 1000 P Project</RFI>
+      <EAN>5000118203664</EAN>
+      <ItemNumber>050001182036645000228000016000000000067179687GB</ItemNumber>
+   </CU_MAIN_DATA>
+  <CU_CLASSIFICATION_DATA>
+      <L1>Foods</L1>
+      <L2>Pot Noodle</L2>
+  </CU_CLASSIFICATION_DATA>
+  <CU_ART_LIST>
+      <CU_ART>
+         <PART_NO>67174474_30</PART_NO>
+         <DESCRIPTION>POT_KP CHICK&amp;MUSH 114G WIN 1000_2017 W</DESCRIPTION>
+      </CU_ART>
+      <CU_ART>
+         <PART_NO>67174482_30</PART_NO>
+         <DESCRIPTION>LID_KP CHICK&amp;MUSH 114G WIN 1000_2017</DESCRIPTION>
+      </CU_ART>
+  </CU_ART_LIST>
+  <CUC_LIST>
+      <CUC>
+         <PART_NO>8997464_30</PART_NO>
+         <REVISION>7</REVISION>
+         <CUC_CLASSIFICATION_DATA>
+            <L1>R&amp;D Category Savoury</L1>
+            <L2>Other Savoury</L2>
+            <L3>Snacks</L3>
+            <L4>Pot Noodles</L4>
+            <APPEARANCE>No Appropriate Choice</APPEARANCE>
+            <TECHNOLOGY>No Appropriate Choice</TECHNOLOGY>
+            <CHARACTERISTIC>No Appropriate Choice</CHARACTERISTIC>
+            <OTHER>No Appropriate Choice</OTHER>
+         </CUC_CLASSIFICATION_DATA>
+      </CUC>
+  </CUC_LIST>
+  <CU_BOM_HEADERS>
+      <CU_BOM_HEADER>
+         <SU_PLANT>A802_30</SU_PLANT>
+         <SU_PLANT_DESCRIPTION>UBF-UK-SU Crumlin (Europe - Production)</SU_PLANT_DESCRIPTION>
+      </CU_BOM_HEADER>
+  </CU_BOM_HEADERS>
+  <DU_LIST>
+      <DU>
+         <DU_MAIN_DATA>
+            <PART_NO>67179687_30</PART_NO>
+            <REVISION>1</REVISION>
+            <DESCRIPTION>POTNDL KNG CHICK&amp;MUSH PRM 12X114G DB UK</DESCRIPTION>
+            <PLANNED_EFFECTIVE_DATE>21-Dec-2016</PLANNED_EFFECTIVE_DATE>
+            <RFI>new Du for Win 1000 P Project</RFI>
+            <EAN>5000118203770</EAN>
+         </DU_MAIN_DATA>
+         <DU_CLASSIFICATION_DATA/>
+         <DU_ART_LIST>
+            <DU_ART>
+               <PART_NO>8127332_30</PART_NO>
+               <DESCRIPTION>Label 150x200mm Direct Thermal Print</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>1044341_30</PART_NO>
+               <DESCRIPTION>STRETCHWRAP 23UM 500MM MACHINE APPLIED</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>8459257_30</PART_NO>
+               <DESCRIPTION>Chep IndPal Wood 1200x1000 NB</DESCRIPTION>
+            </DU_ART>
+         </DU_ART_LIST>
+         <KPI_PLANT_GROUP_KEYWORD/>
+         <MSU_CUSTOMERS/>
+      </DU>
+  </DU_LIST>
+  <CON>
+      <LANGUAGES>
+         <LANGUAGE>English</LANGUAGE>
+      </LANGUAGES>
+      <CON_MAIN_DATA>
+         <PART_NO>66370568IS_30</PART_NO>
+         <REVISION>5</REVISION>
+         <DESCRIPTION>Pot Noodle King Pot Chicken &amp; Mushroom 114g UK FIC</DESCRIPTION>
+         <PLANNED_EFFECTIVE_DATE>22-Nov-2016</PLANNED_EFFECTIVE_DATE>
+         <ACCESS_GROUP>PLAN</ACCESS_GROUP>
+         <LAST_MODIFIED_BY>Anton Roettinger</LAST_MODIFIED_BY>
+         <RFI>Change of turmeric oleorosing delcaration from colour to flavour acc.to last update from the supplier
+Revision created due to PIM2C reference text in onpack info added multi-language tick filled</RFI>
+         <FRAME_ID>G-FOODS-CON-GLOBAL</FRAME_ID>
+         <FRAME_REV>21</FRAME_REV>
+      </CON_MAIN_DATA>
+      <MCON_DATA>
+         <PART_NO/>
+         <DESCRIPTION/>
+      </MCON_DATA>
+      <MSU_CUSTOMERS/>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Brand Name" language="English">
+         <VALUE>Pot Noodle</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="English">
+         <VALUE>Chicken and mushroom flavour</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Additional Regional Information" property="Registry No." attribute="No. 1" header="Register" language="English">
+         <VALUE>FIC</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Additional Regional Information" property="Registry No." attribute="No. 2" header="Description" language="English">
+         <VALUE>EUR19572v101 (complete, for nutrition)</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Additional Regional Information" property="Registry No." attribute="No. 2" header="Register" language="English">
+         <VALUE>DEV Formula</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Additional Regional Information" property="Registry No." attribute="No. 3" header="Description" language="English">
+         <VALUE>DPE-8551803v200 (declaration for soy sauce string)</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Additional Regional Information" property="Registry No." attribute="No. 3" header="Register" language="English">
+         <VALUE>DEV Formula</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Additional Regional Information" property="Registry No." attribute="No. 4" header="Description" language="English">
+         <VALUE>EUR19572v102 (declaration for Dry Component, w/o Soy Sauce</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Additional Regional Information" property="Registry No." attribute="No. 4" header="Register" language="English">
+         <VALUE>DEV Formula</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="English">
+         <VALUE>Noodles in a Chicken and Mushroom flavour sauce with vegetables and a little sachet of soy sauce.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Exemption Flags" property="Exempt from Artwork" attribute="   -   " header="Present" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Exemption Flags" property="Exempt from NEP Reporting" attribute="   -   " header="Present" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Vitality Passport Input" property="Added Sugars" attribute="   -   " header="Typical/100g as prep" language="English">
+         <VALUE>0.45</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Size Information" property="Serving Size" attribute="Metric (g) - As prep" header="UOM" language="English">
+         <VALUE>G</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Size Information" property="Serving Size" attribute="Metric (g) - As prep" header="per Serving" language="English">
+         <VALUE>385</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat" attribute="   -   " header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat" attribute="   -   " header="per 100g as prep" language="English">
+         <VALUE>5,43</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Protein" attribute="   -   " header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Protein" attribute="   -   " header="per 100g as prep" language="English">
+         <VALUE>3,16</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kJ" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kJ" header="per 100g as prep" language="English">
+         <VALUE>587</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kcal" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kcal" header="per 100g as prep" language="English">
+         <VALUE>142</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate" attribute="   -   " header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate" attribute="   -   " header="per 100g as prep" language="English">
+         <VALUE>19,38</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate" attribute="including fibre" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate" attribute="including fibre" header="per 100g as prep" language="English">
+         <VALUE>20,53</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Cholesterol" attribute="   -   " header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Cholesterol" attribute="   -   " header="per 100g as prep" language="English">
+         <VALUE>0,17</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fibre" attribute="Dietary" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fibre" attribute="Dietary" header="per 100g as prep" language="English">
+         <VALUE>1,15</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Salt" attribute="as NaCl" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE>Sodium x 2,5</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Salt" attribute="as NaCl" header="per 100g as prep" language="English">
+         <VALUE>0,63</VALUE>
+         <UOM>g</UOM>
+         <NOTE>Sodium x 2,5</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Sodium" attribute="mg" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Sodium" attribute="mg" header="per 100g as prep" language="English">
+         <VALUE>249</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate of which" attribute="Sugars" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate of which" attribute="Sugars" header="per 100g as prep" language="English">
+         <VALUE>1,22</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="SAFA" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="SAFA" header="per 100g as prep" language="English">
+         <VALUE>2,64</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="Trans" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="Trans" header="per 100g as prep" language="English">
+         <VALUE>0,027</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Potassium" attribute="   -   " header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Potassium" attribute="   -   " header="per 100g as prep" language="English">
+         <VALUE>211</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Information" property="Variable serving size" attribute="   -   " header="Present" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Information" property="Product is consumed as sold" attribute="   -   " header="Present" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Meat" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Meat" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Alcohol" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Alcohol" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Irradiation" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Irradiation" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Kosher" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Kosher" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Ovo Lacto Vegetarian" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Ovo Lacto Vegetarian" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Vegan" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Vegan" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Hal-al" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Hal-al" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Lacto Vegetarian" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Lacto Vegetarian" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Gluten Free" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Gluten Free" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="English">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Value" language="English">
+         <VALUE>114</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Value" language="English">
+         <VALUE>1</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight per serving/portion" attribute="   -   " header="Value" language="English">
+         <VALUE>385</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="English">
+         <VALUE>None of that artificial colours or preservatives stuff</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="English">
+         <VALUE>No artificial colours or preservatives</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="English">
+         <VALUE>Suitable for vegetarians</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 4" attribute="   -   " header="Description" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Celery" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Celery" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Celery" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Celery" attribute="   -   " header="Contam." language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="Contam." language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Mustard/Mustard products" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Mustard/Mustard products" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Mustard/Mustard products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Mustard/Mustard products" attribute="   -   " header="Contam." language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Lupin and products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Lupin and products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Lupin and products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Lupin and products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Conditions" language="English">
+         <VALUE>Ambient</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="English">
+         <VALUE>BEST BEFORE END: SEE DATE ON LID/SIDE</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Value" language="English">
+         <VALUE>9</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On-Pack Nutrition Information as Sold" property="CON" attribute="   -   " header="Value" language="English">
+         <VALUE>RDL-020533[2]: SN Noodle Chicken Mush 01 CR13 da3</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On-Pack Nutrition Information as Sold" property="CUC" attribute="   -   " header="Value" language="English">
+         <VALUE>8997464[2]: PN KING POT CHICKEN &amp;MUSHROOM 2013 (CUC)</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On-Pack Nutrition Information as Sold" property="REF" attribute="   -   " header="Value" language="English">
+         <VALUE>66346704IS[4]: ALL CATEGORIES-ROUND TO NEAREST-FIC</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Fat" attribute="   -   " header="per 100g as sold" language="English">
+         <VALUE>18 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Protein" attribute="   -   " header="per 100g as sold" language="English">
+         <VALUE>10 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Energy" attribute="kJ" header="per 100g as sold" language="English">
+         <VALUE>1916 </VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Energy" attribute="kcal" header="per 100g as sold" language="English">
+         <VALUE>463 </VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Carbohydrate" attribute="   -   " header="per 100g as sold" language="English">
+         <VALUE>63 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Fibre" attribute="Dietary" header="per 100g as sold" language="English">
+         <VALUE>3,7 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Salt" attribute="as NaCl" header="per 100g as sold" language="English">
+         <VALUE>2 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Sodium" attribute="   -   " header="per 100g as sold" language="English">
+         <VALUE>0,81 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Carbohydrate of which" attribute="Sugars" header="per 100g as sold" language="English">
+         <VALUE>4 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="SAFA" header="per 100g as sold" language="English">
+         <VALUE>8,6 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On-Pack Nutrition Information as Prepared" property="Serving Size" attribute="   -   " header="Value" language="English">
+         <VALUE>385 G </VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On-Pack Nutrition Information as Prepared" property="CON" attribute="   -   " header="Value" language="English">
+         <VALUE>RDL-020533[2]: SN Noodle Chicken Mush 01 CR13 da3</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On-Pack Nutrition Information as Prepared" property="CUC" attribute="   -   " header="Value" language="English">
+         <VALUE>8997464[2]: PN KING POT CHICKEN &amp;MUSHROOM 2013 (CUC)</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On-Pack Nutrition Information as Prepared" property="REF" attribute="   -   " header="Value" language="English">
+         <VALUE>66346704IS[4]: ALL CATEGORIES-ROUND TO NEAREST-FIC</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat" attribute="   -   " header="per Serving" language="English">
+         <VALUE>21 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat" attribute="   -   " header="per 100g as prep" language="English">
+         <VALUE>5.4 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Protein" attribute="   -   " header="per Serving" language="English">
+         <VALUE>12 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Protein" attribute="   -   " header="per 100g as prep" language="English">
+         <VALUE>3.2 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kJ" header="per Serving" language="English">
+         <VALUE>2260 </VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kJ" header="per 100g as prep" language="English">
+         <VALUE>587 </VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kcal" header="per Serving" language="English">
+         <VALUE>547 </VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kcal" header="per 100g as prep" language="English">
+         <VALUE>142 </VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate" attribute="   -   " header="per Serving" language="English">
+         <VALUE>73 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate" attribute="   -   " header="per 100g as prep" language="English">
+         <VALUE>19 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fibre" attribute="Dietary" header="per Serving" language="English">
+         <VALUE>4.6 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fibre" attribute="Dietary" header="per 100g as prep" language="English">
+         <VALUE>1.2 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Salt" attribute="as NaCl" header="per Serving" language="English">
+         <VALUE>2.4 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Salt" attribute="as NaCl" header="per 100g as prep" language="English">
+         <VALUE>0.63 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate of which" attribute="Sugars" header="per Serving" language="English">
+         <VALUE>4.6 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate of which" attribute="Sugars" header="per 100g as prep" language="English">
+         <VALUE>1.2 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="SAFA" header="per Serving" language="English">
+         <VALUE>10 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="SAFA" header="per 100g as prep" language="English">
+         <VALUE>2.6 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat" attribute="   -   " header="%" language="English">
+         <VALUE>30</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat" attribute="   -   " header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat" attribute="   -   " header="Guideline Daily Amount" language="English">
+         <VALUE>70</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Protein" attribute="   -   " header="%" language="English">
+         <VALUE>24</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Protein" attribute="   -   " header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Protein" attribute="   -   " header="Guideline Daily Amount" language="English">
+         <VALUE>50</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kJ" header="%" language="English">
+         <VALUE>27</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kJ" header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kJ" header="Guideline Daily Amount" language="English">
+         <VALUE>8400</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kcal" header="%" language="English">
+         <VALUE>27</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kcal" header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kcal" header="Guideline Daily Amount" language="English">
+         <VALUE>2000</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate" attribute="   -   " header="%" language="English">
+         <VALUE>28</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate" attribute="   -   " header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate" attribute="   -   " header="Guideline Daily Amount" language="English">
+         <VALUE>260</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Salt" attribute="as NaCl" header="%" language="English">
+         <VALUE>40</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Salt" attribute="as NaCl" header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Salt" attribute="as NaCl" header="Guideline Daily Amount" language="English">
+         <VALUE>6</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate of which" attribute="Sugars" header="%" language="English">
+         <VALUE>5</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate of which" attribute="Sugars" header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate of which" attribute="Sugars" header="Guideline Daily Amount" language="English">
+         <VALUE>90</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat of which" attribute="SAFA" header="%" language="English">
+         <VALUE>50</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat of which" attribute="SAFA" header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat of which" attribute="SAFA" header="Guideline Daily Amount" language="English">
+         <VALUE>20</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="English">
+         <TEXT>Noodles in a Chicken and Mushroom flavour sauce with vegetables and a little sachet of soy sauce.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Additional Consumer Info" language="English">
+         <TEXT>POT, POT NOODLE and UNILEVER are registered trademarks.
+
+Make sure you eat it while it's hot. Do not reheat.
+
+YOU CAN MAKE IT
+Fill Level</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Symbols/Logos" language="English">
+         <TEXT>Company vegetarian logo
+
+Green dot
+
+Unilever U device
+
+Alufoil</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Nutrition" sub_section="(none)" text_header="Nutrition Information" language="English">
+         <TEXT>
+Typical values as prepared............per 100g............per pot**....................%* per pot**
+Energy
+Fat
+          of which saturates
+Carbohydrate
+          of which sugars
+Fibre
+Protein
+Salt
+
+*% of Reference intake of an average adult (8400kJ/2000kcal)
+**Pot makes up to 385g after preparation with water = 1 portion
+
+FRONT OF PACK:
+
+Each pot contains
+Energy.............Fat.........Saturates.........Sugars..........Salt
+kJ
+kcal.................g...............g..................g................g
+%*.................%*............%*...............%*.............%*
+
+Per 100g: xxxkJ/xxxkcal
+
+Please take figures for nutrition table from "on pack nutrition information as prepared" section. </TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="English">
+         <TEXT>Ingredients (after preparation):
+
+Noodles:
+Noodles (51%) [WHEAT flour, palm fat, salt, firming agents (potassium carbonate, sodium carbonate)].
+
+Sauce and Vegetables:
+Water, maltodextrin, WHEAT flour, vegetables (2.7%) [mushrooms (1.5%), sweetcorn, onion powder], potassium chloride, flavour enhancers (monosodium glutamate, disodium inosinate, disodium guanylate), flavourings (contain WHEAT, MILK), sugar, skimmed MILK powder, salt, palm fat, yeast powder (contains WHEAT, BARLEY), herbs, acid (citric acid), mushroom juice concentrate.
+
+Sachet:
+Soy sauce (1%) [water, soy sauce (SOYBEANS, WHEAT), salt, molasses, sugar, acid (acetic acid)].
+
+May contain egg, celery and mustard.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Instructions for Use" language="English">
+         <TEXT>1. RIP OFF LID. Whip out the sachet. Add boiling water to fill level. Leave alone for 2 mins.
+2. STIR. Leave for another 2 mins.
+3. STIR AGAIN. Find sachet, add contents.
+4. GRAB FORK and dig in.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="English">
+         <TEXT>Store in a cool, dry place (hint: try the cupboard)</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="English">
+         <TEXT>www.potnoodle.com
+
+Quality: If it's in perfect condition, happy days. If not, have a moan at the customer care department. And don't forget to quote the code on the pot so we know who to send back to noodle school.
+
+Unilever UK, Freepost ADM3940, London SW1A 1YR.
+Unilever Ireland, Citywest, Dublin 24.
+
+Comments or questions? (UK) Call free on 0800 032 3251, (IE) Callsave 1850 812030. Mon-Fri 8am-6pm.</TEXT>
+      </TEXT_DATA>
+  </CON>
+</CU>

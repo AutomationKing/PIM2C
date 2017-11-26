@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/curvesapi-1.03.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/log4j.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="lib/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="lib/poi-examples-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="lib/poi-excelant-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="lib/poi-scratchpad-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="lib/testng-6.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.hamcrest.core_1.1.0.v20090501071000.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-htmlunit-driver-2.46.0.jar"/>
+	<classpathentry kind="lib" path="lib/htmlunit-2.10.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/ant-1.9.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/ant-launcher-1.9.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/aopalliance-repackaged-2.4.0-b09.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/asm-5.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/cglib-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/commons-digester-1.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/commons-validator-1.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/cssparser-0.9.18.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/cucumber-core-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/cucumber-java-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/eyes_selenium_java_2_51_1.zip"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/eyes-common-java-2.51.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/eyes-connectivity-java-jersey2x-2.51.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/eyes-sdk-java-jersey2x-2.51.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/eyes-selenium-java-2.51.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/hk2-api-2.4.0-b09.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/hk2-locator-2.4.0-b09.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/hk2-utils-2.4.0-b09.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/htmlunit-2.21.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/htmlunit-driver-2.21.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/imgscalr-lib-4.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/jackson-annotations-2.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/jackson-core-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/jackson-databind-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/java-client-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/javax.inject-2.4.0-b09.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/jersey-apache-connector-2.16.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/jersey-client-2.16.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/jersey-common-2.16.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/jersey-guava-2.16.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/jetty-io-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/jetty-util-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/neko-htmlunit-2.21.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/selenium-api-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/selenium-chrome-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/selenium-edge-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/selenium-firefox-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/selenium-ie-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/selenium-leg-rc-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/selenium-remote-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/selenium-safari-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/selenium-support-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium visual testing/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

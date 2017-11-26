@@ -1,0 +1,1955 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Cognizant Technology Solutions</Author>
+  <LastAuthor>Cognizant</LastAuthor>
+  <Created>2016-12-05T17:09:34Z</Created>
+  <LastSaved>2016-12-19T11:33:46Z</LastSaved>
+  <Company>Cognizant Technology Solutions</Company>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7455</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s60" ss:Name="Normal_Sheet1">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s65">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:CharSet="162" x:Family="Swiss" ss:Size="9"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#DA9694" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#DDD9C4" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#DDD9C4" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#DA9694" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#DDD9C4" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#DDD9C4" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s79" ss:Parent="s60">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s81">
+   <Alignment ss:Vertical="Bottom"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s82">
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s83">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#DDD9C4" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s84">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s85">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#DDD9C4" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s86">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s87">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s88">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Generic Attributes">
+  <Table x:FullColumns="1" x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="70.5"/>
+   <Column ss:Width="69.75"/>
+   <Column ss:Width="112.5"/>
+   <Column ss:Width="88.5"/>
+   <Column ss:Width="83.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="114"/>
+   <Column ss:AutoFitWidth="0" ss:Width="83.25"/>
+   <Column ss:Width="62.25"/>
+   <Column ss:Width="137.25"/>
+   <Column ss:Width="122.25"/>
+   <Column ss:Width="69.75"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="69"/>
+   <Column ss:Width="180"/>
+   <Column ss:Width="183.75"/>
+   <Column ss:Width="156.75"/>
+   <Column ss:Width="58.5"/>
+   <Column ss:Width="84.75"/>
+   <Column ss:Width="63.75"/>
+   <Column ss:Width="90.75"/>
+   <Column ss:Width="63.75"/>
+   <Column ss:Width="90.75"/>
+   <Column ss:Width="63.75"/>
+   <Column ss:Width="92.25"/>
+   <Column ss:Width="136.5"/>
+   <Column ss:Width="106.5"/>
+   <Column ss:Width="79.5"/>
+   <Column ss:Width="129.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="169.5"/>
+   <Column ss:Width="195"/>
+   <Column ss:Width="104.25"/>
+   <Column ss:Width="113.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="119.25"/>
+   <Column ss:Width="127.5"/>
+   <Column ss:Width="99"/>
+   <Column ss:Width="85.5"/>
+   <Column ss:Width="112.5"/>
+   <Column ss:Width="150"/>
+   <Column ss:Width="131.25"/>
+   <Column ss:Width="182.25"/>
+   <Column ss:Width="223.5"/>
+   <Column ss:Width="150"/>
+   <Column ss:Width="116.25" ss:Span="1"/>
+   <Column ss:Index="45" ss:Width="171"/>
+   <Column ss:Width="182.25"/>
+   <Column ss:Width="85.5"/>
+   <Column ss:Width="110.25"/>
+   <Column ss:Width="113.25"/>
+   <Column ss:Width="107.25"/>
+   <Column ss:Width="154.5"/>
+   <Column ss:Width="96.75"/>
+   <Column ss:Width="78"/>
+   <Column ss:Width="60"/>
+   <Column ss:Width="53.25"/>
+   <Column ss:Width="81"/>
+   <Column ss:Width="114.75"/>
+   <Column ss:Width="67.5" ss:Span="1"/>
+   <Column ss:Index="60" ss:Width="66" ss:Span="1"/>
+   <Column ss:Index="62" ss:Width="157.5"/>
+   <Column ss:Width="236.25"/>
+   <Column ss:Width="153.75"/>
+   <Column ss:Width="132.75"/>
+   <Column ss:Width="127.5"/>
+   <Column ss:Width="255.75"/>
+   <Column ss:Width="254.25"/>
+   <Column ss:Width="200.25"/>
+   <Column ss:Width="198"/>
+   <Column ss:Width="174.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="234.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="247.5"/>
+   <Column ss:Width="270.75"/>
+   <Column ss:Width="191.25"/>
+   <Column ss:Width="115.5"/>
+   <Column ss:Width="139.5"/>
+   <Column ss:Width="63"/>
+   <Column ss:Width="89.25"/>
+   <Column ss:Width="249" ss:Span="1"/>
+   <Column ss:Index="82" ss:Width="40.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="69"/>
+   <Column ss:Width="32.25"/>
+   <Column ss:Width="57.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="43.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="68.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="71.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="65.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="72.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="84"/>
+   <Column ss:Width="73.5"/>
+   <Column ss:Width="93"/>
+   <Column ss:Width="147"/>
+   <Column ss:Width="151.5"/>
+   <Column ss:Width="73.5"/>
+   <Column ss:Width="233.25"/>
+   <Column ss:Width="254.25"/>
+   <Column ss:Width="108.75"/>
+   <Column ss:Width="40.5"/>
+   <Column ss:Width="76.5"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="96.75"/>
+   <Column ss:Width="129"/>
+   <Column ss:Width="78.75"/>
+   <Column ss:Width="64.5"/>
+   <Column ss:Width="102"/>
+   <Column ss:Width="108"/>
+   <Column ss:Width="160.5"/>
+   <Column ss:Width="74.25"/>
+   <Column ss:Width="69.75"/>
+   <Column ss:Width="110.25" ss:Span="1"/>
+   <Column ss:Index="114" ss:Width="108"/>
+   <Column ss:Width="129.75"/>
+   <Column ss:Width="91.5"/>
+   <Column ss:Width="44.25"/>
+   <Column ss:Width="81"/>
+   <Column ss:Width="88.5"/>
+   <Column ss:Width="57.75"/>
+   <Column ss:Width="67.5"/>
+   <Column ss:Width="112.5"/>
+   <Column ss:Width="167.25"/>
+   <Column ss:Width="269.25"/>
+   <Column ss:Width="241.5"/>
+   <Column ss:Width="57"/>
+   <Column ss:Width="107.25"/>
+   <Column ss:Width="129"/>
+   <Column ss:Width="153"/>
+   <Column ss:Width="63.75"/>
+   <Column ss:Width="88.5"/>
+   <Column ss:Width="60.75"/>
+   <Column ss:Width="85.5"/>
+   <Column ss:Width="63"/>
+   <Column ss:Width="87.75"/>
+   <Column ss:Width="95.25"/>
+   <Column ss:Width="120"/>
+   <Column ss:Width="118.5"/>
+   <Column ss:Width="96"/>
+   <Column ss:Width="102"/>
+   <Column ss:Width="54.75"/>
+   <Column ss:Width="72.75"/>
+   <Column ss:Width="63.75"/>
+   <Column ss:Width="82.5"/>
+   <Column ss:Width="104.25"/>
+   <Column ss:Width="100.5"/>
+   <Column ss:Width="83.25"/>
+   <Column ss:Width="109.5"/>
+   <Column ss:Width="83.25"/>
+   <Column ss:Width="109.5"/>
+   <Column ss:Width="57.75"/>
+   <Column ss:Width="69"/>
+   <Column ss:Width="71.25"/>
+   <Column ss:Width="41.25"/>
+   <Column ss:Width="161.25"/>
+   <Column ss:Width="48.75"/>
+   <Column ss:Width="102.75"/>
+   <Column ss:Width="98.25"/>
+   <Column ss:Width="89.25"/>
+   <Column ss:Width="109.5"/>
+   <Column ss:Width="91.5"/>
+   <Column ss:Width="114"/>
+   <Column ss:Width="118.5"/>
+   <Column ss:Width="113.25"/>
+   <Column ss:Width="86.25"/>
+   <Column ss:Width="87"/>
+   <Column ss:Width="71.25"/>
+   <Column ss:Width="63.75"/>
+   <Column ss:Width="58.5"/>
+   <Column ss:Width="118.5"/>
+   <Column ss:Width="173.25"/>
+   <Column ss:Index="173" ss:Width="102.75"/>
+   <Column ss:Width="38.25"/>
+   <Column ss:Width="123"/>
+   <Column ss:Width="187.5"/>
+   <Column ss:Width="70.5"/>
+   <Column ss:Width="132.75"/>
+   <Column ss:Width="132"/>
+   <Column ss:Width="117"/>
+   <Column ss:Width="60"/>
+   <Column ss:Width="115.5"/>
+   <Column ss:Width="86.25"/>
+   <Column ss:Width="141.75"/>
+   <Column ss:Width="98.25"/>
+   <Column ss:Width="153"/>
+   <Column ss:Width="201.75"/>
+   <Column ss:Width="256.5"/>
+   <Column ss:Width="157.5"/>
+   <Column ss:Width="212.25"/>
+   <Column ss:Width="48.75"/>
+   <Column ss:Width="103.5"/>
+   <Column ss:Width="84.75"/>
+   <Column ss:Width="140.25"/>
+   <Column ss:Width="39"/>
+   <Column ss:Width="93.75"/>
+   <Column ss:Width="121.5"/>
+   <Column ss:Width="176.25"/>
+   <Column ss:Width="154.5"/>
+   <Column ss:Width="210"/>
+   <Column ss:Width="158.25"/>
+   <Column ss:Width="213"/>
+   <Column ss:Width="66.75"/>
+   <Column ss:Width="122.25"/>
+   <Column ss:Width="46.5"/>
+   <Column ss:Width="101.25"/>
+   <Column ss:Width="78"/>
+   <Column ss:Width="79.5"/>
+   <Column ss:Width="56.25"/>
+   <Column ss:Width="203.25"/>
+   <Column ss:Width="258"/>
+   <Column ss:Width="57.75"/>
+   <Column ss:Width="113.25"/>
+   <Column ss:Width="180.75"/>
+   <Column ss:Width="55.5"/>
+   <Column ss:Width="110.25"/>
+   <Column ss:Width="263.25"/>
+   <Column ss:Width="318.75"/>
+   <Column ss:Width="34.5"/>
+   <Column ss:Width="202.5"/>
+   <Column ss:Width="257.25"/>
+   <Column ss:Width="126"/>
+   <Column ss:Width="181.5"/>
+   <Column ss:Width="74.25"/>
+   <Column ss:Width="129"/>
+   <Column ss:Width="100.5"/>
+   <Column ss:Width="156"/>
+   <Column ss:Width="95.25"/>
+   <Column ss:Width="150"/>
+   <Column ss:Width="198"/>
+   <Column ss:Width="253.5"/>
+   <Column ss:Width="83.25"/>
+   <Column ss:Width="138.75"/>
+   <Column ss:Width="39.75"/>
+   <Column ss:Width="94.5"/>
+   <Column ss:Index="237" ss:Width="102.75"/>
+   <Column ss:Width="47.25"/>
+   <Column ss:Width="102"/>
+   <Column ss:Width="45"/>
+   <Column ss:Width="99.75"/>
+   <Column ss:Width="76.5"/>
+   <Column ss:Width="131.25"/>
+   <Column ss:Width="101.25"/>
+   <Column ss:Width="156.75"/>
+   <Column ss:Width="152.25"/>
+   <Column ss:Width="207.75"/>
+   <Column ss:Width="95.25"/>
+   <Column ss:Width="150"/>
+   <Column ss:Width="75.75"/>
+   <Column ss:Width="130.5"/>
+   <Column ss:Width="60"/>
+   <Column ss:Width="115.5"/>
+   <Column ss:Width="96"/>
+   <Column ss:Width="150.75"/>
+   <Column ss:Width="159.75"/>
+   <Column ss:Width="289.5"/>
+   <Column ss:Width="268.5"/>
+   <Column ss:Width="323.25"/>
+   <Column ss:Width="173.25"/>
+   <Column ss:Width="115.5"/>
+   <Column ss:Width="170.25"/>
+   <Column ss:Width="150"/>
+   <Column ss:Width="156.75"/>
+   <Column ss:Width="169.5"/>
+   <Column ss:Width="148.5"/>
+   <Column ss:Width="168"/>
+   <Column ss:Width="156"/>
+   <Column ss:Width="111"/>
+   <Column ss:Width="128.25"/>
+   <Column ss:Width="159.75"/>
+   <Column ss:Width="160.5"/>
+   <Column ss:Width="108.75"/>
+   <Column ss:Width="135"/>
+   <Column ss:Width="132"/>
+   <Column ss:Width="129"/>
+   <Column ss:Width="143.25"/>
+   <Column ss:Width="126.75"/>
+   <Column ss:Width="105.75"/>
+   <Row ss:Height="30" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Target Market</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">IPGLN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Material Number</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">GTIN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Item Description</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Brand Name</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Is Ecom Product</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Target Market Country Name</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Global Trade Item Number</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Effective Date</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Product Type</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Manufacturer</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Additional Classification Agency Name</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Additional Classification Category Code</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Production Variant Effective Date</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Net Content</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Net Content UOM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Net Content1</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Net Content1 UOM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Net Content2</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Net Content2 UOM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Net Content3</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Net Content3 UOM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Non GTIN Pallet Gross Weight</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Non GTIN Pallet Height</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Pallet Type Code</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Quantity Of Layers Per Pallet</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Quantity Of Trade Items Per Pallet</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Quantity Of Trade Items Per Pallet Layer</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Non GTIN Pallet Depth</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Non GTIN Pallet Volume</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Non GTIN PalletWidth</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Non GTIN PalletNetWeight</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Packaging Type Code</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Packaging Weight</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Packaging Weight UOM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Number Of Servings Per Package</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Has Display Ready Packaging</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Packaging Marked Expiration Date Type</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Packaging Material Composition Quantity/UOM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Dangerous Goods Packing Group</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Packaging Material Code</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Diameter Of Packaging in (CM/MM)</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Quantity Of Next Lower Level Trade Item</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Has Batch Number</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Hazard Statement Code</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">GHS Signalwords  Code</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">GHS Description Code</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Precautionary Statement Codes</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Child Nutrition Flag</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Goes Well With</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Parent Item</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Child Item</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Country Of Origin</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Trade Item Group Code</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Barcode Type</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">EANUCCCode</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">EANUCC Type</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">City Of Origin</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Price Comparison Measurement</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Price Comparison Measurement Unit of Measure</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Price Comparison Content Type</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Classification Category Code</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Import Classification Value</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Delivery To Distribution Center Temperature Maximum</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Delivery To Distribution Center Temperature Minimum</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Delivery To Market Temperature Maximum</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Delivery To Market Temperature Minimum</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Special Handling Code Transportation</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">StorageHandlingTemperature Maximun/UnitOfMeasure</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Storage Handling Temperature Maximum</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">StorageHandlingTemperatureMinimum/UnitOfMeasure</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Storage Handling Temperature Minimum</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Flash Point Temperature</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Flash Point Temperature UOM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Gross Weight</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Gross Weight UOM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">QuantityOfCompleteLayersContainedInATradeItem</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">QuantityOfTradeItemsContainedInACompleteLayer</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Volume</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Volume UOM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Width</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Width UOM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Depth</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Depth UOM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Height</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Height UOM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Net Weight</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Net Weight UOM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Regulatory Act</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Regulatory Agency</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Community Visibility Date Time</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Consumer Availability Date Time</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">First Order Date</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Minimum Trade Item Life Span From Time Of Arrival</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MinimumTradeItemLifeSpanFromTimeOfProduction</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Selling Unit Of Measure</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Tax Rate</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Tax Type Agency</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Tax Type Code</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Tax Type Description</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Fat Percentage In Dry Matter</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">SAP Message ID</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">SAP Instance</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Interspec CU Part No</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Interspec Revision No</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Interspec Planned Effective Date</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">NPD Start Date</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">NPD End Date</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Interspec Net content </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Interspec Update Date</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ConSpec Part Number</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ConSpec Revision Number</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Interspec Volume </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Item no.</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Last changed by </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Last changed date</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Created by </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Created date </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Trade Item Group Code</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Alternate Item Classification Code</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Storage Handling Temperature Minimum/Unit Of Measure</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Does Trade Item Carry USD A Child Nutrition Label</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Fat Content</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Interspec Part Number</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Interspec Revision Number</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Interspec Planned Effective Date</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Layer Length</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Layer Length UoM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Layer Width</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Layer Width UoM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Layer Height</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Layer Height UoM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Layer Gross Weight</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Layer Gross Weight UoM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Commercialisation Date</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Last Modified Date </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Layer Data Uploaded</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Layer GTIN</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MD Ops Status</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MRDR Status</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ConSpec Part No</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ConSpec Revision No</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">NumberOfBaseUnits</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Lower Threshold</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Lower Threshold UOM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Upper Threshold</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Upper Threshold UOM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Age(group)</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Color Texture</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Perfume Type</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Texture</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Expiration date(Date until when)</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Shelf Life</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Start Availability Date</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">End Availability Date</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Delivery Lead Time</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">First Delivery Date Time</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Ordering Lead Time</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Ordering Lead Time UoM</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Order Quantity Minimum</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Order Quantity Multiple</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Interspec Part No</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ConsSpec Part No</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Contact Name</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">BrandOwner</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">PackNature</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Regulated Product Name</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">RegulatedProductName (Language)</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Celebrity</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Market</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Import Classification Type</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Next Lower Level Trade Item Information</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Stacking Factor</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Package Marks Environment</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Pallet Terms And Conditions</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Transport Stacking Factor</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">1VOT Name</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Short Description</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Product Description</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Trade Item Group Identification Description</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Additional Trade Item Description</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">SubBrand</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Functional Name</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Variant</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Product Color Description</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Dangerous Goods Shipping Name</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Dangerous Goods Technical Name</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Invoice Name</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Category</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Category Group</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">SAP PackNature</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Type Of CU</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Number Of Servings Per Package comments</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">GTIN Name</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Alternate Item Classification Scheme</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">SAP Name </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Unspecified Preparation Type Preparation Instructions</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Sector</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Flavor or Scent</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Product Designation</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Features And Notes</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Composition And Product Characteristics</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Application Area</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Gender</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Skin Type</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Hair Type</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Hue Hair</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Product Effects</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Format Of Packaging</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Product Shape (CONCENTRATE)</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Special Ingredients</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Recipe Product</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Quality Sort</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Product Prepacking</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Storage Temperature Conditions</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Storage Temperature Conditions When The Product Is Open</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Storage Conditions After Opening The Product Packaging</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Alternate Item Identification/Agency</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">1VOT KANA Translation</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Is Trade Item A PromotionalItem</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Is Trade Item Marked With Biocide</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">IsTradeItemMarkedWithCoffeeTax</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">IsPackagingMarkedReturnable</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">IsNetContentDeclarationIndicated</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">IsNonSoldTradeItemReturnable</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">IsDangerousSubstance</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">IsTradeItemAVariableUnit</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">IsTradeItemGeneticallyModified</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">IsTradeItemMarkedAsRecyclable</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">IsIngredientIrradiated</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Is Trade Item A Display Unit</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">IsTradeItemADespatchUnit</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">IsTradeItemAnInvoiceUnit</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">IsTradeItemAnOrderableUnit</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">DangerousGoodsIndicator</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Price On Pack Indicator</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Hero Image Name</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">FrontOn Packshot Image Name</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">DIN</Data></Cell>
+   </Row><Row>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Indonesia</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Unilever Indonesia</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">000000000008872287</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">00000007301537</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Klover</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Indonesia</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">10000356</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">03/29/2017</Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">PALLET</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Unilever</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Pallet</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">310</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">00012121002121,06001087364546,36001087361111,</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">00012121002121,06001087364546,36001087361111,</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">00012121002121,06001087364546,36001087361111,</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">06666589</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">European Article Number 8 (EAN)</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">31</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">EU-0000001385221548-000000000008872287-05000262137006-NO-7080001037222-S-30-0004A38D73D2E021ED6B5C80421671D84BC</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">EU</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">05/02/2017</Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">05/17/2017</Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">0000000730153748001000001000000000000730153ID</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">sit_user1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">5/2/2017 12:29 PM</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">sit_user1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">4/19/2017 12:17 PM</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>    
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">04/15/2017</Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">04/20/2017</Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Unilever Norway</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">S</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">310</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell> 
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">STC_Test</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Open Test</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">False</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+   </Row></Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Zoom>90</Zoom>
+   <LeftColumnVisible>255</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>4</ActiveRow>
+     <ActiveCol>298</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet><Worksheet ss:Name="PSO Attributes">
+  <Table   x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="70.5"/>
+   <Column ss:Width="69.75"/>
+   <Column ss:Width="112.5"/>
+   <Column ss:Width="88.5"/>
+   <Column ss:Width="83.25" ss:Span="1"/>
+   <Column ss:Index="7" ss:Width="62.25"/>
+   <Column ss:Width="120.75"/>
+   <Column ss:Width="175.5"/>
+   <Column ss:Width="55.5"/>
+   <Column ss:Width="110.25"/>
+   <Column ss:Width="88.5"/>
+   <Column ss:Width="144"/>
+   <Column ss:Width="45"/>
+   <Column ss:Width="99.75"/>
+   <Column ss:Width="30"/>
+   <Column ss:Width="84"/>
+   <Column ss:Width="96.75"/>
+   <Column ss:Width="151.5"/>
+   <Column ss:Width="96.75"/>
+   <Column ss:Width="151.5"/>
+   <Column ss:Width="96.75"/>
+   <Column ss:Width="151.5"/>
+   <Column ss:Width="96.75"/>
+   <Column ss:Width="151.5"/>
+   <Column ss:Width="96.75"/>
+   <Column ss:Width="151.5"/>
+   <Column ss:Width="96.75"/>
+   <Column ss:Width="151.5"/>
+   <Column ss:Width="150"/>
+   <Column ss:Width="205.5"/>
+   <Column ss:Width="66.75"/>
+   <Column ss:Width="122.25"/>
+   <Column ss:Width="112.5"/>
+   <Column ss:Width="167.25"/>
+   <Column ss:Width="99"/>
+   <Column ss:Width="153.75"/>
+   <Column ss:Width="105"/>
+   <Column ss:Width="160.5"/>
+   <Column ss:Width="143.25"/>
+   <Column ss:Width="198"/>
+   <Column ss:Width="168"/>
+   <Column ss:Width="223.5"/>
+   <Column ss:Width="84"/>
+   <Row ss:Height="30" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Target Market</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">IPGLN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Material Number</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">GTIN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Item Description</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Brand Name</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">is Ecom Porduct </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">1VOT eCommerce Name</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">eSubbrand</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">eFunctionalName</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">eVariant</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">eSize</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Feature &amp; Benefit 1</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Feature &amp; Benefit 2</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Feature &amp; Benefit 3</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Feature &amp; Benefit 4</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Feature &amp; Benefit 5</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Feature &amp; Benefit 6</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Long Form Product Description</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Search Terms</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Number 1 Search Term</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Search Keyword List</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Priority Search Terms</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Brand Provided Search Terms</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Combined Brand SKL Search Terms</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">PSO Subcategory</Data></Cell>
+   </Row><Row ss:Height="24">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Indonesia</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">8999999017002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">000000000008872287</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">00000007301537</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Klover</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Hello eSize_Test</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">eSize_Test</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">FB1_TEST</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">FB2_TEST</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">FB3_TEST</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">FB4_Test</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">FB5_Test</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">FB6_Test</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text.This is dummy.</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">This is dummy Text.This is dummy Text.This is dummy Text.This is dummy Text</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Search Key_Test</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+   </Row></Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Zoom>90</Zoom>
+   <LeftColumnVisible>38</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>5</ActiveRow>
+     <ActiveCol>42</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet><Worksheet ss:Name="Flags">
+  <Table   x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="70.5"/>
+   <Column ss:Width="69.75"/>
+   <Column ss:Width="112.5"/>
+   <Column ss:Width="88.5"/>
+   <Column ss:Width="83.25"/>
+   <Column ss:Width="62.25"/>
+   <Column ss:Width="123" ss:Span="4"/>
+   <Column ss:Index="12" ss:Width="147.75" ss:Span="3"/>
+   <Column ss:Index="16" ss:Width="123" ss:Span="1"/>
+   <Column ss:Index="18" ss:Width="147"/>
+   <Column ss:Width="147.75"/>
+   <Column ss:Width="120"/>
+   <Column ss:Width="102"/>
+   <Row ss:Height="30" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Target Market</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">IPGLN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Material Number</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">GTIN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Item Description</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Brand Name</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Is Ecom Product</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Is BB Products</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">BB Enrichment Complete</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">BB Enrichment Approved</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">BB Manager Comments</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MD Ops Enrichment Complete</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MD Ops Enrichment Approved</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MD Ops Manager Comments</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">eComm Enrichment Complete</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">eComm Enrichment Approved</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">eComm Manager Comments</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Legal And Technical Approved</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Legal and Technical Comments</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Consumer Unit Indicator</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Core of the core Flag</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">NPD Flag</Data></Cell>
+   </Row><Row>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Indonesia</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">8999999017002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">000000000008872287</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">00000007301537</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Klover</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">BB manager Comments</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">ECom Manager Comments</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">LTAC Comments</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+   </Row>     </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Zoom>90</Zoom>
+   <LeftColumnVisible>14</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+     <RangeSelection>R2C1:R2C22</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet><Worksheet ss:Name="Food and Beverage">
+  <Table x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="71.25"/>
+   <Column ss:Width="69.75"/>
+   <Column ss:Width="112.5"/>
+   <Column ss:Width="88.5"/>
+   <Column ss:Width="83.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="83.25"/>
+   <Column ss:Width="62.25"/>
+   <Column ss:Width="114"/>
+   <Column ss:Width="127.5"/>
+   <Column ss:Width="144.75"/>
+   <Column ss:Width="262.5"/>
+   <Column ss:Width="158.25"/>
+   <Column ss:Width="109.5"/>
+   <Column ss:Width="138"/>
+   <Column ss:Width="88.5"/>
+   <Column ss:Width="117"/>
+   <Column ss:Width="149.25"/>
+   <Column ss:Width="59.25"/>
+   <Column ss:Width="87"/>
+   <Column ss:Width="303"/>
+   <Column ss:Width="205.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="681"/>
+   <Column ss:Width="156"/>
+   <Column ss:Width="1342.5"/>
+   <Column ss:Width="164.25"/>
+   <Column ss:Width="125.25"/>
+   <Column ss:Width="180.75"/>
+   <Column ss:Width="119.25"/>
+   <Column ss:Width="174"/>
+   <Column ss:Width="69.75"/>
+   <Column ss:Width="124.5"/>
+   <Column ss:Width="85.5"/>
+   <Column ss:Width="141"/>
+   <Column ss:Width="36"/>
+   <Column ss:Width="90.75"/>
+   <Column ss:Width="120.75"/>
+   <Column ss:Width="175.5"/>
+   <Column ss:Width="99"/>
+   <Column ss:Width="153.75"/>
+   <Column ss:Width="86.25"/>
+   <Column ss:Width="141.75"/>
+   <Column ss:Width="456.75"/>
+   <Column ss:Width="93.75"/>
+   <Column ss:Width="507"/>
+   <Column ss:Width="93.75"/>
+   <Column ss:Width="158.25"/>
+   <Column ss:Width="93.75"/>
+   <Column ss:Width="385.5"/>
+   <Column ss:Width="93.75"/>
+   <Column ss:Width="136.5"/>
+   <Column ss:Width="93.75"/>
+   <Column ss:Width="402"/>
+   <Column ss:Width="93.75"/>
+   <Column ss:Width="57"/>
+   <Column ss:Width="93.75"/>
+   <Column ss:Width="39"/>
+   <Column ss:Width="93.75"/>
+   <Column ss:Width="39"/>
+   <Column ss:Width="93.75"/>
+   <Column ss:Width="44.25"/>
+   <Column ss:Width="99"/>
+   <Column ss:Width="123.75"/>
+   <Column ss:Width="150.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="42.75" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Target Market</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">IPGLN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Material Number</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">GTIN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Item Description</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Brand Name</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Is Ecom Product</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Is Ingredient Irradiated</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Handling Instruction Code</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Preservation Technique Code</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Does The Trade Item Carry USD A Child Nutrition Label</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Number of Servings per Package</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Interspec Net Content</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Interspec Net Content UOM</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Interspec Volume</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Interspec Volume UOM</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Product is Consummed as Sold</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Fat Content</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Fat Content UOM</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Consumer Storage Instructions</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Marketing Message </Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Ingredient Statement </Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Regulated Product Name </Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Preparation Instructions</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Health Claims</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Nutritional Claim</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Claims</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Communication Address</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Instructions For Use</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Label Description</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Claim 1</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Claim 2</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Claim 3</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Claim 4</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Claim 5</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Claim 6</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Claim 7</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Claim 8</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Claim 9</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Claim 10</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Durability After Opening </Data></Cell>
+    <Cell ss:StyleID="s74"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Times New Roman"
+        x:Family="Roman" html:Size="7" html:Color="#000000"> </Font><Font
+        html:Color="#000000">Durability After Opening UoM</Font></B></ss:Data></Cell>
+    <Cell ss:StyleID="s74"/>
+   </Row></Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Zoom>90</Zoom>
+   <LeftColumnVisible>52</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveCol>6</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet><Worksheet ss:Name="Nutritional Information">
+  <Table 
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="71.25"/>
+   <Column ss:Width="243"/>
+   <Column ss:Width="112.5"/>
+   <Column ss:Width="93.75"/>
+   <Column ss:Width="83.25" ss:Span="1"/>
+   <Column ss:Index="7" ss:Width="62.25"/>
+   <Column ss:StyleID="s66" ss:Width="89.25"/>
+   <Column ss:StyleID="s66" ss:Width="94.5"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="149.25"/>
+   <Column ss:StyleID="s66" ss:Width="118.5"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="147"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="165"/>
+   <Column ss:StyleID="s66" ss:Width="129"/>
+   <Row ss:Height="30" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Target Market</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">IPGLN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Material Number</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">GTIN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Item Description</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Brand Name</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Is Ecom Product</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Preparation State </Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Serving Suggestion</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Nutrient Description (Type)</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Measurement Precision</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Nutrient Quantity Contained</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Nutrient Quantity Contained UOM</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Percentage of Daily Intake</Data></Cell>
+   </Row><Row>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Indonesia</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">8999999017002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">000000000008872287</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">00000007301537</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Klover</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>90</Zoom>
+   <LeftColumnVisible>2</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveCol>14</ActiveCol>
+     <RangeSelection>C15</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet><Worksheet ss:Name="Allergen Information">
+  <Table   x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="71.25"/>
+   <Column ss:Width="201.75"/>
+   <Column ss:Width="112.5"/>
+   <Column ss:Width="88.5"/>
+   <Column ss:Width="83.25" ss:Span="1"/>
+   <Column ss:Index="7" ss:Width="62.25"/>
+   <Column ss:Width="134.25"/>
+   <Column ss:Width="240"/>
+   <Row ss:Height="24" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Target Market</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">IPGLN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Material Number</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">GTIN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Item Description</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Brand Name</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">is Ecom Product</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Level of Containment </Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Allergen Description Type</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Allergen Specification Name</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Allergen Specification Agency</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Allergen Type</Data></Cell>
+   </Row><Row>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Indonesia</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Unilever Indonesia</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">000000000008872287</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">00000007301537</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Klover</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Zoom>90</Zoom>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>8</ActiveRow>
+     <ActiveCol>7</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet><Worksheet ss:Name="Serving Information">
+  <Table   x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s69" ss:DefaultRowHeight="15">
+   <Column ss:Width="71.25"/>
+   <Column ss:Width="243"/>
+   <Column ss:Width="112.5"/>
+   <Column ss:Width="88.5"/>
+   <Column ss:Width="83.25" ss:Span="1"/>
+   <Column ss:Index="7" ss:Width="62.25"/>
+   <Column ss:StyleID="s69" ss:AutoFitWidth="0" ss:Width="103.5"/>
+   <Column ss:StyleID="s69" ss:AutoFitWidth="0" ss:Width="120"/>
+   <Column ss:StyleID="s69" ss:Width="117.75"/>
+   <Row ss:Height="24" ss:StyleID="s68">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Target Market</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">IPGLN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Material Number</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">GTIN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Item Description</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Brand Name</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Is Ecom Product</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Serving Instance</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Preparation State </Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Household Serving Size </Data></Cell>
+   </Row><Row>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Indonesia</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">8999999017002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">000000000008872287</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">00000007301537</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Klover</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+   </Row>   
+   </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Zoom>90</Zoom>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveCol>5</ActiveCol>
+     <RangeSelection>R1C6:R1C7</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet> <Worksheet ss:Name="HPC Information">
+  <Table 
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="84"/>
+   <Column ss:AutoFitWidth="0" ss:Width="77.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="99"/>
+   <Column ss:AutoFitWidth="0" ss:Width="86.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="141" ss:Span="2"/>
+   <Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="75.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="321.75"/>
+   <Column ss:Width="214.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="177"/>
+   <Column ss:Width="168"/>
+   <Column ss:Width="120.75"/>
+   <Column ss:Width="175.5"/>
+   <Column ss:Width="146.25"/>
+   <Column ss:Width="201.75"/>
+   <Column ss:Width="180.75"/>
+   <Column ss:Width="235.5"/>
+   <Column ss:Width="114.75"/>
+   <Column ss:Width="169.5"/>
+   <Column ss:Width="44.25"/>
+   <Column ss:Width="99"/>
+   <Column ss:Width="145.5"/>
+   <Column ss:Width="146.25"/>
+   <Column ss:Width="142.5"/>
+   <Column ss:Width="110.25"/>
+   <Column ss:Width="108"/>
+   <Column ss:Width="100.5"/>
+   <Column ss:Width="51.75"/>
+   <Column ss:Width="72"/>
+   <Column ss:Width="150"/>
+   <Column ss:Width="211.5"/>
+   <Column ss:Width="69"/>
+   <Column ss:Width="86.25"/>
+   <Column ss:Width="141.75"/>
+   <Column ss:Width="100.5" ss:Span="3"/>
+   <Column ss:Index="40" ss:Width="96.75"/>
+   <Column ss:Width="151.5"/>
+   <Column ss:Width="123.75" ss:Span="4"/>
+   <Column ss:Index="47" ss:Width="35.25"/>
+   <Column ss:Width="188.25"/>
+   <Column ss:Width="243.75"/>
+   <Column ss:Width="188.25"/>
+   <Column ss:Width="243.75"/>
+   <Column ss:Width="188.25"/>
+   <Column ss:Width="243.75"/>
+   <Column ss:Width="188.25"/>
+   <Column ss:Width="243.75"/>
+   <Column ss:Width="188.25"/>
+   <Column ss:Width="243.75"/>
+   <Column ss:Width="188.25"/>
+   <Column ss:Width="243.75"/>
+   <Column ss:Width="188.25"/>
+   <Column ss:Width="243.75"/>
+   <Column ss:Width="188.25"/>
+   <Column ss:Width="243.75"/>
+   <Column ss:Width="99" ss:Span="3"/>
+   <Column ss:Index="68" ss:Width="44.25"/>
+   <Column ss:Width="109.5"/>
+   <Column ss:Width="165"/>
+   <Column ss:Width="112.5" ss:Span="1"/>
+   <Column ss:Index="73" ss:Width="117" ss:Span="1"/>
+   <Column ss:Index="75" ss:Width="139.5" ss:Span="1"/>
+   <Column ss:Index="77" ss:Width="144.75" ss:Span="1"/>
+   <Column ss:Index="79" ss:Width="43.5"/>
+   <Column ss:Width="156.75"/>
+   <Column ss:Width="58.5"/>
+   <Row ss:Height="30" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Target Market</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">IPGLN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Material Number</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">GTIN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Item Description</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Brand Name</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Is Ecom Product</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Non-Food Ingredient Statement </Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">HPC Usage Instructions </Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">HPC Storage Instructions</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Hazard Statement Description</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Precautionary Statement Description</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">HPC Safety Instructions</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Warning</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Extended Allergen Type Code</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Allergen Specification Agency</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Allergen Specification Name </Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Level Of Containment </Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Any Allergen Warning</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">ID Safety Data Sheet</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">ICPE Code</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">ICPE Sub Code</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Dangerous Substance Quantity</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Classification code on the transportion area</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">State of Good</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Main Component</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Danger Label Code 1</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Danger Label Code 2</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Danger Label Code 3</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Danger Label Code 4</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Category Of Danger</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Hazard Statement Code 1</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Hazard Statement Code 2</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Hazard Statement Code 3</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Hazard Statement Code 4</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Hazard Statement Code 5</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">CAS ID</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Precautionary Statement Description 1</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Precautionary Statement Description 2</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Precautionary Statement Description 3</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Precautionary Statement Description 4</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Precautionary Statement Description 5</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Precautionary Statement Description 6</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Precautionary Statement Description 7</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Precautionary Statement Description 8</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Danger Picto Code 1</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Danger Picto Code 2</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Danger Picto Code 3</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Danger Picto Code 4</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Exact PH</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Standard Advice Word</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Biocide Agreement No</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Type of Biocide Product</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Toxicity For Aquatic Life Flag</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Toxicity For Aquatic Life Code</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Code LQ</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Dangerous Goods Quantity UoM</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Type Of Gas</Data></Cell>
+   </Row><Row>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Indonesia</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Unilever Indonesia</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">000000000008872287</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">00000007301537</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Klover</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>    
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String"></Data></Cell>
+   </Row></Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Zoom>90</Zoom>
+   <LeftColumnVisible>1</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveCol>5</ActiveCol>
+     <RangeSelection>R1C6:R1C7</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet> <Worksheet ss:Name="Retailer Specific Attributes">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase"
+    ss:RefersTo="='Retailer Specific Attributes'!R1C1:R26C1" ss:Hidden="1"/>
+  </Names>
+  <Table x:FullColumns="1" x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="70.5"/>
+   <Column ss:Width="69.75"/>
+   <Column ss:Width="112.5"/>
+   <Column ss:Width="88.5"/>
+   <Column ss:Width="83.25" ss:Span="2"/>
+   <Column ss:Index="8" ss:Width="62.25"/>
+   <Column ss:Width="72.75"/>
+   <Column ss:Width="107.25"/>
+   <Column ss:Width="102.75"/>
+   <Column ss:Width="144.75"/>
+   <Column ss:Width="200.25"/>
+   <Column ss:Width="168.75"/>
+   <Column ss:Width="224.25"/>
+   <Column ss:Width="31.5"/>
+   <Column ss:Width="57"/>
+   <Column ss:Width="117.75"/>
+   <Column ss:Width="108"/>
+   <Column ss:Width="46.5"/>
+   <Column ss:Width="104.25"/>
+   <Column ss:Width="126.75"/>
+   <Column ss:Width="92.25"/>
+   <Column ss:Width="147"/>
+   <Column ss:Width="144.75"/>
+   <Column ss:Width="200.25"/>
+   <Column ss:Width="60.75"/>
+   <Column ss:Width="138.75"/>
+   <Column ss:Width="193.5"/>
+   <Column ss:Width="93"/>
+   <Column ss:Width="60.75"/>
+   <Column ss:Width="162"/>
+   <Column ss:Width="119.25"/>
+   <Column ss:Width="91.5"/>
+   <Row ss:Height="30" ss:StyleID="s63">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Target Market</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">IPGLN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Material Number</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">GTIN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Item Description</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Brand Name</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Is Ecom Product</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Retailer Name</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Start Availability Date</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">End Availability Date</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Retailer1VOTEcommerceTitle</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Retailer Specific Brand Description</Data></Cell>    
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Retailer Power SKU Flag</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Retailer Product Code</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">List Price</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">ListPriceBasisPerUnit</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">ListPriceBasisPerUnitUoM</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Remark (Optional)</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Advertising Slogan (Optional)</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Product URL</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Retailer Product Description</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Supply Chain Code</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">RetailerGLN</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">MSRP </Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">MSRP UoM</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">RetailerActiveFlag</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+   </Row><Row>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Indonesia</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">8999999017002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">000000000008872287</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">00000007301537</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Klover</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Elevania</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Hello eSize_Test</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">3434</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+   </Row>
+<Row>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Indonesia</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">8999999017002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">000000000008872287</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">00000007301537</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Klover</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Shopee</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Hello eSize_Test</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">32434</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+   </Row>
+<Row>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Indonesia</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">8999999017002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">000000000008872287</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">00000007301537</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Klover</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Tokopedia</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data><Comment ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C</Font></B><Font html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Date in mm/dd/yyyy. </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Hello eSize_Test</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">3434</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+   </Row></Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <LeftColumnVisible>25</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>5</ActiveRow>
+     <ActiveCol>30</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

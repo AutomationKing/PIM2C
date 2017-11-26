@@ -1,0 +1,2338 @@
+<?xml version="1.0" encoding="utf-8"?><CU xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+  <CU_MAIN_DATA>
+      <PART_NO>8381540_30</PART_NO>
+      <REVISION>12</REVISION>
+      <STATUS>CURRENT</STATUS>
+      <DESCRIPTION>CU CT6 SAUCE HOLLANDAISE NE</DESCRIPTION>
+      <PLANNED_EFFECTIVE_DATE>04-Mar-2015</PLANNED_EFFECTIVE_DATE>
+      <ACCESS_GROUP>PLAN</ACCESS_GROUP>
+      <CREATED_BY>Tanja Rupp</CREATED_BY>
+      <RFI>attach new revision of L-CON</RFI>
+      <EAN>3011360040480</EAN>
+      <ItemNumber>000000502859387310390000102000000000000259680SE</ItemNumber>
+   </CU_MAIN_DATA>
+  <CU_CLASSIFICATION_DATA>
+      <L1>Foods</L1>
+      <L2>Knorr</L2>
+      <L3>Knorr Other</L3>
+  </CU_CLASSIFICATION_DATA>
+  <CU_ART_LIST>
+      <CU_ART>
+         <PART_NO>8951811_30</PART_NO>
+         <DESCRIPTION>SL Fr CT6 HOLLANDAISE 1.85</DESCRIPTION>
+      </CU_ART>
+      <CU_ART>
+         <PART_NO>1047713_30</PART_NO>
+         <DESCRIPTION>LID GREEN FOR EC 0.9/1.15/1.4/1.85/2.3L</DESCRIPTION>
+      </CU_ART>
+      <CU_ART>
+         <PART_NO>8923123_30</PART_NO>
+         <DESCRIPTION>Lunatack PHC 7194zp</DESCRIPTION>
+      </CU_ART>
+      <CU_ART>
+         <PART_NO>1047758_30</PART_NO>
+         <DESCRIPTION>EC 1.85L</DESCRIPTION>
+      </CU_ART>
+  </CU_ART_LIST>
+  <CUC_LIST>
+      <CUC>
+         <PART_NO>9024916_30</PART_NO>
+         <REVISION>9</REVISION>
+         <CUC_CLASSIFICATION_DATA>
+            <L1>R&amp;D Category Savoury</L1>
+            <L2>Sauces</L2>
+            <L3>Sauces Dry</L3>
+            <L4>Elaborated Sauces Powder</L4>
+            <APPEARANCE>No Appropriate Choice</APPEARANCE>
+            <TECHNOLOGY>No Appropriate Choice</TECHNOLOGY>
+            <CHARACTERISTIC>No Appropriate Choice</CHARACTERISTIC>
+            <OTHER>No Appropriate Choice</OTHER>
+         </CUC_CLASSIFICATION_DATA>
+      </CUC>
+  </CUC_LIST>
+  <CU_BOM_HEADERS>
+      <CU_BOM_HEADER>
+         <SU_PLANT>A308_30</SU_PLANT>
+         <SU_PLANT_DESCRIPTION>BestFoods France Knorr Duppi 1 (Europe - Production)</SU_PLANT_DESCRIPTION>
+      </CU_BOM_HEADER>
+  </CU_BOM_HEADERS>
+  <DU_LIST>
+      <DU>
+         <DU_MAIN_DATA>
+            <PART_NO>6404803_30</PART_NO>
+            <REVISION>7</REVISION>
+            <DESCRIPTION>KN DES HOLLANDAISE 6X825G ECO EB FR</DESCRIPTION>
+            <PLANNED_EFFECTIVE_DATE>01-Jul-2016</PLANNED_EFFECTIVE_DATE>
+            <RFI>CHANGE IN MOL CODE 9159266 INSTEAD OF 9022643</RFI>
+            <EAN>3011364048062</EAN>
+         </DU_MAIN_DATA>
+         <DU_CLASSIFICATION_DATA/>
+         <DU_ART_LIST>
+            <DU_ART>
+               <PART_NO>8826577_30</PART_NO>
+               <DESCRIPTION>INK RIBBON PAL DARK Z 170/450 Q 2300 XB</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>5406554_30</PART_NO>
+               <DESCRIPTION>PLAQ CARTON ONDULE 1125 X 735</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>8459258_30</PART_NO>
+               <DESCRIPTION>Chep EPal Wood 1200x800 (EB)NB</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>8826564_30</PART_NO>
+               <DESCRIPTION>LABEL PAL VELIN BLC 148/100 DIAM 300 XB</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>8132522_30</PART_NO>
+               <DESCRIPTION>STRETCH FOIL 23 MP500</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>8679445_30</PART_NO>
+               <DESCRIPTION>ADVANTRA HT</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>9159266_30</PART_NO>
+               <DESCRIPTION>ENCRE RESERVOIR 950 BK -DOMINO</DESCRIPTION>
+            </DU_ART>
+         </DU_ART_LIST>
+         <KPI_PLANT_GROUP_KEYWORD/>
+         <MSU_CUSTOMERS/>
+      </DU>
+  </DU_LIST>
+  <CON>
+      <LANGUAGES>
+         <LANGUAGE>English</LANGUAGE>
+         <LANGUAGE>Swedish</LANGUAGE>
+         <LANGUAGE>Hellenika (Greek)</LANGUAGE>
+      </LANGUAGES>
+      <CON_MAIN_DATA>
+         <PART_NO>66325184IS_30</PART_NO>
+         <REVISION>3</REVISION>
+         <DESCRIPTION>KNORR Sauce Hollandaise, déshy, 825g, FR (DARWIN) FIC</DESCRIPTION>
+         <PLANNED_EFFECTIVE_DATE>12-Nov-2014</PLANNED_EFFECTIVE_DATE>
+         <ACCESS_GROUP>PLAN</ACCESS_GROUP>
+         <LAST_MODIFIED_BY>Fontini Sakelli</LAST_MODIFIED_BY>
+         <RFI>No change
+Sticker for Greece</RFI>
+         <FRAME_ID>G-FOODS-CON-GLOBAL</FRAME_ID>
+         <FRAME_REV>21</FRAME_REV>
+      </CON_MAIN_DATA>
+      <MCON_DATA>
+         <PART_NO/>
+         <DESCRIPTION/>
+      </MCON_DATA>
+      <MSU_CUSTOMERS/>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Brand Name" language="English">
+         <VALUE>Knorr</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="Swedish">
+         <VALUE>Sauce Hollandaise</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="Hellenika (Greek)">
+         <VALUE>Σάλτσα Hollandaise</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Additional Regional Information" property="Registry No." attribute="No. 1" header="Register" language="English">
+         <VALUE>FIC</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Additional Regional Information" property="Registry No." attribute="No. 2" header="Description" language="English">
+         <VALUE>EUR07130v400</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Additional Regional Information" property="Registry No." attribute="No. 2" header="Register" language="English">
+         <VALUE>DEV Formula</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Country" language="English">
+         <VALUE>Greece</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Swedish">
+         <VALUE>Préparation déshydratée pour sauce hollandaise</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Hellenika (Greek)">
+         <VALUE>Μίγμα για Σάλτσα Hollandaise</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Exemption Flags" property="Exempt from Artwork" attribute="   -   " header="Present" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Exemption Flags" property="Exempt from NEP Reporting" attribute="   -   " header="Present" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Vitality Passport Input" property="Added Sugars" attribute="   -   " header="Typical/100g as prep" language="English">
+         <VALUE>0.01</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Size Information" property="Serving Size" attribute="Metric (g) - As prep" header="UOM" language="English">
+         <VALUE>G</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Size Information" property="Serving Size" attribute="Metric (g) - As prep" header="per Serving" language="English">
+         <VALUE>54.5</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Size Information" property="Serving Size" attribute="Metric (ml) - As prep" header="UOM" language="English">
+         <VALUE>ml</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Size Information" property="Serving Size" attribute="Metric (ml) - As prep" header="per Serving" language="English">
+         <VALUE>50</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat" attribute="   -   " header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat" attribute="   -   " header="per 100g as prep" language="English">
+         <VALUE>25,58</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat" attribute="   -   " header="per 100g as prep" language="Swedish">
+         <VALUE>25,53</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat" attribute="   -   " header="per 100ml as prep" language="English">
+         <VALUE>28,87</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat" attribute="   -   " header="per 100ml as prep" language="Swedish">
+         <VALUE>27,95</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Protein" attribute="   -   " header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Protein" attribute="   -   " header="per 100g as prep" language="English">
+         <VALUE>1,83</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Protein" attribute="   -   " header="per 100g as prep" language="Swedish">
+         <VALUE>1,83</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Protein" attribute="   -   " header="per 100ml as prep" language="English">
+         <VALUE>2,07</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Protein" attribute="   -   " header="per 100ml as prep" language="Swedish">
+         <VALUE>2,0</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kJ" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kJ" header="per 100g as prep" language="English">
+         <VALUE>1079</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kJ" header="per 100g as prep" language="Swedish">
+         <VALUE>1078</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kJ" header="per 100ml as prep" language="English">
+         <VALUE>1218</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kJ" header="per 100ml as prep" language="Swedish">
+         <VALUE>1180</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kcal" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kcal" header="per 100g as prep" language="English">
+         <VALUE>258</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kcal" header="per 100g as prep" language="Swedish">
+         <VALUE>258</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kcal" header="per 100ml as prep" language="English">
+         <VALUE>291</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kcal" header="per 100ml as prep" language="Swedish">
+         <VALUE>282</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate" attribute="   -   " header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate" attribute="   -   " header="per 100g as prep" language="English">
+         <VALUE>5,9</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate" attribute="   -   " header="per 100g as prep" language="Swedish">
+         <VALUE>5,95</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate" attribute="   -   " header="per 100ml as prep" language="English">
+         <VALUE>6,66</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate" attribute="   -   " header="per 100ml as prep" language="Swedish">
+         <VALUE>6,51</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate" attribute="including fibre" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate" attribute="including fibre" header="per 100g as prep" language="English">
+         <VALUE>5,99</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate" attribute="including fibre" header="per 100g as prep" language="Swedish">
+         <VALUE>6,04</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate" attribute="including fibre" header="per 100ml as prep" language="English">
+         <VALUE>6,76</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate" attribute="including fibre" header="per 100ml as prep" language="Swedish">
+         <VALUE>6,61</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Cholesterol" attribute="   -   " header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Cholesterol" attribute="   -   " header="per 100g as prep" language="English">
+         <VALUE>83,36</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Cholesterol" attribute="   -   " header="per 100g as prep" language="Swedish">
+         <VALUE>83,36</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Cholesterol" attribute="   -   " header="per 100ml as prep" language="English">
+         <VALUE>94,09</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Cholesterol" attribute="   -   " header="per 100ml as prep" language="Swedish">
+         <VALUE>91,26</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fibre" attribute="Dietary" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fibre" attribute="Dietary" header="per 100g as prep" language="English">
+         <VALUE>0,09</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fibre" attribute="Dietary" header="per 100g as prep" language="Swedish">
+         <VALUE>0,09</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fibre" attribute="Dietary" header="per 100ml as prep" language="English">
+         <VALUE>0,1</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fibre" attribute="Dietary" header="per 100ml as prep" language="Swedish">
+         <VALUE>0,1</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Salt" attribute="as NaCl" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Salt" attribute="as NaCl" header="per 100g as prep" language="English">
+         <VALUE>0,78</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Salt" attribute="as NaCl" header="per 100g as prep" language="Swedish">
+         <VALUE>0,78</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Salt" attribute="as NaCl" header="per 100ml as prep" language="English">
+         <VALUE>0,88</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Salt" attribute="as NaCl" header="per 100ml as prep" language="Swedish">
+         <VALUE>0,85</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Sodium" attribute="mg" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Sodium" attribute="mg" header="per 100g as prep" language="English">
+         <VALUE>314</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Sodium" attribute="mg" header="per 100g as prep" language="Swedish">
+         <VALUE>314</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Sodium" attribute="mg" header="per 100ml as prep" language="English">
+         <VALUE>354</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Sodium" attribute="mg" header="per 100ml as prep" language="Swedish">
+         <VALUE>344</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate of which" attribute="Sugars" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate of which" attribute="Sugars" header="per 100g as prep" language="English">
+         <VALUE>2,58</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate of which" attribute="Sugars" header="per 100g as prep" language="Swedish">
+         <VALUE>2,59</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate of which" attribute="Sugars" header="per 100ml as prep" language="English">
+         <VALUE>2,92</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate of which" attribute="Sugars" header="per 100ml as prep" language="Swedish">
+         <VALUE>2,83</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="SAFA" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="SAFA" header="per 100g as prep" language="English">
+         <VALUE>15,43</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="SAFA" header="per 100g as prep" language="Swedish">
+         <VALUE>15,29</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="SAFA" header="per 100ml as prep" language="English">
+         <VALUE>17,41</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="SAFA" header="per 100ml as prep" language="Swedish">
+         <VALUE>16,74</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="Trans" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="Trans" header="per 100g as prep" language="English">
+         <VALUE>0,89</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="Trans" header="per 100g as prep" language="Swedish">
+         <VALUE>0,89</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="Trans" header="per 100ml as prep" language="English">
+         <VALUE>1</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="Trans" header="per 100ml as prep" language="Swedish">
+         <VALUE>0,98</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Information" property="Variable serving size" attribute="   -   " header="Present" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Information" property="Product is consumed as sold" attribute="   -   " header="Present" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Meat" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Meat" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Alcohol" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Alcohol" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Irradiation" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Irradiation" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Ovo Lacto Vegetarian" attribute="   -   " header="Comment" language="English">
+         <VALUE>one ingredient contains L-cysteinehydrochloride</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Ovo Lacto Vegetarian" attribute="   -   " header="Comment" language="Swedish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Ovo Lacto Vegetarian" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Ovo Lacto Vegetarian" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Vegan" attribute="   -   " header="Comment" language="English">
+         <VALUE>one ingredient contains L-cysteinehydrochloride</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Vegan" attribute="   -   " header="Comment" language="Swedish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Vegan" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Vegan" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Lacto Vegetarian" attribute="   -   " header="Comment" language="English">
+         <VALUE>one ingredient contains L-cysteinehydrochloride</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Lacto Vegetarian" attribute="   -   " header="Comment" language="Swedish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Lacto Vegetarian" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Lacto Vegetarian" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="English">
+         <VALUE>for France and Spain, 1155 g for Benelux, 900g for Greece</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Swedish">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Value" language="English">
+         <VALUE>825</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="Declared" header="Comment" language="English">
+         <VALUE>max</VALUE>
+         <UOM>l</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="Declared" header="Comment" language="Swedish">
+         <VALUE>max</VALUE>
+         <UOM>l</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="Declared" header="Comment" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM>l</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="Declared" header="Value" language="English">
+         <VALUE>8.5</VALUE>
+         <UOM>l</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="English">
+         <VALUE>max </VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Swedish">
+         <VALUE>max </VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Value" language="English">
+         <VALUE>170</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume per serving/portion" attribute="   -   " header="Value" language="English">
+         <VALUE>50</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="English">
+         <VALUE>free from flavour enhancers</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="Swedish">
+         <VALUE>Texture légère</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="English">
+         <VALUE>free from preservatives</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="Swedish">
+         <VALUE>sans exhausteur de goût</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="English">
+         <VALUE>no ingredients containing gluten</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="Swedish">
+         <VALUE>sans conservateur</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 4" attribute="   -   " header="Description" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 4" attribute="   -   " header="Description" language="Swedish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 4" attribute="   -   " header="Description" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 5" attribute="   -   " header="Description" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 5" attribute="   -   " header="Description" language="Swedish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 5" attribute="   -   " header="Description" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 6" attribute="   -   " header="Description" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 6" attribute="   -   " header="Description" language="Swedish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 6" attribute="   -   " header="Description" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 7" attribute="   -   " header="Description" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 7" attribute="   -   " header="Description" language="Swedish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 7" attribute="   -   " header="Description" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 8" attribute="   -   " header="Description" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 8" attribute="   -   " header="Description" language="Swedish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 8" attribute="   -   " header="Description" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 9" attribute="   -   " header="Description" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 9" attribute="   -   " header="Description" language="Swedish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 9" attribute="   -   " header="Description" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 10" attribute="   -   " header="Description" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 10" attribute="   -   " header="Description" language="Swedish">
+         <VALUE>Départ eau froide</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 10" attribute="   -   " header="Description" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 11" attribute="   -   " header="Description" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 11" attribute="   -   " header="Description" language="Swedish">
+         <VALUE>A préparer au beurre</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 11" attribute="   -   " header="Description" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 12" attribute="   -   " header="Description" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 12" attribute="   -   " header="Description" language="Swedish">
+         <VALUE>Jusqu'à 8,5 L</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 12" attribute="   -   " header="Description" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 13" attribute="   -   " header="Description" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 13" attribute="   -   " header="Description" language="Swedish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 13" attribute="   -   " header="Description" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 14" attribute="   -   " header="Description" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 14" attribute="   -   " header="Description" language="Swedish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 14" attribute="   -   " header="Description" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 15" attribute="   -   " header="Description" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 15" attribute="   -   " header="Description" language="Swedish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 15" attribute="   -   " header="Description" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="Contam." language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peas" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peas" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peas" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peas" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Celery" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Celery" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Celery" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Celery" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Mustard/Mustard products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Mustard/Mustard products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Mustard/Mustard products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Mustard/Mustard products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Lupin and products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Lupin and products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Lupin and products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Lupin and products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Conditions" language="English">
+         <VALUE>After Opening</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="value" language="English">
+         <VALUE>4</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Swedish">
+         <VALUE>A utiliser de préférence avant fin</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Hellenika (Greek)">
+         <VALUE>Aνάλωση κατά προτίμηση πριν από το τέλος</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Value" language="English">
+         <VALUE>12</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Conditions" language="English">
+         <VALUE>Ambient</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Comment" language="English">
+         <VALUE>FR</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Comment" language="Swedish">
+         <VALUE>(ou voir sous la boîte):</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Comment" language="Hellenika (Greek)">
+         <VALUE>: Βλέπε συσκευασία</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Value" language="English">
+         <VALUE>12</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Additional Claims" property="Claim 1" attribute="   -   " header="Description" language="English">
+         <VALUE>Sans ingrédient contenant du gluten (&lt;100 ppm tel que préparé)</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Additional Claims" property="Claim 1" attribute="   -   " header="Description" language="Swedish">
+         <VALUE>Sans ingrédient contenant du gluten (&lt;100 ppm tel que préparé)</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Additional Claims" property="Claim 1" attribute="   -   " header="Description" language="Hellenika (Greek)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On-Pack Nutrition Information as Sold" property="CON" attribute="   -   " header="Value" language="English">
+         <VALUE>RDL-013318[4]: DES Hollandaise 20 CB FS DAR da1</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On-Pack Nutrition Information as Sold" property="CUC" attribute="   -   " header="Value" language="English">
+         <VALUE>8703856[4]: DES Sauce Hollandaise 20 CB (CUC)</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On-Pack Nutrition Information as Sold" property="REF" attribute="   -   " header="Value" language="English">
+         <VALUE>66346704IS[2]: ALL CATEGORIES-ROUND TO NEAREST-FIC</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Fat" attribute="   -   " header="per 100g as sold" language="English">
+         <VALUE>6 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Fat" attribute="   -   " header="per 100g as sold" language="Swedish">
+         <VALUE>5,5</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Protein" attribute="   -   " header="per 100g as sold" language="English">
+         <VALUE>16 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Protein" attribute="   -   " header="per 100g as sold" language="Swedish">
+         <VALUE>16 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Energy" attribute="kJ" header="per 100g as sold" language="English">
+         <VALUE>1500 </VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Energy" attribute="kJ" header="per 100g as sold" language="Swedish">
+         <VALUE>1483 </VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Energy" attribute="kcal" header="per 100g as sold" language="English">
+         <VALUE>360 </VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Energy" attribute="kcal" header="per 100g as sold" language="Swedish">
+         <VALUE>354</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Carbohydrate" attribute="   -   " header="per 100g as sold" language="English">
+         <VALUE>58 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Carbohydrate" attribute="   -   " header="per 100g as sold" language="Swedish">
+         <VALUE>58 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Fibre" attribute="Dietary" header="per 100g as sold" language="English">
+         <VALUE>0,9 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Fibre" attribute="Dietary" header="per 100g as sold" language="Swedish">
+         <VALUE>0,9 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Salt" attribute="as NaCl" header="per 100g as sold" language="English">
+         <VALUE>7,9 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Salt" attribute="as NaCl" header="per 100g as sold" language="Swedish">
+         <VALUE>7,9 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Sodium" attribute="   -   " header="per 100g as sold" language="English">
+         <VALUE>3,2 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Sodium" attribute="   -   " header="per 100g as sold" language="Swedish">
+         <VALUE>3,2 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Carbohydrate of which" attribute="Sugars" header="per 100g as sold" language="English">
+         <VALUE>24 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Carbohydrate of which" attribute="Sugars" header="per 100g as sold" language="Swedish">
+         <VALUE>24 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="SAFA" header="per 100g as sold" language="English">
+         <VALUE>2,5 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="SAFA" header="per 100g as sold" language="Swedish">
+         <VALUE>1,4</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On-Pack Nutrition Information as Prepared" property="Serving Size" attribute="   -   " header="Value" language="English">
+         <VALUE>50 ml </VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On-Pack Nutrition Information as Prepared" property="CON" attribute="   -   " header="Value" language="English">
+         <VALUE>66325184IS[2]: KNORR Sauce Hollandaise, déshy, 825g, FR (DARWIN) FIC</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On-Pack Nutrition Information as Prepared" property="CUC" attribute="   -   " header="Value" language="English">
+         <VALUE>8703856[4]: DES Sauce Hollandaise 20 CB (CUC)</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On-Pack Nutrition Information as Prepared" property="REF" attribute="   -   " header="Value" language="English">
+         <VALUE>66346704IS[4]: ALL CATEGORIES-ROUND TO NEAREST-FIC</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat" attribute="   -   " header="per Serving" language="English">
+         <VALUE>14 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat" attribute="   -   " header="per Serving" language="Swedish">
+         <VALUE>14 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat" attribute="   -   " header="per Serving" language="Hellenika (Greek)">
+         <VALUE>14 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat" attribute="   -   " header="per 100g as prep" language="English">
+         <VALUE>26 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat" attribute="   -   " header="per 100g as prep" language="Swedish">
+         <VALUE>26 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat" attribute="   -   " header="per 100g as prep" language="Hellenika (Greek)">
+         <VALUE>26 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat" attribute="   -   " header="per 100ml as prep" language="English">
+         <VALUE>29 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat" attribute="   -   " header="per 100ml as prep" language="Swedish">
+         <VALUE>28</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat" attribute="   -   " header="per 100ml as prep" language="Hellenika (Greek)">
+         <VALUE>29 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Protein" attribute="   -   " header="per Serving" language="English">
+         <VALUE>1 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Protein" attribute="   -   " header="per Serving" language="Swedish">
+         <VALUE>1,0</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Protein" attribute="   -   " header="per Serving" language="Hellenika (Greek)">
+         <VALUE>1 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Protein" attribute="   -   " header="per 100g as prep" language="English">
+         <VALUE>1,8 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Protein" attribute="   -   " header="per 100g as prep" language="Swedish">
+         <VALUE>1,8 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Protein" attribute="   -   " header="per 100g as prep" language="Hellenika (Greek)">
+         <VALUE>1,8 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Protein" attribute="   -   " header="per 100ml as prep" language="English">
+         <VALUE>2,1 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Protein" attribute="   -   " header="per 100ml as prep" language="Swedish">
+         <VALUE>2,0</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Protein" attribute="   -   " header="per 100ml as prep" language="Hellenika (Greek)">
+         <VALUE>2,1 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kJ" header="per Serving" language="English">
+         <VALUE>609 </VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kJ" header="per Serving" language="Swedish">
+         <VALUE>590</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kJ" header="per Serving" language="Hellenika (Greek)">
+         <VALUE>609 </VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kJ" header="per 100g as prep" language="English">
+         <VALUE>1079 </VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kJ" header="per 100g as prep" language="Swedish">
+         <VALUE>1078</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kJ" header="per 100g as prep" language="Hellenika (Greek)">
+         <VALUE>1079 </VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kJ" header="per 100ml as prep" language="English">
+         <VALUE>1218 </VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kJ" header="per 100ml as prep" language="Swedish">
+         <VALUE>1180</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kJ" header="per 100ml as prep" language="Hellenika (Greek)">
+         <VALUE>1218 </VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kcal" header="per Serving" language="English">
+         <VALUE>146 </VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kcal" header="per Serving" language="Swedish">
+         <VALUE>141</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kcal" header="per Serving" language="Hellenika (Greek)">
+         <VALUE>146 </VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kcal" header="per 100g as prep" language="English">
+         <VALUE>258 </VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kcal" header="per 100g as prep" language="Swedish">
+         <VALUE>258 </VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kcal" header="per 100g as prep" language="Hellenika (Greek)">
+         <VALUE>258 </VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kcal" header="per 100ml as prep" language="English">
+         <VALUE>291 </VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kcal" header="per 100ml as prep" language="Swedish">
+         <VALUE>282</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Energy" attribute="kcal" header="per 100ml as prep" language="Hellenika (Greek)">
+         <VALUE>291 </VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate" attribute="   -   " header="per Serving" language="English">
+         <VALUE>3,3 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate" attribute="   -   " header="per Serving" language="Swedish">
+         <VALUE>3,3 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate" attribute="   -   " header="per Serving" language="Hellenika (Greek)">
+         <VALUE>3,3 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate" attribute="   -   " header="per 100g as prep" language="English">
+         <VALUE>5,9 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate" attribute="   -   " header="per 100g as prep" language="Swedish">
+         <VALUE>6</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate" attribute="   -   " header="per 100g as prep" language="Hellenika (Greek)">
+         <VALUE>5,9 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate" attribute="   -   " header="per 100ml as prep" language="English">
+         <VALUE>6,7 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate" attribute="   -   " header="per 100ml as prep" language="Swedish">
+         <VALUE>6,5</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate" attribute="   -   " header="per 100ml as prep" language="Hellenika (Greek)">
+         <VALUE>6,7 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fibre" attribute="Dietary" header="per Serving" language="English">
+         <VALUE>&lt;0,5 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fibre" attribute="Dietary" header="per Serving" language="Hellenika (Greek)">
+         <VALUE>&lt;0,5 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fibre" attribute="Dietary" header="per 100g as prep" language="English">
+         <VALUE>&lt;0,5 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fibre" attribute="Dietary" header="per 100g as prep" language="Hellenika (Greek)">
+         <VALUE>&lt;0,5 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fibre" attribute="Dietary" header="per 100ml as prep" language="English">
+         <VALUE>&lt;0,5 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fibre" attribute="Dietary" header="per 100ml as prep" language="Hellenika (Greek)">
+         <VALUE>&lt;0,5 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Salt" attribute="as NaCl" header="per Serving" language="English">
+         <VALUE>0,44 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Salt" attribute="as NaCl" header="per Serving" language="Swedish">
+         <VALUE>0,43</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Salt" attribute="as NaCl" header="per Serving" language="Hellenika (Greek)">
+         <VALUE>0,44 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Salt" attribute="as NaCl" header="per 100g as prep" language="English">
+         <VALUE>0,78 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Salt" attribute="as NaCl" header="per 100g as prep" language="Swedish">
+         <VALUE>0,78 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Salt" attribute="as NaCl" header="per 100g as prep" language="Hellenika (Greek)">
+         <VALUE>0,78 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Salt" attribute="as NaCl" header="per 100ml as prep" language="English">
+         <VALUE>0,88 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Salt" attribute="as NaCl" header="per 100ml as prep" language="Swedish">
+         <VALUE>0,85</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Salt" attribute="as NaCl" header="per 100ml as prep" language="Hellenika (Greek)">
+         <VALUE>0,88 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate of which" attribute="Sugars" header="per Serving" language="English">
+         <VALUE>1,5 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate of which" attribute="Sugars" header="per Serving" language="Swedish">
+         <VALUE>1,4</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate of which" attribute="Sugars" header="per Serving" language="Hellenika (Greek)">
+         <VALUE>1,5 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate of which" attribute="Sugars" header="per 100g as prep" language="English">
+         <VALUE>2,6 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate of which" attribute="Sugars" header="per 100g as prep" language="Swedish">
+         <VALUE>2,6 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate of which" attribute="Sugars" header="per 100g as prep" language="Hellenika (Greek)">
+         <VALUE>2,6 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate of which" attribute="Sugars" header="per 100ml as prep" language="English">
+         <VALUE>2,9 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate of which" attribute="Sugars" header="per 100ml as prep" language="Swedish">
+         <VALUE>2,8 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Carbohydrate of which" attribute="Sugars" header="per 100ml as prep" language="Hellenika (Greek)">
+         <VALUE>2,9 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="SAFA" header="per Serving" language="English">
+         <VALUE>8,7 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="SAFA" header="per Serving" language="Swedish">
+         <VALUE>8,4</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="SAFA" header="per Serving" language="Hellenika (Greek)">
+         <VALUE>8,7 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="SAFA" header="per 100g as prep" language="English">
+         <VALUE>15 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="SAFA" header="per 100g as prep" language="Swedish">
+         <VALUE>15 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="SAFA" header="per 100g as prep" language="Hellenika (Greek)">
+         <VALUE>15 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="SAFA" header="per 100ml as prep" language="English">
+         <VALUE>17 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="SAFA" header="per 100ml as prep" language="Swedish">
+         <VALUE>17 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="SAFA" header="per 100ml as prep" language="Hellenika (Greek)">
+         <VALUE>17 </VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat" attribute="   -   " header="%" language="English">
+         <VALUE>21</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat" attribute="   -   " header="%" language="Swedish">
+         <VALUE>20</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat" attribute="   -   " header="%" language="Hellenika (Greek)">
+         <VALUE>21</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat" attribute="   -   " header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat" attribute="   -   " header="Guideline Daily Amount" language="English">
+         <VALUE>70</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat" attribute="   -   " header="Guideline Daily Amount" language="Swedish">
+         <VALUE>70</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat" attribute="   -   " header="Guideline Daily Amount" language="Hellenika (Greek)">
+         <VALUE>70</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Protein" attribute="   -   " header="%" language="English">
+         <VALUE>2</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Protein" attribute="   -   " header="%" language="Swedish">
+         <VALUE>2</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Protein" attribute="   -   " header="%" language="Hellenika (Greek)">
+         <VALUE>2</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Protein" attribute="   -   " header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Protein" attribute="   -   " header="Guideline Daily Amount" language="English">
+         <VALUE>50</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Protein" attribute="   -   " header="Guideline Daily Amount" language="Swedish">
+         <VALUE>50</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Protein" attribute="   -   " header="Guideline Daily Amount" language="Hellenika (Greek)">
+         <VALUE>50</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kJ" header="%" language="English">
+         <VALUE>7</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kJ" header="%" language="Swedish">
+         <VALUE>7</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kJ" header="%" language="Hellenika (Greek)">
+         <VALUE>7</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kJ" header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kJ" header="Guideline Daily Amount" language="English">
+         <VALUE>8400</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kJ" header="Guideline Daily Amount" language="Swedish">
+         <VALUE>8400</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kJ" header="Guideline Daily Amount" language="Hellenika (Greek)">
+         <VALUE>8400</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kcal" header="%" language="English">
+         <VALUE>7</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kcal" header="%" language="Swedish">
+         <VALUE>7</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kcal" header="%" language="Hellenika (Greek)">
+         <VALUE>7</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kcal" header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kcal" header="Guideline Daily Amount" language="English">
+         <VALUE>2000</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kcal" header="Guideline Daily Amount" language="Swedish">
+         <VALUE>2000</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Energy" attribute="kcal" header="Guideline Daily Amount" language="Hellenika (Greek)">
+         <VALUE>2000</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate" attribute="   -   " header="%" language="English">
+         <VALUE>1</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate" attribute="   -   " header="%" language="Swedish">
+         <VALUE>1</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate" attribute="   -   " header="%" language="Hellenika (Greek)">
+         <VALUE>1</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate" attribute="   -   " header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate" attribute="   -   " header="Guideline Daily Amount" language="English">
+         <VALUE>260</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate" attribute="   -   " header="Guideline Daily Amount" language="Swedish">
+         <VALUE>260</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate" attribute="   -   " header="Guideline Daily Amount" language="Hellenika (Greek)">
+         <VALUE>260</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fibre" attribute="Dietary" header="%" language="English">
+         <VALUE>N/A</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fibre" attribute="Dietary" header="%" language="Hellenika (Greek)">
+         <VALUE>N/A</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fibre" attribute="Dietary" header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Salt" attribute="as NaCl" header="%" language="English">
+         <VALUE>7</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Salt" attribute="as NaCl" header="%" language="Swedish">
+         <VALUE>7</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Salt" attribute="as NaCl" header="%" language="Hellenika (Greek)">
+         <VALUE>7</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Salt" attribute="as NaCl" header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Salt" attribute="as NaCl" header="Guideline Daily Amount" language="English">
+         <VALUE>6</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Salt" attribute="as NaCl" header="Guideline Daily Amount" language="Swedish">
+         <VALUE>6</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Salt" attribute="as NaCl" header="Guideline Daily Amount" language="Hellenika (Greek)">
+         <VALUE>6</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Sodium" attribute="   -   " header="%" language="English">
+         <VALUE>N/A</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Sodium" attribute="   -   " header="%" language="Swedish">
+         <VALUE>N/A</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Sodium" attribute="   -   " header="%" language="Hellenika (Greek)">
+         <VALUE>N/A</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Sodium" attribute="   -   " header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate of which" attribute="Sugars" header="%" language="English">
+         <VALUE>2</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate of which" attribute="Sugars" header="%" language="Swedish">
+         <VALUE>2</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate of which" attribute="Sugars" header="%" language="Hellenika (Greek)">
+         <VALUE>2</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate of which" attribute="Sugars" header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate of which" attribute="Sugars" header="Guideline Daily Amount" language="English">
+         <VALUE>90</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate of which" attribute="Sugars" header="Guideline Daily Amount" language="Swedish">
+         <VALUE>90</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Carbohydrate of which" attribute="Sugars" header="Guideline Daily Amount" language="Hellenika (Greek)">
+         <VALUE>90</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat of which" attribute="SAFA" header="%" language="English">
+         <VALUE>44</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat of which" attribute="SAFA" header="%" language="Swedish">
+         <VALUE>42</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat of which" attribute="SAFA" header="%" language="Hellenika (Greek)">
+         <VALUE>44</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat of which" attribute="SAFA" header="GDA synonym" language="English">
+         <VALUE>GDA</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat of which" attribute="SAFA" header="Guideline Daily Amount" language="English">
+         <VALUE>20</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat of which" attribute="SAFA" header="Guideline Daily Amount" language="Swedish">
+         <VALUE>20</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Prepared" property_group="On Pack Nutr Data 2" property="Fat of which" attribute="SAFA" header="Guideline Daily Amount" language="Hellenika (Greek)">
+         <VALUE>20</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="English">
+         <TEXT>Dry mixture for preparing Sauce Hollandaise
+Cluster name: DES Hollandaise 20 CB FS DAR da1</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="Swedish">
+         <TEXT>KNORR Sauce hollandaise déshydratée EC 825 g</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="Hellenika (Greek)">
+         <TEXT>Knorr Αφυδατωμένο μίγμα για Σάλτσα Hollandaise </TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Nutrition" sub_section="(none)" text_header="Nutrition Information" language="English">
+         <TEXT>Basis of Calculation:
+Butter (90000072)</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Nutrition" sub_section="(none)" text_header="Nutrition Information" language="Swedish">
+         <TEXT>Valeurs nutritionnelles pour 100 ml de produit préparé selon le mode d'emploi avec du beurre (dosage classique)</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Nutrition" sub_section="(none)" text_header="Nutrition Information" language="Hellenika (Greek)">
+         <TEXT>BOP 
+Nutritional table column headers
+Μέση Διατροφική Αξία
+ανά 100ml έτοιμης σάλτσας
+
+ΒΟP
+Nutritional table row headers
+Eνέργεια 
+Λιπαρά
+εκ των οποίων κορεσμένα
+Υδατάνθρακες 
+εκ των οποίων σάκχαρα
+Φυτικές ίνες
+Πρωτεΐνες
+Αλάτι 
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Local Information" sub_section="(none)" text_header="Local Information" language="English">
+         <TEXT>MRDR DU : 6404803
+MRDR CU : 8381540
+EAN CU : 3011360040480</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="English">
+         <TEXT>Ingredients:
+
+42% skimmed MILK powder,
+modified corn starch,
+salt,
+4.2% dried EGG yolk,
+maltodextrin,
+palm fat,
+1.8% onion powder,
+acid (citric acid (E 330) ),
+lemon juice powder,
+flavourings (contain CELERY),
+thickener (guar gum (E 412) ),
+yeast extract,
+pepper,
+colour (carotenes (E160a) )
+
+May contain gluten</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Swedish">
+         <TEXT>Ingrédients : LAIT écrémé, amidon modifié de maïs, sel, jaune d'OEUF : 4,2%, maltodextrine, huile de maïs, oignon, acidifiant : acide citrique, jus de citron : 0,7%, arômes (dont CÉLERI), épaississant :gomme guar, extrait de levure, poivre, colorant : caroténoïdes.
+Peut contenir: gluten.
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Hellenika (Greek)">
+         <TEXT>Συστατικά:
+Αποβουτυρωμένο γάλα σε σκόνη (42%),τροποποιημένο άμυλο αραβοσίτου, αλάτι,κρόκος ΑΥΓΟΥ σε σκόνη (4,2%), μαλτοδεξτρίνη, φυτικό έλαιο (αραβοσιτέλαιο), κρεμμύδι σε σκόνη, μέσο οξίνισης (κιτρικό οξύ), χυμός λεμονιού σε σκόνη, αρωματικές ύλες (περιέχουν ΣΕΛΙΝΟ), σταθεροποιητής (κόμμι γκουάρ), εκχύλισμα μαγιάς ,πιπέρι, χρωστική (μίγμα καροτενίων). 
+Μπορεί να περιέχει γλουτένη.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Instructions for Use" language="English">
+         <TEXT>Stir 165 g of the mix into 1 L of cold water and bring to the boil; Turn off heat and add  500 g butter cut in pieces.
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Instructions for Use" language="Swedish">
+         <TEXT>Préparation:
+1) Disperser la quantité nécessaire de Préparation pour Sauce Hollandaise dans l’eau froide, à l'aide d'un fouet.
+2) Porter à ébullition.
+3) Hors du feu, ajouter le beurre coupé en morceaux.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Instructions for Use" language="Hellenika (Greek)">
+         <TEXT>Οδηγίες παρασκευής:
+1. Ρίχνετε την ανάλογη ποσότητα αφυδατωμένης σάλτσας στο ανάλογο κρύο νερό.
+2. Σιγοβράζετε ανακατεύοντας για 2 λεπτά.
+3. Απομακρύνετε από τη φωτιά κια προσθέστε την ανάλογο ποσότητα βουτύρου ανακατεύοντας.
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="English">
+         <TEXT>Not applicable
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Swedish">
+         <TEXT>Bien refermer la boîte après utilisation.
+A conserver dans l’emballage d’origine, à l’abri de la lumière dans un endroit frais et sec.
+La température de stockage ne doit pas dépasser 25°c.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Hellenika (Greek)">
+         <TEXT>Διατηρείται σε δροσερό και σκιερό μέρος
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Safety Instructions" language="English">
+         <TEXT>Not applicable
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Safety Instructions" language="Swedish">
+         <TEXT>.
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Safety Instructions" language="Hellenika (Greek)">
+         <TEXT>.
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Disposal Instructions" language="English">
+         <TEXT>Not applicable
+
+
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Disposal Instructions" language="Swedish">
+         <TEXT>.
+
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Disposal Instructions" language="Hellenika (Greek)">
+         <TEXT>.
+
+
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Claims and Declarations" sub_section="(none)" text_header="Claims / Disclaimers" language="English">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Claims and Declarations" sub_section="(none)" text_header="Claims / Disclaimers" language="Swedish">
+         <TEXT>Suggestion de présentation
+
+"Cette Sauce Hollandaise KNORR à la texture légère est préparée avec les meilleurs ingrédients et est:
+- Sans exhausteur de goût
+- Sans conservateur
+Pour vous offrir une recette de qualité au goût authentique."</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Claims and Declarations" sub_section="(none)" text_header="Declarations" language="English">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="English">
+         <TEXT>Pour tout complément d'information :
+
+www.ufs.com
+
+Food Solutions chez Unilever France
+92842 Rueil-Malmaison Cedex</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Hellenika (Greek)">
+         <TEXT>EΛΑΪΣ-UNILEVER HELLAS A.E.
+Λεωφόρος Κύμης &amp; Σενέκα 10, 145 64 Κηφισιά
+Γραμμή επικοινωνίας 800 11 13 700
+
+www.ufs.com
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Recipe Instructions" sub_section="(none)" text_header="Recipe Instruction" language="English">
+         <TEXT>DOSAGE
+Classique
+Sauce Hollandaise : 165 g / 495 g / 825 g
+Eau : 1 L / 3 L / 5 L
+Beurre : 500 g / 1,5 kg / 2,5 kg
+Economique
+Sauce Hollandaise : 165 g / 495 g / 825 g
+Eau : 1,2 L / 3,6 L / 6 L
+Beurre : 300 g / 900 g / 1,5 kg</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Recipe Instructions" sub_section="(none)" text_header="Recipe Instruction" language="Swedish">
+         <TEXT>DOSAGE
+Classique
+Sauce Hollandaise : 165 g / 495 g   / 825 g
+Eau :                        1 L     / 3 L       / 5 L
+Beurre :                   500 g / 1,5 kg  / 2,5 kg
+
+Economique
+Sauce Hollandaise : 165 g / 495 g   / 825 g
+Eau :                         1,2 L / 3,6 L   / 6 L
+Beurre :                   300 g / 900 g   / 1,5 kg</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Recipe Instructions" sub_section="(none)" text_header="Recipe Instruction" language="Hellenika (Greek)">
+         <TEXT>Αναλογίες-Αποδόσεις
+Για κλασική σάλτσα Hollandaise:
+Ποσότητα αφυδατωμένης σάλτσας (g)     Νερό (L)      Βούτυρο (g)          
+                        165                                  1                 500                              
+                        495                                  3               1500                         
+                        825                                  5               2500     
+
+Για οικονομική σάλτσα Hollandaise:         
+Ποσότητα αφυδατωμένης σάλτσας (g)     Νερό (L)      Βούτυρο (g)          
+                        165                                  1,2                 300                              
+                        495                                  3,6                 900                         
+                        825                                  6,0               1500                     
+         </TEXT>
+      </TEXT_DATA>
+      <REF_TEXT_DATA section="Claims and Declarations" sub_section="(none)" short_description="CON cross cantaminat" description="Risk of Cross Contamination during Processing" language="English">
+         <TEXT>Information captured in the following property groups relates to the total allergen status of a product i.e. allergens inherent in the underlying ingredient composition of the product in addition to those due to cross contamination during processing of the product and which impact on final product labelling</TEXT>
+      </REF_TEXT_DATA>
+  </CON>
+</CU>

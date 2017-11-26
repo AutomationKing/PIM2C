@@ -1,0 +1,3033 @@
+<?xml version="1.0" encoding="utf-8"?><CU xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+  <CU_MAIN_DATA>
+      <PART_NO>9145986_30</PART_NO>
+      <REVISION>7</REVISION>
+      <STATUS>CURRENT</STATUS>
+      <DESCRIPTION>Twister Mini Max 50ml 8mp CL6a 10228 CU</DESCRIPTION>
+      <PLANNED_EFFECTIVE_DATE>05-Feb-2017</PLANNED_EFFECTIVE_DATE>
+      <ACCESS_GROUP>PLAN</ACCESS_GROUP>
+      <CREATED_BY>MMISZE01</CREATED_BY>
+      <RFI>wrap changed as requested by Mark Hooper 31.01.2017</RFI>
+      <EAN>8000920473696</EAN>
+      <ItemNumber>080009204736965790000012411000000000014736853DK</ItemNumber>
+   </CU_MAIN_DATA>
+  <CU_CLASSIFICATION_DATA>
+      <L1>Foods</L1>
+      <L2>Birds Eye</L2>
+  </CU_CLASSIFICATION_DATA>
+  <CU_ART_LIST>
+      <CU_ART>
+         <PART_NO>1004971_30</PART_NO>
+         <DESCRIPTION>Adhesive,hot melt,CM Ultra 90</DESCRIPTION>
+      </CU_ART>
+      <CU_ART>
+         <PART_NO>9167004_30</PART_NO>
+         <DESCRIPTION>CtnTwisMini Max 8mp CL6a 10228</DESCRIPTION>
+      </CU_ART>
+      <CU_ART>
+         <PART_NO>9243557_30</PART_NO>
+         <DESCRIPTION>WrpTwisMiniMP50ml 165 CS TD 2017</DESCRIPTION>
+      </CU_ART>
+      <CU_ART>
+         <PART_NO>81339_30</PART_NO>
+         <DESCRIPTION>WdnStk93mm RIA2 3 Band Beech</DESCRIPTION>
+      </CU_ART>
+  </CU_ART_LIST>
+  <CUC_LIST>
+      <CUC>
+         <PART_NO>9130648_30</PART_NO>
+         <REVISION>4</REVISION>
+         <CUC_CLASSIFICATION_DATA>
+            <L1>R&amp;D Category Ice Cream</L1>
+            <L2>Ice Cream</L2>
+            <L3>Stick</L3>
+            <L4>Fruit Ice</L4>
+            <APPEARANCE>No Appropriate Choice</APPEARANCE>
+            <TECHNOLOGY>No Appropriate Choice</TECHNOLOGY>
+            <CHARACTERISTIC>No Appropriate Choice</CHARACTERISTIC>
+            <OTHER>No Appropriate Choice</OTHER>
+         </CUC_CLASSIFICATION_DATA>
+      </CUC>
+      <CUC>
+         <PART_NO>9130645_30</PART_NO>
+         <REVISION>4</REVISION>
+         <CUC_CLASSIFICATION_DATA>
+            <L1>R&amp;D Category Ice Cream</L1>
+            <L2>Ice Cream</L2>
+            <L3>Stick</L3>
+            <L4>Fruit Ice</L4>
+            <APPEARANCE>No Appropriate Choice</APPEARANCE>
+            <TECHNOLOGY>No Appropriate Choice</TECHNOLOGY>
+            <CHARACTERISTIC>No Appropriate Choice</CHARACTERISTIC>
+            <OTHER>No Appropriate Choice</OTHER>
+         </CUC_CLASSIFICATION_DATA>
+      </CUC>
+  </CUC_LIST>
+  <CU_BOM_HEADERS>
+      <CU_BOM_HEADER>
+         <SU_PLANT>A150_30</SU_PLANT>
+         <SU_PLANT_DESCRIPTION>ICE-UK SU Gloucester (Europe - Production)</SU_PLANT_DESCRIPTION>
+      </CU_BOM_HEADER>
+  </CU_BOM_HEADERS>
+  <DU_LIST>
+      <DU>
+         <DU_MAIN_DATA>
+            <PART_NO>14736855_30</PART_NO>
+            <REVISION>8</REVISION>
+            <DESCRIPTION>TWISTER 50ml Mini Max CL6a 8mp x6x156 EB</DESCRIPTION>
+            <PLANNED_EFFECTIVE_DATE>14-Dec-2016</PLANNED_EFFECTIVE_DATE>
+            <RFI>project Design change, FB changed</RFI>
+            <EAN>8000920473689</EAN>
+         </DU_MAIN_DATA>
+         <DU_CLASSIFICATION_DATA/>
+         <DU_ART_LIST>
+            <DU_ART>
+               <PART_NO>8101165_30</PART_NO>
+               <DESCRIPTION>STRETCH FOIL MACHINEABLE</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>8459258_30</PART_NO>
+               <DESCRIPTION>Chep EPal Wood 1200x800 (EB)NB</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>8982701_30</PART_NO>
+               <DESCRIPTION>foil semi transp 500mm 50um M</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>9217294_30</PART_NO>
+               <DESCRIPTION>STRETCH FOIL MPP23-500</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>8942172_30</PART_NO>
+               <DESCRIPTION>Lbl Auto Pallet Label 210X152</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>1037807_30</PART_NO>
+               <DESCRIPTION>Technomelt Q3175</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>9228312_30</PART_NO>
+               <DESCRIPTION>CtnTwister Mini 8mp 10228 BAN 2017</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>8541499_30</PART_NO>
+               <DESCRIPTION>WHITE OUTER LABEL 100*100</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>8160611_30</PART_NO>
+               <DESCRIPTION>pallet etiquette ZEBRA</DESCRIPTION>
+            </DU_ART>
+         </DU_ART_LIST>
+         <KPI_PLANT_GROUP_KEYWORD/>
+         <MSU_CUSTOMERS/>
+      </DU>
+  </DU_LIST>
+  <CON>
+      <LANGUAGES>
+         <LANGUAGE>Czech</LANGUAGE>
+         <LANGUAGE>Dansk (Danish)</LANGUAGE>
+         <LANGUAGE>Deutsch</LANGUAGE>
+         <LANGUAGE>English</LANGUAGE>
+         <LANGUAGE>Espanol</LANGUAGE>
+         <LANGUAGE>Estonian</LANGUAGE>
+         <LANGUAGE>Francais</LANGUAGE>
+         <LANGUAGE>Hungarian</LANGUAGE>
+         <LANGUAGE>Latvian</LANGUAGE>
+         <LANGUAGE>Lithuanian</LANGUAGE>
+         <LANGUAGE>Polish</LANGUAGE>
+         <LANGUAGE>Portugues</LANGUAGE>
+         <LANGUAGE>Suoma (Finnish)</LANGUAGE>
+         <LANGUAGE>Svenska (Swedish)</LANGUAGE>
+      </LANGUAGES>
+      <CON_MAIN_DATA>
+         <PART_NO>66398301IS_30</PART_NO>
+         <REVISION>3</REVISION>
+         <DESCRIPTION>Mixed MPK, Max Twister Pin/Straw/LemonLime 8MP - LCON</DESCRIPTION>
+         <PLANNED_EFFECTIVE_DATE>21-Jan-2016</PLANNED_EFFECTIVE_DATE>
+         <ACCESS_GROUP>PLAN</ACCESS_GROUP>
+         <LAST_MODIFIED_BY>SSCHOL99</LAST_MODIFIED_BY>
+         <RFI>D/S</RFI>
+         <FRAME_ID>G-FOODS-CON-GLOBAL</FRAME_ID>
+         <FRAME_REV>21</FRAME_REV>
+      </CON_MAIN_DATA>
+      <MCON_DATA>
+         <PART_NO/>
+         <DESCRIPTION/>
+      </MCON_DATA>
+      <MSU_CUSTOMERS/>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Brand Name" language="English">
+         <VALUE>Max</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="English">
+         <VALUE>Max Twister mini </VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="Francais">
+         <VALUE>Twister Mini</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="Deutsch">
+         <VALUE>Twister Mini</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="Czech">
+         <VALUE>Twister mini</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="Dansk (Danish)">
+         <VALUE>Twister mini 50ml 8mp</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="Suoma (Finnish)">
+         <VALUE>Twister mini 50ml 8mp</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="Svenska (Swedish)">
+         <VALUE>Twister mini 50ml 8mp</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="English">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister chic mini lemon core 50 ml:
+Pineapple ice cream with strawberry - lemon fruit ice and lemon fruit ice with lemon lime flavour.
+
+Twister chic mini straw core 50ml: 
+Pineapple ice cream with strawberry - lemon fruit ice and lemon fruit ice with lemon lime flavour.
+</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Francais">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Deutsch">
+         <VALUE>Twister Mini mit grünem Kern: Eis Ananas mit Wassereis Erdbeer-Zitrone und Zitronenfruchteis mit Limettengeschmack. Twister Mini rotem Kern: Eis Ananas mit Wassereis Erdbeer-Zitrone und Zitronenfruchteis mit Limettengeschmack.</VALUE>
+         <UOM/>
+         <NOTE>Twister Mini mit grünem Kern:
+Eis Ananas mit Wassereis Erdbeer-Zitrone und Zitronenfruchteis mit Limettengeschmack.
+
+Twister Mini rotem Kern:
+Eis Ananas mit Wassereis Erdbeer-Zitrone und Zitronenfruchteis mit Limettengeschmack.
+</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Espanol">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister centro de limón 50 ml:
+Helado de agua con limón sabor lima, sorbete con fresa y limón y helado con piña
+
+Twister centro de fresa 50ml:
+Sorbete con fresa y limón, helado de agua con limón sabor lima y helado con piña</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Czech">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister mini Lemon core. Zmrzlina citronová s limetkovou příchutí, jahodovo – citronová a mražený krém s rostlinným tukem ananasový.
+Twister mini Strawberry core. Zmrzlina jahodovo – citronová, citronová s limetkovou příchutí a mražený krém s rostlinným tukem ananasový.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Dansk (Danish)">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister mini Lemon core 50 ml:
+Pineapple ice cream with strawberry-lemon fruit ice and lemon fruit ice with lemon lime flavour.
+
+Ananasis med jordbær-citronfrugtis og citron-limefrugtis.
+
+Twister mini Strawberry core 50 ml:
+Pineapple ice cream with strawberry-lemon fruit ice and lemon fruit ice with lemon lime flavour.
+
+Ananasis med jordbær-citronfrugtis og citron-limefrugtis.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Estonian">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister chic mini lemon core 50 ml:
+Ananassi jäätis maasika-sidruni mahlajää ja sidruni-laimimaitselise sidruni mahlajääga.
+
+Twister chic mini straw core 50ml: 
+Ananassi jäätis maasika-sidruni mahlajää ja sidruni-laimimaitselise sidruni mahlajääga.
+</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Hungarian">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister chic mini lemon core 50 ml:
+Citrom-lime ízű vizes jégkrém ananász ízű jégkrémmel és eper-citrom ízű vizes jégkrémmel
+
+Twister chic mini straw core 50ml: 
+Eper-citrom ízű vizes jégkrém ananász ízű jégkrémmel és citrom-lime ízű vizes jégkrémmel
+</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Latvian">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister chic mini lemon core 50 ml:
+Ananāsu saldējums ar zemeņu-citronu augļu saldējumu un citronu-laimu garšas citronu augļu saldējumu.
+
+Twister chic mini straw core 50ml: 
+Ananāsu saldējums ar zemeņu-citronu augļu saldējumu un citronu-laimu garšas citronu augļu saldējumu.
+</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Lithuanian">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister chic mini lemon core 50 ml:
+Ananasų valgomieji ledai su braškių-citrinų vaisiniais ledais ir citrinų-žaliųjų citrinų skonio vaisiniais ledais. 
+
+Twister chic mini straw core 50ml: 
+Ananasų valgomieji ledai su braškių-citrinų vaisiniais ledais ir citrinų-žaliųjų citrinų skonio vaisiniais ledais. 
+</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Polish">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister lemon core 50 ml:
+Lody ananasowe, lody truskawkowo-cytrynowe i lody o smaku cytrynowo - limonkowym.
+
+Twister strawberry core 50ml: 
+Lody ananasowe, lody truskawkowo-cytrynowe i lody o smaku cytrynowo - limonkowym.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Portugues">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister mini Limão 50ml: Gelado de ananás com gelado de água com morango e limão e gelado de água com limão aromatizado com limão e lima.
+
+Twister mini Morango 50ml: Gelado de ananás com gelado de água com morango e limão e gelado de água com limão aromatizado com limão e lima.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Suoma (Finnish)">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister mini Lemon core 50 ml:
+Pineapple ice cream with strawberry-lemon fruit ice and lemon fruit ice with lemon lime flavour.
+
+Twister mini Strawberry core 50 ml:
+Pineapple ice cream with strawberry-lemon fruit ice and lemon fruit ice with lemon lime flavour.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Svenska (Swedish)">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister mini Lemon core 50 ml:
+Pineapple ice cream with strawberry-lemon fruit ice and lemon fruit ice with lemon lime flavour.
+
+Ananasglass med jordgubbs-citronfruktis och citron-limefruktis.
+
+Twister mini Strawberry core 50 ml:
+Pineapple ice cream with strawberry-lemon fruit ice and lemon fruit ice with lemon lime flavour.
+
+Ananasglass med jordgubbs-citronfruktis och citron-limefruktis.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Country" language="English">
+         <VALUE>Switzerland</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Francais">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>Twister Mini au coeur vert:
+Glace ananas, glace à l'eau fraise-citron et glace à l'eau au citron aromatisée citron vert.
+
+Twister Mini au coeur rouge:
+Glace ananas, glace à l'eau fraise-citron et glace à l'eau au citron aromatisée citron vert.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Deutsch">
+         <VALUE>Twister Mini mit grünem Kern: Glace Ananas, Wassereis Erdbeer-Zitrone und Wassereis Zitrone mit Limettenaroma. Twister Mini mit rotem Kern: Glace Ananas, Wassereis Erdbeer-Zitrone und Wassereis Zitrone mit Limettenaroma.</VALUE>
+         <UOM/>
+         <NOTE>Twister Mini mit grünem Kern:
+Glace Ananas, Wassereis Erdbeer-Zitrone und Wassereis Zitrone mit Limettenaroma.
+
+Twister Mini mit rotem Kern:
+Glace Ananas, Wassereis Erdbeer-Zitrone und Wassereis Zitrone mit Limettenaroma.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Espanol">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Czech">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Dansk (Danish)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Hungarian">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Polish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Portugues">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Suoma (Finnish)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Svenska (Swedish)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Exemption Flags" property="Exempt from Artwork" attribute="   -   " header="Present" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Exemption Flags" property="Exempt from NEP Reporting" attribute="   -   " header="Present" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Size Information" property="Serving Size" attribute="Metric (g) - As prep" header="UOM" language="English">
+         <VALUE>G</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Size Information" property="Serving Size" attribute="Metric (g) - As sold" header="UOM" language="English">
+         <VALUE>G</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat" attribute="   -   " header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Protein" attribute="   -   " header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kJ" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kcal" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate" attribute="   -   " header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Cholesterol" attribute="   -   " header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fibre" attribute="Dietary" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Salt" attribute="as NaCl" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Sodium" attribute="mg" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate of which" attribute="Sugars" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="SAFA" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="Trans" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Information" property="Variable serving size" attribute="   -   " header="Present" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Information" property="Product is consumed as sold" attribute="   -   " header="Present" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Meat" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Meat" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Alcohol" attribute="   -   " header="Comment" language="English">
+         <VALUE>From Flavours</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Alcohol" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Alcohol" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Irradiation" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Irradiation" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Kosher" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Kosher" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Ovo Lacto Vegetarian" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Ovo Lacto Vegetarian" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Vegan" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Vegan" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Gluten Free" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Gluten Free" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="English">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Deutsch">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Czech">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Estonian">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Hungarian">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Latvian">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Lithuanian">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Polish">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Portugues">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Value" language="English">
+         <VALUE>312</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="English">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="Deutsch">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="Czech">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="Estonian">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="Hungarian">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="Latvian">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="Lithuanian">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="Polish">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="Portugues">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Value" language="English">
+         <VALUE>400</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="English">
+         <VALUE>8 portions</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Deutsch">
+         <VALUE>8 Portionen</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Czech">
+         <VALUE>.</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Estonian">
+         <VALUE>8 portsjonit</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Hungarian">
+         <VALUE>8 adag</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Latvian">
+         <VALUE>8 porcijas</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Lithuanian">
+         <VALUE>8 porcijos</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Polish">
+         <VALUE>porcja**</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Portugues">
+         <VALUE>8 porções</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Value" language="English">
+         <VALUE>8</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight per serving/portion" attribute="   -   " header="Value" language="English">
+         <VALUE>39</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume per serving/portion" attribute="   -   " header="Value" language="English">
+         <VALUE>50</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="English">
+         <VALUE>no claims for multipack</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="Francais">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="Deutsch">
+         <VALUE>Ohne künstliche Farbstoffe und Aromen</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="Czech">
+         <VALUE>Without artificial flavours</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="Estonian">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="Hungarian">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="Polish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="Portugues">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="Francais">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="Deutsch">
+         <VALUE>Glutenfrei</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="Czech">
+         <VALUE>Responsibly made for kids²</VALUE>
+         <UOM/>
+         <NOTE>²Naše zmrzliny Max jsou navrženy tak, aby nejen chutnaly a byly zábavné, ale zároveň splňovaly naše výživová kritéria zmrzlin vhodných i pro děti. Více informací na www.icecreamjoy.com.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="Hungarian">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="Polish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="Portugues">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="Francais">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="Deutsch">
+         <VALUE>Mit Fruchtsaft</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="Czech">
+         <VALUE>Bez lepku.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="Hungarian">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="Polish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="Portugues">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peas" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peas" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peas" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peas" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Celery" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Celery" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Celery" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Celery" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Mustard/Mustard products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Mustard/Mustard products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Mustard/Mustard products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Mustard/Mustard products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Lupin and products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Lupin and products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Lupin and products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Lupin and products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (&lt;10mg/kg)" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (&lt;10mg/kg)" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (&lt;10mg/kg)" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (&lt;10mg/kg)" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Conditions" language="English">
+         <VALUE>Frozen</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="English">
+         <VALUE>.</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Francais">
+         <VALUE>A conserver à -18°C. A consommer de</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Deutsch">
+         <VALUE>Bei -18°C mindestens haltbar bis Ende:</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Czech">
+         <VALUE>Minimální trvanlivost do konce:</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Estonian">
+         <VALUE>Parim enne lõppu: vaata pakendilt.</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Hungarian">
+         <VALUE>Minőségét megőrzi a jelzett hónap végéig</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Latvian">
+         <VALUE>Ieteicams līdz beigām: sk. uz iepakojuma</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Lithuanian">
+         <VALUE>Geriausias iki pabaigos:žr. ant pakuotės</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Polish">
+         <VALUE>Najlepiej spożyć przed końcem: </VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Portugues">
+         <VALUE>Consumir de preferência antes do fim de:</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Value" language="English">
+         <VALUE>24</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Comment" language="English">
+         <VALUE>.</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Comment" language="Francais">
+         <VALUE>préférence avant fin : voir sur le côté</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Comment" language="Deutsch">
+         <VALUE>siehe Seitenfläche.</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Comment" language="Czech">
+         <VALUE>.</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Comment" language="Hungarian">
+         <VALUE>(hó/év): lásd a doboz oldalán.</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Comment" language="Polish">
+         <VALUE>.</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Comment" language="Portugues">
+         <VALUE>ver embalagem</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Best Before" attribute="Days" header="Comment" language="English">
+         <VALUE>.</VALUE>
+         <UOM>day(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Best Before" attribute="Days" header="Comment" language="Francais">
+         <VALUE>de la boîte.</VALUE>
+         <UOM>day(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Best Before" attribute="Days" header="Comment" language="Czech">
+         <VALUE>.</VALUE>
+         <UOM>day(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Best Before" attribute="Days" header="Comment" language="Polish">
+         <VALUE>.</VALUE>
+         <UOM>day(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Best Before" attribute="Days" header="Comment" language="Portugues">
+         <VALUE>.</VALUE>
+         <UOM>day(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Product Origin" property="Country" attribute="1" header="Comment" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Product Origin" property="Country" attribute="1" header="Comment" language="Deutsch">
+         <VALUE>Hergestellt in der EU.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Product Origin" property="Country" attribute="1" header="Of Manufacture" language="English">
+         <VALUE>UK</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Product Origin" property="Country" attribute="2" header="Of Manufacture" language="English">
+         <VALUE>Poland</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="English">
+         <TEXT>4 x Twister chic mini lemon core 50 ml 
+4 x Twister chic mini straw core 50ml
+
+
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="Espanol">
+         <TEXT>4 x Twister centro de limón 50 ml
+4 x Twister centro de fresa 50ml
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="Czech">
+         <TEXT>.
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="Dansk (Danish)">
+         <TEXT>4 x Twister chic mini lemon core 50 ml 
+4 x Twister chic mini straw core 50 ml</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="Portugues">
+         <TEXT>4 x Twister mini Limão 50ml
+4 x Twister mini Morango 50ml</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="Suoma (Finnish)">
+         <TEXT>4 x Twister chic mini lemon core 50 ml 
+4 x Twister chic mini straw core 50 ml</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="Svenska (Swedish)">
+         <TEXT>4 x Twister chic mini lemon core 50 ml 
+4 x Twister chic mini straw core 50 ml
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Symbols/Logos" language="English">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Symbols/Logos" language="Polish">
+         <TEXT>Logo Unilever
+Logo Algida
+Logo Zielony punkt</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Nutrition" sub_section="(none)" text_header="Nutrition Information" language="English">
+         <TEXT>NOTE:- see associated specs for full detail.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Nutrition" sub_section="(none)" text_header="Nutrition Information" language="Czech">
+         <TEXT>Výživové údaje
+Energie
+Tuky
+z toho nasycené mastné kyseliny
+Sacharidy
+z toho cukry
+Bílkoviny
+Sůl
+*% z referenční hodnoty příjmu u průměrné dospělé osoby (8400 kJ/2000 kcal).</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Local Information" sub_section="(none)" text_header="Local Information" language="English">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Local Information" sub_section="(none)" text_header="Local Information" language="Dansk (Danish)">
+         <TEXT>Rubik code: 40004339
+SEN code: 47368</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Local Information" sub_section="(none)" text_header="Local Information" language="Svenska (Swedish)">
+         <TEXT>Rubik code: 40004339
+SEN code: 47368</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="English">
+         <TEXT>Twister chic mini lemon core 50 ml:
+Ingredients: water, sugar, reconstituted skimmed MILK, glucose syrup, lemon juice* (4,5%), strawberry juice*( 3,8%), fructose syrup, pineapple juice*( 1,7%), maltodextrine, vegetable oils (coconut, sunflower), whey solids (MILK), glucose fructose syrup, stabilisers (E412 guar gum, E410 Locust bean gum, E407 carrageenan), flavourings (MILK), acidifier (E330 citric acid), emulsifier (E471 mono/diglycerides of fatty acids), elderberry juice concentrate, Red beetroot juice concentrate, colours (E140 chlorophylls, E100 curcumin), * from concentrate. Gluten free			
+					
+
+Twister chic mini straw core 50ml:
+Ingredients: water, sugar, reconstituted skimmed MILK, strawberry juice*(5,7%)glucose syrup, lemon juice* (3,6%), fructose syrup, maltodextrine, pineapple juice*(1,7%), vegetable oils(coconut, sunflower), whey solids (MILK), glucose fructose syrup, stabilisers (E412 guar gum, E410 Locust bean gum, E407 carrageenan), flavourings (MILK), acidifier ( E330 citric acid), elderberry juice concentrate, Red beetroot juice concentrate, emulsifier (E471 mono/diglycerides of fatty acids), colours (E140 chlorophylls, E100 curcumin),* from concentrate. Gluten free
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Francais">
+         <TEXT>(CH)
+Twister Mini au coeur vert:
+Ingrédients : eau, sucre, LAIT écrémé réhydraté, sirop de glucose, jus de citron¹ (4,5%), jus de fraise¹ (3,8%), sirop de fructose, jus d’ananas¹ (1,7%), maltodextrine, huiles végétales (coco, tournesol), LACTOSE et protéines de LAIT, sirop de glucose-fructose, stabilisants (farine de graines de guar, farine de graines de caroube, carraghénanes), arômes (avec du LAIT), acidifiant (acide citrique), émulsifiant (mono- et diglycérides d'acides gras), jus de sureau concentré, jus de betterave concentré, colorants (chlorophylles, curcumine). ¹à base de jus de fruit
+concentré. Sans gluten.
+
+(CH)
+Twister Mini au coeur rouge:
+Ingrédients : eau, sucre, LAIT écrémé réhydraté, jus de fraise¹ (5,7%), sirop de glucose, jus de citron¹ (3,6%), sirop de fructose, maltodextrine, jus d’ananas¹ (1,7%), huiles végétales (coco, tournesol), LACTOSE et protéines de LAIT, sirop de glucose-fructose, stabilisants (farine de graines de guar, farine de graines de caroube, carraghénanes), arômes (avec du LAIT), acidifiant (acide citrique), jus de sureau concentré, jus de betterave concentré, émulsifiant (mono- et diglycérides d'acides gras), colorants (chlorophylles, curcumine). ¹à base de jus de fruit concentré. Sans gluten.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Deutsch">
+         <TEXT>Twister Mini mit grünem Kern:
+Zutaten: Wasser, Zucker, entrahmte MILCH, Glukosesirup, Zitronensaft¹ (4,5%), Erdbeersaft¹ (3,8%), Fruktosesirup, Ananassaft¹ (1,7%), Maltodextrin, pflanzliche Öle (Kokos, Sonnenblumen), MOLKENERZEUGNIS, Glukose-Fruktose-Sirup, Stabilisatoren (Guarkernmehl, Johannisbrotkernmehl, Carrageen), Aromen (mit MILCH), Säuerungsmittel (Citronensäure), Emulgator (Mono- und Diglyceride von Speisefettsäuren), Holunderbeersaftkonzentrat, Rote-Bete-Saftkonzentrat, Farbstoffe (Chlorophylle, Kurkumin). ¹aus Fruchtsaftkonzentrat. Glutenfrei.	
+
+Twister Mini mit rotem Kern:
+Zutaten: Wasser, Zucker, entrahmte MILCH, Erdbeersaft¹ (5,7%), Glukosesirup, Zitronensaft¹ (3,6%), Fruktosesirup, Maltodextrin, Ananassaft¹ (1,7%), pflanzliche Öle (Kokos, Sonnenblumen), MOLKENERZEUGNIS, Glukose-Fruktose-Sirup, Stabilisatoren (Guarkernmehl, Johannisbrotkernmehl, Carrageen), Aromen (mit MILCH), Säuerungsmittel (Citronensäure), Holunderbeersaftkonzentrat, Rote-Bete-Saftkonzentrat, Emulgator (Mono- und Diglyceride von Speisefettsäuren), Farbstoffe (Chlorophylle, Kurkumin). ¹aus Fruchtsaftkonzentrat. Glutenfrei.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Espanol">
+         <TEXT>Twister centro de limón 50ml:
+Ingredientes: agua, azúcar, LECHE desnatada rehidratada, jarabe de glucosa, zumo de limón* (4,5%), zumo de fresa* (3,8%), jarabe de fructosa, zumo de piña* (1,7%), maltodextrina, grasa y aceite vegetales (coco, girasol), suero de LECHE en polvo, jarabe de glucosa-fructosa, estabilizantes (goma guar, harina de garrofín, carragenano), aromas (contiene LECHE), corrector de acidez (ácido cítrico), emulgente (mono y diglicéridos de ácidos grasos), zumo de baya de saúco concentrado, zumo de remolacha concentrado, colorantes (clorofilas, curcumina). *A partir de concentrado. Sin gluten
+
+Twister centro de fresa 50ml:
+Ingredientes: agua, azúcar, LECHE desnatada rehidratada, zumo de fresa* (5,7%), jarabe de glucosa, zumo de limón* (3,6%), jarabe de fructosa, maltodextrina, zumo de piña* (1,7%), grasa y aceite vegetales (coco, girasol), suero de LECHE en polvo, jarabe de glucosa-fructosa, estabilizantes (goma guar, harina de garrofín, carragenano), aromas (contiene LECHE), corrector de acidez (ácido cítrico), zumo de baya de saúco concentrado, zumo de remolacha concentrado, emulgente (mono y diglicéridos de ácidos grasos), colorantes (clorofilas, curcumina). *A partir de concentrado. Sin gluten</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Czech">
+         <TEXT>Twister mini Lemon core. 
+Složení: voda, cukr, obnovené odtučněné MLÉKO, glukózový sirup, citronová šťáva¹ (4,5 %), jahodová šťáva¹ (3,8 %), fruktózový sirup, ananasová šťáva¹ (1,7 %), maltodextrin, rostlinné oleje (kokosový, slunečnicový), sušená SYROVÁTKA, glukózo-fruktózový sirup, stabilizátory (guma guar, karubin, karagenan), aromata (obsahují MLÉKO), regulátor kyselosti (kyselina citronová), emulgátor (mono- a diglyceridy mastných kyselin), koncentrát z bezinek, koncentrát z červené řepy, barviva (chlorofyly a chlorofyliny, kurkumin). ¹ z koncentrátu. Bez lepku.
+
+Twister mini Strawberry core. 
+Složení: voda, cukr, obnovené odtučněné MLÉKO, jahodová šťáva¹ (5,7 %), glukózový sirup, citronová šťáva¹ (3,6 %), fruktózový sirup, maltodextrin, ananasová šťáva¹ (1,7 %), rostlinné oleje (kokosový, slunečnicový), sušená SYROVÁTKA, glukózo-fruktózový sirup, stabilizátory (guma guar, karubin, karagenan), aromata (obsahují MLÉKO), regulátor kyselosti (kyselina citronová), koncentrát z bezinek, koncentrát z červené řepy, emulgátor (mono- a diglyceridy mastných kyselin), barviva (chlorofyly a chlorofyliny, kurkumin). ¹ z koncentrátu. Bez lepku.
+
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Dansk (Danish)">
+         <TEXT>Twister mini Lemon core 50 ml:
+Ingredienser: Vand, sukker, SKUMMETMÆLK, glukosesirup, citronsaft¹ (4,5%), jordbærsaft¹ (3,8%), fruktosesirup, ananassaft¹ (1,7%), maltodextrin, vegetabilske olier (kokos, solsikke), vallepulver (MÆLK), glukose-fruktosesirup, stabilisatorer (guargummi, johannesbrødkernemel, carrageenan), aromaer (MÆLK), surhedsregulerende middel (citronsyre), emulgator (mono- og diglycerider af fedtsyrer), hyldebærsaftkoncentrat, rødbedesaftkoncentrat, farvestoffer (chlorophyll, curcumin). ¹Fremstillet af koncentrat.
+
+Twister mini Strawberry core 50 ml:
+Ingredienser: Vand, sukker, SKUMMETMÆLK, jordbærsaft¹ (5,7%), glukosesirup, citronsaft¹ (3,6%), fruktosesirup, maltodextrin, ananassaft¹ (1,7%), vegetabilske olier (kokos, solsikke), vallepulver (MÆLK), glukose-fruktosesirup, stabilisatorer (guargummi, johannesbrødkernemel, carrageenan), aromaer (MÆLK), surhedsregulerende middel (citronsyre), hyldebærsaftkoncentrat, rødbedesaftkoncentrat, emulgator (mono- og diglycerider af fedtsyrer), farvestoffer (chlorophyll, curcumin). ¹Fremstillet af koncentrat.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Estonian">
+         <TEXT>Twister chic mini lemon core 50 ml:
+Koostisosad: vesi, suhkur, taastatud LÕSS, glükoosisiirup, sidrunimahl* (4,5%), maasikamahl*(3,8%), fruktoosisiirup, ananassimahl*(1,7%), maltodekstriin, taimsed õlid (kookos, päevalill), laabivadak (PIIM), glükoosi-fruktoosisiirup, stabilisaatorid (guarkummi, jaanileivapuujahu, karrageen), lõhna- ja maitseained (sisaldab PIIMA), happesuse regulaator (sidrunhape), emulgaator (rasvhapete mono- ja diglütseriidid), leedrimarjamahla kontsentraat, punapeedimahla kontsentraat, toiduvärv (klorofüllid, kurkumiin), *kontsentraadist. Gluteenivaba.
+					
+
+Twister chic mini straw core 50ml:
+Koostisosad: vesi, suhkur, taastatud LÕSS, maasikamahl*(5,7%), glükoosisiirup, sidrunimahl* (3,6%), fruktoosisiirup, maltodekstriin, ananassimahl*(1,7%), taimsed õlid (kookos, päevalill), vadakupulber (PIIM), glükoosi-fruktoosisiirup, stabilisaatorid (guarkummi, jaanileivapuujahu, karrageen), lõhna- ja maitseained (sisaldab PIIMA), happesuse regulaator (sidrunhape), leedrimarjamahla kontsentraat, punapeedimahla kontsentraat, emulgaator (rasvhapete mono- ja diglütseriidid), toiduvärv (klorofüllid, kurkumiin), *kontsentraadist. Gluteenivaba.
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Hungarian">
+         <TEXT>Twister chic mini lemon core 50 ml:
+Összetevők: víz, cukor, sovány TEJ, glükózszirup, citromlé ¹ (4,5%), eperlé¹ (3,8%), fruktóz szirup, ananászlé ¹ (1,7%), maltodextrin, növényi olajok (kókusz, napraforgó), TEJSAVÓKÉSZÍTMÉNY , glükóz-fruktózszörp, stabilizátorok (guargumi, szentjánoskenyérliszt, karragén), aromák (TEJSZÁRMAZÉKKAL), savanyúságot szabályozó anyag (citromsav), emulgeálószer (zsírsavak mono-és digliceridjei), bodzalé sűrítmény, céklalé sűrítmény, színezékek (klorofillok és klorofillinek, kurkumin).  ¹sűrítményből. Gluténmentes.
+
+Twister chic mini straw core 50ml:	
+Összetevők: víz, cukor, sovány TEJ, eperlé¹ (5,7%), glükózszirup, citromlé ¹ (3,6%), fruktóz szirup, maltodextrin, ananászlé ¹ (1,7%), növényi olajok (kókusz, napraforgó), TEJSAVÓKÉSZÍTMÉNY , glükóz-fruktózszörp, stabilizátorok (guargumi, szentjánoskenyérliszt, karragén), aromák (TEJSZÁRMAZÉKKAL), savanyúságot szabályozó anyag (citromsav),  bodzalé sűrítmény, céklalé sűrítmény, emulgeálószer (zsírsavak mono-és digliceridjei),  színezékek (klorofillok és klorofillinek, kurkumin).  ¹sűrítményből. Gluténmentes.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Latvian">
+         <TEXT>Twister chic mini lemon core 50 ml:
+Sastāvdaļas: ūdens, cukurs, atjaunots VĀJPIENS, glikozes sīrups, citronu sula* (4,5%), zemeņu sula* (3,8%), fruktozes sīrups, ananāsu sula* (1,7%), maltodekstrīns, augu eļļas (kokosriekstu, saulespuķu), sūkalu pulveris (PIENS), glikozes-fruktozes sīrups, stabilizētāji (guāra sveķi, ceratoniju augļu sveķi, karagināns), aromatizētājs (satur PIENU), skābuma regulētājs (citronskābe), emulgators (taukskābju monoglicerīdi un diglicerīdi), plūškoka augļu sulas koncentrāts, sarkano biešu sulas koncentrāts, krāsvielas (hlorofili, kurkumīns), *no koncentrāta. Bez glutēna.		
+					
+
+Twister chic mini straw core 50ml:
+Sastāvdaļas: ūdens, cukurs, atjaunots VĀJPIENS, zemeņu sula* (5,7%), glikozes sīrups, citronu sula* (3,6%), fruktozes sīrups, maltodekstrīns, ananāsu sula* (1,7%), augu eļļas (kokosriekstu, saulespuķu), sūkalu pulveris (PIENS), glikozes-fruktozes sīrups, stabilizētāji (guāra sveķi, ceratoniju augļu sveķi, karagināns), aromatizētājs (satur PIENU), skābuma regulētājs (citronskābe), plūškoka augļu sulas koncentrāts, sarkano biešu sulas koncentrāts, emulgators (taukskābju monoglicerīdi un diglicerīdi), krāsvielas (hlorofili, kurkumīns), *no koncentrāta. Bez glutēna.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Lithuanian">
+         <TEXT>Twister chic mini lemon core 50 ml:
+Sudedamosios dalys: vanduo, cukrus, regeneruotas nugriebtas PIENAS, gliukozės sirupas, citrinų sultys* (4,5 %), braškių sultys* (3,8 %), fruktozės sirupas, ananasų sultys* (1,7 %), maltodekstrinas, augaliniai aliejai (kokosų,  saulėgrąžų), išrūgų milteliai (PIENAS), gliukozės ir fruktozės sirupas, stabilizatoriai (pupenių derva, saldžiųjų ceratonijų derva, karageninas), kvapiosios medžiagos (sudėtyje yra PIENO), rūgštingumą reguliuojanti medžiaga (citrinų rūgštis), emulsikliai (riebalų rūgščių mono- ir digliceridai), šeivamedžio uogų sulčių koncentratas, burokėlių sulčių koncentratas, dažiklisi (chlorofilai, kurkuminas), *iš koncentrato. Be glitimo.		
+					
+
+Twister chic mini straw core 50ml:
+Sudedamosios dalys: vanduo, cukrus, regeneruotas nugriebtas PIENAS, braškių sultys* (5,7 %), gliukozės sirupas, citrinų sultys* (3,6 %), fruktozės sirupas, maltodekstrinas, ananasų sultys* (1,7 %), augaliniai aliejai (kokosų, saulėgrąžų), išrūgų milteliai (PIENAS), gliukozės ir fruktozės sirupas, stabilizatoriai (pupenių derva, saldžiųjų ceratonijų derva, karageninas), kvapiosios medžiagos (sudėtyje yra PIENO), rūgštingumą reguliuojanti medžiaga (citrinų rūgštis), šeivamedžio uogų sulčių koncentratas, burokėlių sulčių koncentratas, emulsiklis (riebalų rūgščių mono- ir digliceridai), dažiklis (chlorofilai, kurkuminas), *iš koncentrato. Be glitimo.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Polish">
+         <TEXT>Twister chic mini lemon core 50 ml:
+Składniki: woda, cukier, odtworzone odtłuszczone MLEKO, syrop glukozowy, sok cytrynowy¹ (4,5%), sok truskawkowy¹ (3,8%), syrop fruktozowy, sok ananasowy¹ (1,7%), maltodekstryna, oleje roślinne (kokosowy, słonecznikowy), preparat serwatkowy (MLEKO), syrop glukozowo-fruktozowy, stabilizatory (guma guar, mączka chleba świętojańskiego, karagen), aromaty (w tym MLEKO), regulator kwasowości (kwas cytrynowy), emulgator (mono- i diglicerydy kwasów tłuszczowych), zagęszczony sok z czarnego bzu, zagęszczony sok z buraka czerwonego, barwnik (chlorofile, kurkumina), ¹z soku zagęszczonego. Produkt bezglutenowy.
+
+Twister chic mini straw core 50ml:
+Składniki: woda, cukier, odtworzone odtłuszczone MLEKO, sok truskawkowy¹ (5,7%), syrop glukozowy, sok cytrynowy¹ (3,6%), syrop fruktozowy, maltodekstryna, sok ananasowy¹ (1,7%), oleje roślinne (kokosowy, słonecznikowy), preparat serwatkowy (MLEKO), syrop glukozowo-fruktozowy, stabilizatory (guma guar, mączka chleba świętojańskiego, karagen), aromaty (w tym MLEKO), regulator kwasowości (kwas cytrynowy), zagęszczony sok z czarnego bzu, zagęszczony sok z buraka czerwonego, emulgator (mono- i diglicerydy kwasów tłuszczowych), barwnik (chlorofile, kurkumina), ¹z soku zagęszczonego. Produkt bezglutenowy.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Portugues">
+         <TEXT>Twister mini Limão 50ml:
+Ingredientes: água, açúcar, LEITE magro reconstituído, xarope de glicose, sumo de limão* (4,5%), sumo de morango* (3,8%), xarope de frutose, sumo de ananás* (1,7%), maltodextrina, gordura de coco, óleo de girassol, LACTOSE e proteínas lácteas (LEITE), xarope de glicose e frutose, espessantes (goma de guar, farinha de semente de alfarroba, carragenina), aromas (LEITE), regulador de acidez (ácido cítrico), emulsionante (mono e diglicéridos de ácidos gordos), sumo de frutos vermelhos concentrado, sumo de beterraba concentrado, corantes (clorofilas, curcumina). *à base de concentrado. Isento de glúten.
+
+Twister mini Morango 50ml:
+Ingredientes: água, açúcar, LEITE magro reconstituído, sumo de morango* (5,7%), xarope de glicose, sumo de limão* (3,6%), xarope de frutose, maltodextrina, sumo de ananás* (1,7%), gordura de coco, óleo de girassol, LACTOSE e proteínas lácteas (LEITE), xarope de glicose e frutose, espessantes (goma de guar, farinha de semente de alfarroba, carragenina), aromas (LEITE), regulador de acidez (ácido cítrico), sumo de frutos vermelhos concentrado, sumo de beterraba concentrado, emulsionante (mono e diglicéridos de ácidos gordos), corantes (clorofilas, curcumina). *à base de concentrado. Isento de glúten.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Svenska (Swedish)">
+         <TEXT>Twister mini Lemon core 50 ml:
+Ingredienser: Vatten, socker, SKUMMJÖLK, glukossirap, citronjuice¹ (4,5%), jordgubbsjuice¹ (3,8%), fruktossirap, ananasjuice¹ (1,7%), maltodextrin, vegetabiliska oljor (kokos, solros), vasslepulver (MJÖLK), glukos-fruktossirap, stabiliseringsmedel (guarkärnmjöl, fruktkärnmjöl, karragenan), arom (MJÖLK), surhetsreglerande medel (citronsyra), emulgeringsmedel (mono- och diglycerider av vegetabiliska fettsyror), fläderbärsjuicekoncentrat, rödbetsjuicekoncentrat, färgämnen (klorofyller, kurkumin). ¹Framställd av koncentrat.
+
+Twister mini Strawberry core 50 ml:
+Ingredienser: Vatten, socker, SKUMMJÖLK, jordgubbsjuice¹ (5,7%), glukossirap, citronjuice¹ (3,6%), fruktossirap, maltodextrin, ananasjuice¹ (1,7%), vegetabiliska oljor (kokos, solros), vasslepulver (MJÖLK), glukos-fruktossirap, stabiliseringsmedel (guarkärnmjöl, fruktkärnmjöl, karragenan), arom (MJÖLK), surhetsreglerande medel (citronsyra), fläderbärsjuicekoncentrat, rödbetsjuicekoncentrat, emulgeringsmedel (mono- och diglycerider av vegetabiliska fettsyror), färgämnen (klorofyller, kurkumin). ¹Framställd av koncentrat.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Instructions for Use" language="English">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Instructions for Use" language="Dansk (Danish)">
+         <TEXT>Bedst før udgangen af: se pakken.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Instructions for Use" language="Svenska (Swedish)">
+         <TEXT>Bäst före utgången av: se förpackningen.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="English">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Francais">
+         <TEXT>A conserver à -18°C. A consommer de préférence avant fin : voir sur le côté de la boîte.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Deutsch">
+         <TEXT>Bei -18°C mindestens haltbar bis Ende: siehe Seitenfläche.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Espanol">
+         <TEXT>Mantener a temperatura inferior a -18 ºC</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Czech">
+         <TEXT>Skladujte při teplotě: -18 °C a nižší.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Dansk (Danish)">
+         <TEXT>Opbevares ved -18°C eller koldere.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Estonian">
+         <TEXT>Säilitada temperatuuril mitte üle -18 °C.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Hungarian">
+         <TEXT>Tárolás -18°C alatt.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Latvian">
+         <TEXT>Uzglabāt temperatūrā ne augstākā par -18°C.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Lithuanian">
+         <TEXT>Laikyti ne aukštesnėje kaip -18 °C temperatūroje.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Polish">
+         <TEXT>Przechowywać w temperaturze nie wyższej niż -18°C.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Portugues">
+         <TEXT>Conservar no congelador (-18ºC).</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Svenska (Swedish)">
+         <TEXT>Förvaring vid -18°C eller kallare.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Safety Instructions" language="English">
+         <TEXT>Consumir preferentemente antes del fin de:</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Safety Instructions" language="Francais">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Safety Instructions" language="Deutsch">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Safety Instructions" language="Czech">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Safety Instructions" language="Polish">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="English">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Deutsch">
+         <TEXT>Unilever Deutschland, Postfach 570385, 22772 Hamburg, Konsumentenservice: 0800-1013 914 (gebührenfrei). www.langnese.de
+
+Unilever Schweiz, CH-8240 Thayngen, Konsumentenservice 0800 000 041 (gebührenfrei), hergestellt in der EU. www.lusso.ch</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Espanol">
+         <TEXT>Unilever España S.A.
+C/Tecnología 19,
+08840 Viladecans (Barcelona)
+Tel. Atención al Consumidor
+900 812 511</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Czech">
+         <TEXT>CZ: UNILEVER ČR, spol. s r.o., Rohanské nábřeží 670, 186 00 Praha 8.
+„/symbol of phone/“ CZ: 844 222 844</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Dansk (Danish)">
+         <TEXT>Unilever Danmark A/S, Ørestads Boulevard 73, 2300 København S, Frisko Is Forbrugerkontakt tlf. 70 27 77 86, frisko.dk@unilever.com, www.frisko.dk</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Estonian">
+         <TEXT>Turustaja: UAB Unilever Lietuva distribucija, Skuodo g. 28, Mažeikiai, LT-89100, Leedu. Infotelefon: 800 2004.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Hungarian">
+         <TEXT>Forgalmazza:
+Unilever Magyarország Kft.
+1138 Budapest, Váci út 182.
+(symbol of phone) 06-40-400-400.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Latvian">
+         <TEXT>Izplatītājs: UAB „Unilever Lietuva distribucija“, Skuodo g. 28, Mažeikiai, LT-89100, Lietuva. Info līnija: 80 200 990. </TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Lithuanian">
+         <TEXT>Tiekėjas: UAB „Unilever Lietuva distribucija“, Skuodo g. 28, Mažeikiai, LT-89100, Lietuva. Infolinija: 8 800 70070.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Polish">
+         <TEXT>Unilever Polska Sp. z o.o.,
+Al. Jerozolimskie 134,
+02-305 Warszawa,
+Polska.
+Infolinia: 801 313 115, koszt: 1 impuls za każde rozpoczęte 3 minuty połączenia.
+Unilever Polska Sp. z o.o., skr. poczt. 315, 00-987 Warszawa 4, "Algida".
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Portugues">
+         <TEXT>Unilever Jerónimo Martins, Lda. Largo Monterroio Mascarenhas 1, 1099-081 Lisboa. Linha Azul Olá 808 500 707 (Custo de Chamada Local, dias úteis das 10h às 17h).</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Svenska (Swedish)">
+         <TEXT>Unilever Sverige AB, GB Glace Konsumentkontakt, Box 1056, 171 22 Solna, tel. 0771-829100, konsumentkontakt@gb.se, www.gb.se</TEXT>
+      </TEXT_DATA>
+      <REF_TEXT_DATA section="Claims and Declarations" sub_section="(none)" short_description="CON cross cantaminat" description="Risk of Cross Contamination during Processing" language="English">
+         <TEXT>Information captured in the following property groups relates to the total allergen status of a product i.e. allergens inherent in the underlying ingredient composition of the product in addition to those due to cross contamination during processing of the product and which impact on final product labelling</TEXT>
+      </REF_TEXT_DATA>
+  </CON>
+  <CON>
+      <LANGUAGES>
+         <LANGUAGE>Czech</LANGUAGE>
+         <LANGUAGE>Dansk (Danish)</LANGUAGE>
+         <LANGUAGE>Deutsch</LANGUAGE>
+         <LANGUAGE>English</LANGUAGE>
+         <LANGUAGE>Espanol</LANGUAGE>
+         <LANGUAGE>Estonian</LANGUAGE>
+         <LANGUAGE>Francais</LANGUAGE>
+         <LANGUAGE>Hungarian</LANGUAGE>
+         <LANGUAGE>Latvian</LANGUAGE>
+         <LANGUAGE>Lithuanian</LANGUAGE>
+         <LANGUAGE>Polish</LANGUAGE>
+         <LANGUAGE>Portugues</LANGUAGE>
+         <LANGUAGE>Suoma (Finnish)</LANGUAGE>
+         <LANGUAGE>Svenska (Swedish)</LANGUAGE>
+      </LANGUAGES>
+      <CON_MAIN_DATA>
+         <PART_NO>66398301IS_30</PART_NO>
+         <REVISION>3</REVISION>
+         <DESCRIPTION>Mixed MPK, Max Twister Pin/Straw/LemonLime 8MP - LCON</DESCRIPTION>
+         <PLANNED_EFFECTIVE_DATE>21-Jan-2016</PLANNED_EFFECTIVE_DATE>
+         <ACCESS_GROUP>PLAN</ACCESS_GROUP>
+         <LAST_MODIFIED_BY>SSCHOL99</LAST_MODIFIED_BY>
+         <RFI>D/S</RFI>
+         <FRAME_ID>G-FOODS-CON-GLOBAL</FRAME_ID>
+         <FRAME_REV>21</FRAME_REV>
+      </CON_MAIN_DATA>
+      <MCON_DATA>
+         <PART_NO/>
+         <DESCRIPTION/>
+      </MCON_DATA>
+      <MSU_CUSTOMERS/>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Brand Name" language="English">
+         <VALUE>Max</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="English">
+         <VALUE>Max Twister mini </VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="Francais">
+         <VALUE>Twister Mini</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="Deutsch">
+         <VALUE>Twister Mini</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="Czech">
+         <VALUE>Twister mini</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="Dansk (Danish)">
+         <VALUE>Twister mini 50ml 8mp</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="Suoma (Finnish)">
+         <VALUE>Twister mini 50ml 8mp</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="Svenska (Swedish)">
+         <VALUE>Twister mini 50ml 8mp</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="English">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister chic mini lemon core 50 ml:
+Pineapple ice cream with strawberry - lemon fruit ice and lemon fruit ice with lemon lime flavour.
+
+Twister chic mini straw core 50ml: 
+Pineapple ice cream with strawberry - lemon fruit ice and lemon fruit ice with lemon lime flavour.
+</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Francais">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Deutsch">
+         <VALUE>Twister Mini mit grünem Kern: Eis Ananas mit Wassereis Erdbeer-Zitrone und Zitronenfruchteis mit Limettengeschmack. Twister Mini rotem Kern: Eis Ananas mit Wassereis Erdbeer-Zitrone und Zitronenfruchteis mit Limettengeschmack.</VALUE>
+         <UOM/>
+         <NOTE>Twister Mini mit grünem Kern:
+Eis Ananas mit Wassereis Erdbeer-Zitrone und Zitronenfruchteis mit Limettengeschmack.
+
+Twister Mini rotem Kern:
+Eis Ananas mit Wassereis Erdbeer-Zitrone und Zitronenfruchteis mit Limettengeschmack.
+</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Espanol">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister centro de limón 50 ml:
+Helado de agua con limón sabor lima, sorbete con fresa y limón y helado con piña
+
+Twister centro de fresa 50ml:
+Sorbete con fresa y limón, helado de agua con limón sabor lima y helado con piña</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Czech">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister mini Lemon core. Zmrzlina citronová s limetkovou příchutí, jahodovo – citronová a mražený krém s rostlinným tukem ananasový.
+Twister mini Strawberry core. Zmrzlina jahodovo – citronová, citronová s limetkovou příchutí a mražený krém s rostlinným tukem ananasový.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Dansk (Danish)">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister mini Lemon core 50 ml:
+Pineapple ice cream with strawberry-lemon fruit ice and lemon fruit ice with lemon lime flavour.
+
+Ananasis med jordbær-citronfrugtis og citron-limefrugtis.
+
+Twister mini Strawberry core 50 ml:
+Pineapple ice cream with strawberry-lemon fruit ice and lemon fruit ice with lemon lime flavour.
+
+Ananasis med jordbær-citronfrugtis og citron-limefrugtis.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Estonian">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister chic mini lemon core 50 ml:
+Ananassi jäätis maasika-sidruni mahlajää ja sidruni-laimimaitselise sidruni mahlajääga.
+
+Twister chic mini straw core 50ml: 
+Ananassi jäätis maasika-sidruni mahlajää ja sidruni-laimimaitselise sidruni mahlajääga.
+</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Hungarian">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister chic mini lemon core 50 ml:
+Citrom-lime ízű vizes jégkrém ananász ízű jégkrémmel és eper-citrom ízű vizes jégkrémmel
+
+Twister chic mini straw core 50ml: 
+Eper-citrom ízű vizes jégkrém ananász ízű jégkrémmel és citrom-lime ízű vizes jégkrémmel
+</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Latvian">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister chic mini lemon core 50 ml:
+Ananāsu saldējums ar zemeņu-citronu augļu saldējumu un citronu-laimu garšas citronu augļu saldējumu.
+
+Twister chic mini straw core 50ml: 
+Ananāsu saldējums ar zemeņu-citronu augļu saldējumu un citronu-laimu garšas citronu augļu saldējumu.
+</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Lithuanian">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister chic mini lemon core 50 ml:
+Ananasų valgomieji ledai su braškių-citrinų vaisiniais ledais ir citrinų-žaliųjų citrinų skonio vaisiniais ledais. 
+
+Twister chic mini straw core 50ml: 
+Ananasų valgomieji ledai su braškių-citrinų vaisiniais ledais ir citrinų-žaliųjų citrinų skonio vaisiniais ledais. 
+</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Polish">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister lemon core 50 ml:
+Lody ananasowe, lody truskawkowo-cytrynowe i lody o smaku cytrynowo - limonkowym.
+
+Twister strawberry core 50ml: 
+Lody ananasowe, lody truskawkowo-cytrynowe i lody o smaku cytrynowo - limonkowym.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Portugues">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister mini Limão 50ml: Gelado de ananás com gelado de água com morango e limão e gelado de água com limão aromatizado com limão e lima.
+
+Twister mini Morango 50ml: Gelado de ananás com gelado de água com morango e limão e gelado de água com limão aromatizado com limão e lima.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Suoma (Finnish)">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister mini Lemon core 50 ml:
+Pineapple ice cream with strawberry-lemon fruit ice and lemon fruit ice with lemon lime flavour.
+
+Twister mini Strawberry core 50 ml:
+Pineapple ice cream with strawberry-lemon fruit ice and lemon fruit ice with lemon lime flavour.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="Svenska (Swedish)">
+         <VALUE>"."</VALUE>
+         <UOM/>
+         <NOTE>Twister mini Lemon core 50 ml:
+Pineapple ice cream with strawberry-lemon fruit ice and lemon fruit ice with lemon lime flavour.
+
+Ananasglass med jordgubbs-citronfruktis och citron-limefruktis.
+
+Twister mini Strawberry core 50 ml:
+Pineapple ice cream with strawberry-lemon fruit ice and lemon fruit ice with lemon lime flavour.
+
+Ananasglass med jordgubbs-citronfruktis och citron-limefruktis.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Country" language="English">
+         <VALUE>Switzerland</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Francais">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>Twister Mini au coeur vert:
+Glace ananas, glace à l'eau fraise-citron et glace à l'eau au citron aromatisée citron vert.
+
+Twister Mini au coeur rouge:
+Glace ananas, glace à l'eau fraise-citron et glace à l'eau au citron aromatisée citron vert.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Deutsch">
+         <VALUE>Twister Mini mit grünem Kern: Glace Ananas, Wassereis Erdbeer-Zitrone und Wassereis Zitrone mit Limettenaroma. Twister Mini mit rotem Kern: Glace Ananas, Wassereis Erdbeer-Zitrone und Wassereis Zitrone mit Limettenaroma.</VALUE>
+         <UOM/>
+         <NOTE>Twister Mini mit grünem Kern:
+Glace Ananas, Wassereis Erdbeer-Zitrone und Wassereis Zitrone mit Limettenaroma.
+
+Twister Mini mit rotem Kern:
+Glace Ananas, Wassereis Erdbeer-Zitrone und Wassereis Zitrone mit Limettenaroma.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Espanol">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Czech">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Dansk (Danish)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Hungarian">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Polish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Portugues">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Suoma (Finnish)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="2" header="Descriptive Name" language="Svenska (Swedish)">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Exemption Flags" property="Exempt from Artwork" attribute="   -   " header="Present" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Exemption Flags" property="Exempt from NEP Reporting" attribute="   -   " header="Present" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Size Information" property="Serving Size" attribute="Metric (g) - As prep" header="UOM" language="English">
+         <VALUE>G</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Size Information" property="Serving Size" attribute="Metric (g) - As sold" header="UOM" language="English">
+         <VALUE>G</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat" attribute="   -   " header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Protein" attribute="   -   " header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kJ" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Energy" attribute="kcal" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate" attribute="   -   " header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Cholesterol" attribute="   -   " header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fibre" attribute="Dietary" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Salt" attribute="as NaCl" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Sodium" attribute="mg" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Carbohydrate of which" attribute="Sugars" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="SAFA" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Nutrition Data" property="Fat of which" attribute="Trans" header="Data Source" language="English">
+         <VALUE>Calculation</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Information" property="Variable serving size" attribute="   -   " header="Present" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Information" property="Product is consumed as sold" attribute="   -   " header="Present" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Meat" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Meat" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Alcohol" attribute="   -   " header="Comment" language="English">
+         <VALUE>From Flavours</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Alcohol" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Alcohol" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Irradiation" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Foods Free from" property="Irradiation" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Kosher" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Kosher" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Ovo Lacto Vegetarian" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Ovo Lacto Vegetarian" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Vegan" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Vegan" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Gluten Free" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Gluten Free" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="English">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Deutsch">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Czech">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Estonian">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Hungarian">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Latvian">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Lithuanian">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Polish">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Comment" language="Portugues">
+         <VALUE>e</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight" attribute="   -   " header="Value" language="English">
+         <VALUE>312</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="English">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="Deutsch">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="Czech">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="Estonian">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="Hungarian">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="Latvian">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="Lithuanian">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="Polish">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Comment" language="Portugues">
+         <VALUE>e</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Value" language="English">
+         <VALUE>400</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="English">
+         <VALUE>8 portions</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Deutsch">
+         <VALUE>8 Portionen</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Czech">
+         <VALUE>.</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Estonian">
+         <VALUE>8 portsjonit</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Hungarian">
+         <VALUE>8 adag</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Latvian">
+         <VALUE>8 porcijas</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Lithuanian">
+         <VALUE>8 porcijos</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Polish">
+         <VALUE>porcja**</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Comment" language="Portugues">
+         <VALUE>8 porções</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Value" language="English">
+         <VALUE>8</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Weight per serving/portion" attribute="   -   " header="Value" language="English">
+         <VALUE>39</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume per serving/portion" attribute="   -   " header="Value" language="English">
+         <VALUE>50</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="English">
+         <VALUE>no claims for multipack</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="Francais">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="Deutsch">
+         <VALUE>Ohne künstliche Farbstoffe und Aromen</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="Czech">
+         <VALUE>Without artificial flavours</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="Estonian">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="Hungarian">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="Polish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="Portugues">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="Francais">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="Deutsch">
+         <VALUE>Glutenfrei</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="Czech">
+         <VALUE>Responsibly made for kids²</VALUE>
+         <UOM/>
+         <NOTE>²Naše zmrzliny Max jsou navrženy tak, aby nejen chutnaly a byly zábavné, ale zároveň splňovaly naše výživová kritéria zmrzlin vhodných i pro děti. Více informací na www.icecreamjoy.com.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="Hungarian">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="Polish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE>.</NOTE>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="Portugues">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="Francais">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="Deutsch">
+         <VALUE>Mit Fruchtsaft</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="Czech">
+         <VALUE>Bez lepku.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="Hungarian">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="Polish">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="Portugues">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peas" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peas" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peas" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peas" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Celery" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Celery" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Celery" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Celery" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Mustard/Mustard products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Mustard/Mustard products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Mustard/Mustard products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Mustard/Mustard products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Lupin and products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Lupin and products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Lupin and products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Lupin and products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (&lt;10mg/kg)" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (&lt;10mg/kg)" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (&lt;10mg/kg)" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (&lt;10mg/kg)" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Conditions" language="English">
+         <VALUE>Frozen</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="English">
+         <VALUE>.</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Francais">
+         <VALUE>A conserver à -18°C. A consommer de</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Deutsch">
+         <VALUE>Bei -18°C mindestens haltbar bis Ende:</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Czech">
+         <VALUE>Minimální trvanlivost do konce:</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Estonian">
+         <VALUE>Parim enne lõppu: vaata pakendilt.</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Hungarian">
+         <VALUE>Minőségét megőrzi a jelzett hónap végéig</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Latvian">
+         <VALUE>Ieteicams līdz beigām: sk. uz iepakojuma</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Lithuanian">
+         <VALUE>Geriausias iki pabaigos:žr. ant pakuotės</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Polish">
+         <VALUE>Najlepiej spożyć przed końcem: </VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Comment" language="Portugues">
+         <VALUE>Consumir de preferência antes do fim de:</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Value" language="English">
+         <VALUE>24</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Comment" language="English">
+         <VALUE>.</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Comment" language="Francais">
+         <VALUE>préférence avant fin : voir sur le côté</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Comment" language="Deutsch">
+         <VALUE>siehe Seitenfläche.</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Comment" language="Czech">
+         <VALUE>.</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Comment" language="Hungarian">
+         <VALUE>(hó/év): lásd a doboz oldalán.</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Comment" language="Polish">
+         <VALUE>.</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months (2)" header="Comment" language="Portugues">
+         <VALUE>ver embalagem</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Best Before" attribute="Days" header="Comment" language="English">
+         <VALUE>.</VALUE>
+         <UOM>day(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Best Before" attribute="Days" header="Comment" language="Francais">
+         <VALUE>de la boîte.</VALUE>
+         <UOM>day(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Best Before" attribute="Days" header="Comment" language="Czech">
+         <VALUE>.</VALUE>
+         <UOM>day(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Best Before" attribute="Days" header="Comment" language="Polish">
+         <VALUE>.</VALUE>
+         <UOM>day(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Best Before" attribute="Days" header="Comment" language="Portugues">
+         <VALUE>.</VALUE>
+         <UOM>day(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Product Origin" property="Country" attribute="1" header="Comment" language="English">
+         <VALUE>.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Product Origin" property="Country" attribute="1" header="Comment" language="Deutsch">
+         <VALUE>Hergestellt in der EU.</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Product Origin" property="Country" attribute="1" header="Of Manufacture" language="English">
+         <VALUE>UK</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Product Origin" property="Country" attribute="2" header="Of Manufacture" language="English">
+         <VALUE>Poland</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="English">
+         <TEXT>4 x Twister chic mini lemon core 50 ml 
+4 x Twister chic mini straw core 50ml
+
+
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="Espanol">
+         <TEXT>4 x Twister centro de limón 50 ml
+4 x Twister centro de fresa 50ml
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="Czech">
+         <TEXT>.
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="Dansk (Danish)">
+         <TEXT>4 x Twister chic mini lemon core 50 ml 
+4 x Twister chic mini straw core 50 ml</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="Portugues">
+         <TEXT>4 x Twister mini Limão 50ml
+4 x Twister mini Morango 50ml</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="Suoma (Finnish)">
+         <TEXT>4 x Twister chic mini lemon core 50 ml 
+4 x Twister chic mini straw core 50 ml</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="Svenska (Swedish)">
+         <TEXT>4 x Twister chic mini lemon core 50 ml 
+4 x Twister chic mini straw core 50 ml
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Symbols/Logos" language="English">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Symbols/Logos" language="Polish">
+         <TEXT>Logo Unilever
+Logo Algida
+Logo Zielony punkt</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Nutrition" sub_section="(none)" text_header="Nutrition Information" language="English">
+         <TEXT>NOTE:- see associated specs for full detail.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Nutrition" sub_section="(none)" text_header="Nutrition Information" language="Czech">
+         <TEXT>Výživové údaje
+Energie
+Tuky
+z toho nasycené mastné kyseliny
+Sacharidy
+z toho cukry
+Bílkoviny
+Sůl
+*% z referenční hodnoty příjmu u průměrné dospělé osoby (8400 kJ/2000 kcal).</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Local Information" sub_section="(none)" text_header="Local Information" language="English">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Local Information" sub_section="(none)" text_header="Local Information" language="Dansk (Danish)">
+         <TEXT>Rubik code: 40004339
+SEN code: 47368</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Local Information" sub_section="(none)" text_header="Local Information" language="Svenska (Swedish)">
+         <TEXT>Rubik code: 40004339
+SEN code: 47368</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="English">
+         <TEXT>Twister chic mini lemon core 50 ml:
+Ingredients: water, sugar, reconstituted skimmed MILK, glucose syrup, lemon juice* (4,5%), strawberry juice*( 3,8%), fructose syrup, pineapple juice*( 1,7%), maltodextrine, vegetable oils (coconut, sunflower), whey solids (MILK), glucose fructose syrup, stabilisers (E412 guar gum, E410 Locust bean gum, E407 carrageenan), flavourings (MILK), acidifier (E330 citric acid), emulsifier (E471 mono/diglycerides of fatty acids), elderberry juice concentrate, Red beetroot juice concentrate, colours (E140 chlorophylls, E100 curcumin), * from concentrate. Gluten free			
+					
+
+Twister chic mini straw core 50ml:
+Ingredients: water, sugar, reconstituted skimmed MILK, strawberry juice*(5,7%)glucose syrup, lemon juice* (3,6%), fructose syrup, maltodextrine, pineapple juice*(1,7%), vegetable oils(coconut, sunflower), whey solids (MILK), glucose fructose syrup, stabilisers (E412 guar gum, E410 Locust bean gum, E407 carrageenan), flavourings (MILK), acidifier ( E330 citric acid), elderberry juice concentrate, Red beetroot juice concentrate, emulsifier (E471 mono/diglycerides of fatty acids), colours (E140 chlorophylls, E100 curcumin),* from concentrate. Gluten free
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Francais">
+         <TEXT>(CH)
+Twister Mini au coeur vert:
+Ingrédients : eau, sucre, LAIT écrémé réhydraté, sirop de glucose, jus de citron¹ (4,5%), jus de fraise¹ (3,8%), sirop de fructose, jus d’ananas¹ (1,7%), maltodextrine, huiles végétales (coco, tournesol), LACTOSE et protéines de LAIT, sirop de glucose-fructose, stabilisants (farine de graines de guar, farine de graines de caroube, carraghénanes), arômes (avec du LAIT), acidifiant (acide citrique), émulsifiant (mono- et diglycérides d'acides gras), jus de sureau concentré, jus de betterave concentré, colorants (chlorophylles, curcumine). ¹à base de jus de fruit
+concentré. Sans gluten.
+
+(CH)
+Twister Mini au coeur rouge:
+Ingrédients : eau, sucre, LAIT écrémé réhydraté, jus de fraise¹ (5,7%), sirop de glucose, jus de citron¹ (3,6%), sirop de fructose, maltodextrine, jus d’ananas¹ (1,7%), huiles végétales (coco, tournesol), LACTOSE et protéines de LAIT, sirop de glucose-fructose, stabilisants (farine de graines de guar, farine de graines de caroube, carraghénanes), arômes (avec du LAIT), acidifiant (acide citrique), jus de sureau concentré, jus de betterave concentré, émulsifiant (mono- et diglycérides d'acides gras), colorants (chlorophylles, curcumine). ¹à base de jus de fruit concentré. Sans gluten.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Deutsch">
+         <TEXT>Twister Mini mit grünem Kern:
+Zutaten: Wasser, Zucker, entrahmte MILCH, Glukosesirup, Zitronensaft¹ (4,5%), Erdbeersaft¹ (3,8%), Fruktosesirup, Ananassaft¹ (1,7%), Maltodextrin, pflanzliche Öle (Kokos, Sonnenblumen), MOLKENERZEUGNIS, Glukose-Fruktose-Sirup, Stabilisatoren (Guarkernmehl, Johannisbrotkernmehl, Carrageen), Aromen (mit MILCH), Säuerungsmittel (Citronensäure), Emulgator (Mono- und Diglyceride von Speisefettsäuren), Holunderbeersaftkonzentrat, Rote-Bete-Saftkonzentrat, Farbstoffe (Chlorophylle, Kurkumin). ¹aus Fruchtsaftkonzentrat. Glutenfrei.	
+
+Twister Mini mit rotem Kern:
+Zutaten: Wasser, Zucker, entrahmte MILCH, Erdbeersaft¹ (5,7%), Glukosesirup, Zitronensaft¹ (3,6%), Fruktosesirup, Maltodextrin, Ananassaft¹ (1,7%), pflanzliche Öle (Kokos, Sonnenblumen), MOLKENERZEUGNIS, Glukose-Fruktose-Sirup, Stabilisatoren (Guarkernmehl, Johannisbrotkernmehl, Carrageen), Aromen (mit MILCH), Säuerungsmittel (Citronensäure), Holunderbeersaftkonzentrat, Rote-Bete-Saftkonzentrat, Emulgator (Mono- und Diglyceride von Speisefettsäuren), Farbstoffe (Chlorophylle, Kurkumin). ¹aus Fruchtsaftkonzentrat. Glutenfrei.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Espanol">
+         <TEXT>Twister centro de limón 50ml:
+Ingredientes: agua, azúcar, LECHE desnatada rehidratada, jarabe de glucosa, zumo de limón* (4,5%), zumo de fresa* (3,8%), jarabe de fructosa, zumo de piña* (1,7%), maltodextrina, grasa y aceite vegetales (coco, girasol), suero de LECHE en polvo, jarabe de glucosa-fructosa, estabilizantes (goma guar, harina de garrofín, carragenano), aromas (contiene LECHE), corrector de acidez (ácido cítrico), emulgente (mono y diglicéridos de ácidos grasos), zumo de baya de saúco concentrado, zumo de remolacha concentrado, colorantes (clorofilas, curcumina). *A partir de concentrado. Sin gluten
+
+Twister centro de fresa 50ml:
+Ingredientes: agua, azúcar, LECHE desnatada rehidratada, zumo de fresa* (5,7%), jarabe de glucosa, zumo de limón* (3,6%), jarabe de fructosa, maltodextrina, zumo de piña* (1,7%), grasa y aceite vegetales (coco, girasol), suero de LECHE en polvo, jarabe de glucosa-fructosa, estabilizantes (goma guar, harina de garrofín, carragenano), aromas (contiene LECHE), corrector de acidez (ácido cítrico), zumo de baya de saúco concentrado, zumo de remolacha concentrado, emulgente (mono y diglicéridos de ácidos grasos), colorantes (clorofilas, curcumina). *A partir de concentrado. Sin gluten</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Czech">
+         <TEXT>Twister mini Lemon core. 
+Složení: voda, cukr, obnovené odtučněné MLÉKO, glukózový sirup, citronová šťáva¹ (4,5 %), jahodová šťáva¹ (3,8 %), fruktózový sirup, ananasová šťáva¹ (1,7 %), maltodextrin, rostlinné oleje (kokosový, slunečnicový), sušená SYROVÁTKA, glukózo-fruktózový sirup, stabilizátory (guma guar, karubin, karagenan), aromata (obsahují MLÉKO), regulátor kyselosti (kyselina citronová), emulgátor (mono- a diglyceridy mastných kyselin), koncentrát z bezinek, koncentrát z červené řepy, barviva (chlorofyly a chlorofyliny, kurkumin). ¹ z koncentrátu. Bez lepku.
+
+Twister mini Strawberry core. 
+Složení: voda, cukr, obnovené odtučněné MLÉKO, jahodová šťáva¹ (5,7 %), glukózový sirup, citronová šťáva¹ (3,6 %), fruktózový sirup, maltodextrin, ananasová šťáva¹ (1,7 %), rostlinné oleje (kokosový, slunečnicový), sušená SYROVÁTKA, glukózo-fruktózový sirup, stabilizátory (guma guar, karubin, karagenan), aromata (obsahují MLÉKO), regulátor kyselosti (kyselina citronová), koncentrát z bezinek, koncentrát z červené řepy, emulgátor (mono- a diglyceridy mastných kyselin), barviva (chlorofyly a chlorofyliny, kurkumin). ¹ z koncentrátu. Bez lepku.
+
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Dansk (Danish)">
+         <TEXT>Twister mini Lemon core 50 ml:
+Ingredienser: Vand, sukker, SKUMMETMÆLK, glukosesirup, citronsaft¹ (4,5%), jordbærsaft¹ (3,8%), fruktosesirup, ananassaft¹ (1,7%), maltodextrin, vegetabilske olier (kokos, solsikke), vallepulver (MÆLK), glukose-fruktosesirup, stabilisatorer (guargummi, johannesbrødkernemel, carrageenan), aromaer (MÆLK), surhedsregulerende middel (citronsyre), emulgator (mono- og diglycerider af fedtsyrer), hyldebærsaftkoncentrat, rødbedesaftkoncentrat, farvestoffer (chlorophyll, curcumin). ¹Fremstillet af koncentrat.
+
+Twister mini Strawberry core 50 ml:
+Ingredienser: Vand, sukker, SKUMMETMÆLK, jordbærsaft¹ (5,7%), glukosesirup, citronsaft¹ (3,6%), fruktosesirup, maltodextrin, ananassaft¹ (1,7%), vegetabilske olier (kokos, solsikke), vallepulver (MÆLK), glukose-fruktosesirup, stabilisatorer (guargummi, johannesbrødkernemel, carrageenan), aromaer (MÆLK), surhedsregulerende middel (citronsyre), hyldebærsaftkoncentrat, rødbedesaftkoncentrat, emulgator (mono- og diglycerider af fedtsyrer), farvestoffer (chlorophyll, curcumin). ¹Fremstillet af koncentrat.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Estonian">
+         <TEXT>Twister chic mini lemon core 50 ml:
+Koostisosad: vesi, suhkur, taastatud LÕSS, glükoosisiirup, sidrunimahl* (4,5%), maasikamahl*(3,8%), fruktoosisiirup, ananassimahl*(1,7%), maltodekstriin, taimsed õlid (kookos, päevalill), laabivadak (PIIM), glükoosi-fruktoosisiirup, stabilisaatorid (guarkummi, jaanileivapuujahu, karrageen), lõhna- ja maitseained (sisaldab PIIMA), happesuse regulaator (sidrunhape), emulgaator (rasvhapete mono- ja diglütseriidid), leedrimarjamahla kontsentraat, punapeedimahla kontsentraat, toiduvärv (klorofüllid, kurkumiin), *kontsentraadist. Gluteenivaba.
+					
+
+Twister chic mini straw core 50ml:
+Koostisosad: vesi, suhkur, taastatud LÕSS, maasikamahl*(5,7%), glükoosisiirup, sidrunimahl* (3,6%), fruktoosisiirup, maltodekstriin, ananassimahl*(1,7%), taimsed õlid (kookos, päevalill), vadakupulber (PIIM), glükoosi-fruktoosisiirup, stabilisaatorid (guarkummi, jaanileivapuujahu, karrageen), lõhna- ja maitseained (sisaldab PIIMA), happesuse regulaator (sidrunhape), leedrimarjamahla kontsentraat, punapeedimahla kontsentraat, emulgaator (rasvhapete mono- ja diglütseriidid), toiduvärv (klorofüllid, kurkumiin), *kontsentraadist. Gluteenivaba.
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Hungarian">
+         <TEXT>Twister chic mini lemon core 50 ml:
+Összetevők: víz, cukor, sovány TEJ, glükózszirup, citromlé ¹ (4,5%), eperlé¹ (3,8%), fruktóz szirup, ananászlé ¹ (1,7%), maltodextrin, növényi olajok (kókusz, napraforgó), TEJSAVÓKÉSZÍTMÉNY , glükóz-fruktózszörp, stabilizátorok (guargumi, szentjánoskenyérliszt, karragén), aromák (TEJSZÁRMAZÉKKAL), savanyúságot szabályozó anyag (citromsav), emulgeálószer (zsírsavak mono-és digliceridjei), bodzalé sűrítmény, céklalé sűrítmény, színezékek (klorofillok és klorofillinek, kurkumin).  ¹sűrítményből. Gluténmentes.
+
+Twister chic mini straw core 50ml:	
+Összetevők: víz, cukor, sovány TEJ, eperlé¹ (5,7%), glükózszirup, citromlé ¹ (3,6%), fruktóz szirup, maltodextrin, ananászlé ¹ (1,7%), növényi olajok (kókusz, napraforgó), TEJSAVÓKÉSZÍTMÉNY , glükóz-fruktózszörp, stabilizátorok (guargumi, szentjánoskenyérliszt, karragén), aromák (TEJSZÁRMAZÉKKAL), savanyúságot szabályozó anyag (citromsav),  bodzalé sűrítmény, céklalé sűrítmény, emulgeálószer (zsírsavak mono-és digliceridjei),  színezékek (klorofillok és klorofillinek, kurkumin).  ¹sűrítményből. Gluténmentes.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Latvian">
+         <TEXT>Twister chic mini lemon core 50 ml:
+Sastāvdaļas: ūdens, cukurs, atjaunots VĀJPIENS, glikozes sīrups, citronu sula* (4,5%), zemeņu sula* (3,8%), fruktozes sīrups, ananāsu sula* (1,7%), maltodekstrīns, augu eļļas (kokosriekstu, saulespuķu), sūkalu pulveris (PIENS), glikozes-fruktozes sīrups, stabilizētāji (guāra sveķi, ceratoniju augļu sveķi, karagināns), aromatizētājs (satur PIENU), skābuma regulētājs (citronskābe), emulgators (taukskābju monoglicerīdi un diglicerīdi), plūškoka augļu sulas koncentrāts, sarkano biešu sulas koncentrāts, krāsvielas (hlorofili, kurkumīns), *no koncentrāta. Bez glutēna.		
+					
+
+Twister chic mini straw core 50ml:
+Sastāvdaļas: ūdens, cukurs, atjaunots VĀJPIENS, zemeņu sula* (5,7%), glikozes sīrups, citronu sula* (3,6%), fruktozes sīrups, maltodekstrīns, ananāsu sula* (1,7%), augu eļļas (kokosriekstu, saulespuķu), sūkalu pulveris (PIENS), glikozes-fruktozes sīrups, stabilizētāji (guāra sveķi, ceratoniju augļu sveķi, karagināns), aromatizētājs (satur PIENU), skābuma regulētājs (citronskābe), plūškoka augļu sulas koncentrāts, sarkano biešu sulas koncentrāts, emulgators (taukskābju monoglicerīdi un diglicerīdi), krāsvielas (hlorofili, kurkumīns), *no koncentrāta. Bez glutēna.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Lithuanian">
+         <TEXT>Twister chic mini lemon core 50 ml:
+Sudedamosios dalys: vanduo, cukrus, regeneruotas nugriebtas PIENAS, gliukozės sirupas, citrinų sultys* (4,5 %), braškių sultys* (3,8 %), fruktozės sirupas, ananasų sultys* (1,7 %), maltodekstrinas, augaliniai aliejai (kokosų,  saulėgrąžų), išrūgų milteliai (PIENAS), gliukozės ir fruktozės sirupas, stabilizatoriai (pupenių derva, saldžiųjų ceratonijų derva, karageninas), kvapiosios medžiagos (sudėtyje yra PIENO), rūgštingumą reguliuojanti medžiaga (citrinų rūgštis), emulsikliai (riebalų rūgščių mono- ir digliceridai), šeivamedžio uogų sulčių koncentratas, burokėlių sulčių koncentratas, dažiklisi (chlorofilai, kurkuminas), *iš koncentrato. Be glitimo.		
+					
+
+Twister chic mini straw core 50ml:
+Sudedamosios dalys: vanduo, cukrus, regeneruotas nugriebtas PIENAS, braškių sultys* (5,7 %), gliukozės sirupas, citrinų sultys* (3,6 %), fruktozės sirupas, maltodekstrinas, ananasų sultys* (1,7 %), augaliniai aliejai (kokosų, saulėgrąžų), išrūgų milteliai (PIENAS), gliukozės ir fruktozės sirupas, stabilizatoriai (pupenių derva, saldžiųjų ceratonijų derva, karageninas), kvapiosios medžiagos (sudėtyje yra PIENO), rūgštingumą reguliuojanti medžiaga (citrinų rūgštis), šeivamedžio uogų sulčių koncentratas, burokėlių sulčių koncentratas, emulsiklis (riebalų rūgščių mono- ir digliceridai), dažiklis (chlorofilai, kurkuminas), *iš koncentrato. Be glitimo.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Polish">
+         <TEXT>Twister chic mini lemon core 50 ml:
+Składniki: woda, cukier, odtworzone odtłuszczone MLEKO, syrop glukozowy, sok cytrynowy¹ (4,5%), sok truskawkowy¹ (3,8%), syrop fruktozowy, sok ananasowy¹ (1,7%), maltodekstryna, oleje roślinne (kokosowy, słonecznikowy), preparat serwatkowy (MLEKO), syrop glukozowo-fruktozowy, stabilizatory (guma guar, mączka chleba świętojańskiego, karagen), aromaty (w tym MLEKO), regulator kwasowości (kwas cytrynowy), emulgator (mono- i diglicerydy kwasów tłuszczowych), zagęszczony sok z czarnego bzu, zagęszczony sok z buraka czerwonego, barwnik (chlorofile, kurkumina), ¹z soku zagęszczonego. Produkt bezglutenowy.
+
+Twister chic mini straw core 50ml:
+Składniki: woda, cukier, odtworzone odtłuszczone MLEKO, sok truskawkowy¹ (5,7%), syrop glukozowy, sok cytrynowy¹ (3,6%), syrop fruktozowy, maltodekstryna, sok ananasowy¹ (1,7%), oleje roślinne (kokosowy, słonecznikowy), preparat serwatkowy (MLEKO), syrop glukozowo-fruktozowy, stabilizatory (guma guar, mączka chleba świętojańskiego, karagen), aromaty (w tym MLEKO), regulator kwasowości (kwas cytrynowy), zagęszczony sok z czarnego bzu, zagęszczony sok z buraka czerwonego, emulgator (mono- i diglicerydy kwasów tłuszczowych), barwnik (chlorofile, kurkumina), ¹z soku zagęszczonego. Produkt bezglutenowy.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Portugues">
+         <TEXT>Twister mini Limão 50ml:
+Ingredientes: água, açúcar, LEITE magro reconstituído, xarope de glicose, sumo de limão* (4,5%), sumo de morango* (3,8%), xarope de frutose, sumo de ananás* (1,7%), maltodextrina, gordura de coco, óleo de girassol, LACTOSE e proteínas lácteas (LEITE), xarope de glicose e frutose, espessantes (goma de guar, farinha de semente de alfarroba, carragenina), aromas (LEITE), regulador de acidez (ácido cítrico), emulsionante (mono e diglicéridos de ácidos gordos), sumo de frutos vermelhos concentrado, sumo de beterraba concentrado, corantes (clorofilas, curcumina). *à base de concentrado. Isento de glúten.
+
+Twister mini Morango 50ml:
+Ingredientes: água, açúcar, LEITE magro reconstituído, sumo de morango* (5,7%), xarope de glicose, sumo de limão* (3,6%), xarope de frutose, maltodextrina, sumo de ananás* (1,7%), gordura de coco, óleo de girassol, LACTOSE e proteínas lácteas (LEITE), xarope de glicose e frutose, espessantes (goma de guar, farinha de semente de alfarroba, carragenina), aromas (LEITE), regulador de acidez (ácido cítrico), sumo de frutos vermelhos concentrado, sumo de beterraba concentrado, emulsionante (mono e diglicéridos de ácidos gordos), corantes (clorofilas, curcumina). *à base de concentrado. Isento de glúten.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="Svenska (Swedish)">
+         <TEXT>Twister mini Lemon core 50 ml:
+Ingredienser: Vatten, socker, SKUMMJÖLK, glukossirap, citronjuice¹ (4,5%), jordgubbsjuice¹ (3,8%), fruktossirap, ananasjuice¹ (1,7%), maltodextrin, vegetabiliska oljor (kokos, solros), vasslepulver (MJÖLK), glukos-fruktossirap, stabiliseringsmedel (guarkärnmjöl, fruktkärnmjöl, karragenan), arom (MJÖLK), surhetsreglerande medel (citronsyra), emulgeringsmedel (mono- och diglycerider av vegetabiliska fettsyror), fläderbärsjuicekoncentrat, rödbetsjuicekoncentrat, färgämnen (klorofyller, kurkumin). ¹Framställd av koncentrat.
+
+Twister mini Strawberry core 50 ml:
+Ingredienser: Vatten, socker, SKUMMJÖLK, jordgubbsjuice¹ (5,7%), glukossirap, citronjuice¹ (3,6%), fruktossirap, maltodextrin, ananasjuice¹ (1,7%), vegetabiliska oljor (kokos, solros), vasslepulver (MJÖLK), glukos-fruktossirap, stabiliseringsmedel (guarkärnmjöl, fruktkärnmjöl, karragenan), arom (MJÖLK), surhetsreglerande medel (citronsyra), fläderbärsjuicekoncentrat, rödbetsjuicekoncentrat, emulgeringsmedel (mono- och diglycerider av vegetabiliska fettsyror), färgämnen (klorofyller, kurkumin). ¹Framställd av koncentrat.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Instructions for Use" language="English">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Instructions for Use" language="Dansk (Danish)">
+         <TEXT>Bedst før udgangen af: se pakken.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Instructions for Use" language="Svenska (Swedish)">
+         <TEXT>Bäst före utgången av: se förpackningen.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="English">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Francais">
+         <TEXT>A conserver à -18°C. A consommer de préférence avant fin : voir sur le côté de la boîte.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Deutsch">
+         <TEXT>Bei -18°C mindestens haltbar bis Ende: siehe Seitenfläche.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Espanol">
+         <TEXT>Mantener a temperatura inferior a -18 ºC</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Czech">
+         <TEXT>Skladujte při teplotě: -18 °C a nižší.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Dansk (Danish)">
+         <TEXT>Opbevares ved -18°C eller koldere.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Estonian">
+         <TEXT>Säilitada temperatuuril mitte üle -18 °C.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Hungarian">
+         <TEXT>Tárolás -18°C alatt.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Latvian">
+         <TEXT>Uzglabāt temperatūrā ne augstākā par -18°C.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Lithuanian">
+         <TEXT>Laikyti ne aukštesnėje kaip -18 °C temperatūroje.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Polish">
+         <TEXT>Przechowywać w temperaturze nie wyższej niż -18°C.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Portugues">
+         <TEXT>Conservar no congelador (-18ºC).</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="Svenska (Swedish)">
+         <TEXT>Förvaring vid -18°C eller kallare.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Safety Instructions" language="English">
+         <TEXT>Consumir preferentemente antes del fin de:</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Safety Instructions" language="Francais">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Safety Instructions" language="Deutsch">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Safety Instructions" language="Czech">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Safety Instructions" language="Polish">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="English">
+         <TEXT>.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Deutsch">
+         <TEXT>Unilever Deutschland, Postfach 570385, 22772 Hamburg, Konsumentenservice: 0800-1013 914 (gebührenfrei). www.langnese.de
+
+Unilever Schweiz, CH-8240 Thayngen, Konsumentenservice 0800 000 041 (gebührenfrei), hergestellt in der EU. www.lusso.ch</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Espanol">
+         <TEXT>Unilever España S.A.
+C/Tecnología 19,
+08840 Viladecans (Barcelona)
+Tel. Atención al Consumidor
+900 812 511</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Czech">
+         <TEXT>CZ: UNILEVER ČR, spol. s r.o., Rohanské nábřeží 670, 186 00 Praha 8.
+„/symbol of phone/“ CZ: 844 222 844</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Dansk (Danish)">
+         <TEXT>Unilever Danmark A/S, Ørestads Boulevard 73, 2300 København S, Frisko Is Forbrugerkontakt tlf. 70 27 77 86, frisko.dk@unilever.com, www.frisko.dk</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Estonian">
+         <TEXT>Turustaja: UAB Unilever Lietuva distribucija, Skuodo g. 28, Mažeikiai, LT-89100, Leedu. Infotelefon: 800 2004.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Hungarian">
+         <TEXT>Forgalmazza:
+Unilever Magyarország Kft.
+1138 Budapest, Váci út 182.
+(symbol of phone) 06-40-400-400.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Latvian">
+         <TEXT>Izplatītājs: UAB „Unilever Lietuva distribucija“, Skuodo g. 28, Mažeikiai, LT-89100, Lietuva. Info līnija: 80 200 990. </TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Lithuanian">
+         <TEXT>Tiekėjas: UAB „Unilever Lietuva distribucija“, Skuodo g. 28, Mažeikiai, LT-89100, Lietuva. Infolinija: 8 800 70070.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Polish">
+         <TEXT>Unilever Polska Sp. z o.o.,
+Al. Jerozolimskie 134,
+02-305 Warszawa,
+Polska.
+Infolinia: 801 313 115, koszt: 1 impuls za każde rozpoczęte 3 minuty połączenia.
+Unilever Polska Sp. z o.o., skr. poczt. 315, 00-987 Warszawa 4, "Algida".
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Portugues">
+         <TEXT>Unilever Jerónimo Martins, Lda. Largo Monterroio Mascarenhas 1, 1099-081 Lisboa. Linha Azul Olá 808 500 707 (Custo de Chamada Local, dias úteis das 10h às 17h).</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Contact Details" sub_section="(none)" text_header="Company Contact Information" language="Svenska (Swedish)">
+         <TEXT>Unilever Sverige AB, GB Glace Konsumentkontakt, Box 1056, 171 22 Solna, tel. 0771-829100, konsumentkontakt@gb.se, www.gb.se</TEXT>
+      </TEXT_DATA>
+      <REF_TEXT_DATA section="Claims and Declarations" sub_section="(none)" short_description="CON cross cantaminat" description="Risk of Cross Contamination during Processing" language="English">
+         <TEXT>Information captured in the following property groups relates to the total allergen status of a product i.e. allergens inherent in the underlying ingredient composition of the product in addition to those due to cross contamination during processing of the product and which impact on final product labelling</TEXT>
+      </REF_TEXT_DATA>
+  </CON>
+</CU>

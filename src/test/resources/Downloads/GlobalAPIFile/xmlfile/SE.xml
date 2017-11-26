@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customEntityItemTable>
+    <cacheId>20170214_162704_0</cacheId>
+    <entityIdentifier>Article</entityIdentifier>
+    <totalSize>1</totalSize>
+    <startIndex>0</startIndex>
+    <pageSize>2000</pageSize>
+    <rowCount>1</rowCount>
+    <columnCount>66</columnCount>
+    <columns>
+        <column>
+            <identifier>Article.SupplierAID</identifier>
+            <dataType>STRING</dataType>
+            <name>Item no.</name>
+        </column>
+        <column>
+            <identifier>ArticleULTargetMarketRetailerData1.RetailPriceOnTradeItemCurrency(SE,ICA)</identifier>
+            <dataType>STRING</dataType>
+            <name>MSRP UOM(Sweden,ICA)</name>
+        </column>
+        <column>
+            <identifier>ArticleULTargetMarketRetailerData1.RetailPriceOnTradeItem(SE,ICA)</identifier>
+            <dataType>DECIMAL</dataType>
+            <name>MSRP (Sweden,ICA)</name>
+        </column>
+        <column>
+            <identifier>ArticleULPriceList.PriceType(ICA,1,SEK,SE)</identifier>
+            <dataType>INTEGER</dataType>
+            <name>List Price: Price type</name>
+        </column>
+        <column>
+            <identifier>ArticleULPriceList.Territory(ICA,1,SEK,SE)</identifier>
+            <dataType>STRING</dataType>
+            <name>List Price: Area of validity</name>
+        </column>
+        <column>
+            <identifier>ArticleULPriceList.Currency(ICA,1,SEK,SE)</identifier>
+            <dataType>STRING</dataType>
+            <name>List Price: Currency</name>
+        </column>
+        <column>
+            <identifier>ArticleULPriceList.Retailer(ICA,1,SEK,SE)</identifier>
+            <dataType>ENTITY_ITEM</dataType>
+            <name>Retailer</name>
+        </column>
+        <column>
+            <identifier>ArticleULPriceList.ListPrice(ICA,1,SEK,SE)</identifier>
+            <dataType>DECIMAL</dataType>
+            <name>List Price</name>
+        </column>
+        <column>
+            <identifier>ArticleULPriceList.ListPriceBasisPerUnit(ICA,1,SEK,SE)</identifier>
+            <dataType>DECIMAL</dataType>
+            <name>List Price Basis Per Unit</name>
+        </column>
+        <column>
+            <identifier>ArticleULPriceList.ListPriceBasisPerUnitUoM(ICA,1,SEK,SE)</identifier>
+            <dataType>STRING</dataType>
+            <name>List Price Basis Per Unit UoM</name>
+        </column>
+        <column>
+            <identifier>ArticleULTargetMarketRetailerData1.RetailerName(SE,ICA)</identifier>
+            <dataType>STRING</dataType>
+            <name>Retailer Name(Sweden,ICA)</name>
+        </column>
+        <column>
+            <identifier>ArticleULTargetMarketRetailerData1.RetailerGLN(SE,ICA)</identifier>
+            <dataType>INTEGER</dataType>
+            <name>RetailerGLN (Sweden,ICA)</name>
+        </column>
+        <column>
+            <identifier>ArticleULTargetMarketRetailerData1.ProductURL(SE,ICA)</identifier>
+            <dataType>STRING</dataType>
+            <name>Product URL (Sweden,  ICA)</name>
+        </column>
+        <column>
+            <identifier>ArticleULTargetMarketRetailerData2.AlternateItemNumber(SE,ICA)</identifier>
+            <dataType>STRING</dataType>
+            <name>Retailer Product Code(Sweden, ICA)</name>
+        </column>
+        <column>
+            <identifier>ArticleULTargetMarketRetailerData2.StartAvailabilityDate(SE,ICA)</identifier>
+            <dataType>DATE</dataType>
+            <name>Start Availability Date (Sweden,  ICA)</name>
+        </column>
+        <column>
+            <identifier>ArticleULTargetMarketRetailerData1.EndAvailabilityDate(SE,ICA)</identifier>
+            <dataType>DATE</dataType>
+            <name>End Availability Date (Sweden,  ICA)</name>
+        </column>
+        <column>
+            <identifier>ArticleULTargetMarketRetailerData1.RetailerActiveFlag(SE,ICA)</identifier>
+            <dataType>BOOLEAN</dataType>
+            <name>Retailer Active Flag (ICA, Sweden)</name>
+        </column>
+        <column>
+            <identifier>ArticleULTargetMarketRetailerData1.RetailerPowerSKUFlag(SE,ICA)</identifier>
+            <dataType>BOOLEAN</dataType>
+            <name>Retailer Power SKU Flag </name>
+        </column>
+        <column>
+            <identifier>ArticleULTargetMarketRetailerData2.SupplyChainCode(SE,ICA)</identifier>
+            <dataType>STRING</dataType>
+            <name>Supply Chain Code (Sweden,  ICA)</name>
+        </column>
+        <column>
+            <identifier>ArticleULRetailerDataLang.RetailerSpecificBrandDescription(SE,ICA,SV)</identifier>
+            <dataType>STRING</dataType>
+            <name>Retailer Specific Brand Description (Sweden, ICA, Swedish)</name>
+        </column>
+        <column>
+            <identifier>ArticleULRetailerDataLang.Retailer1VOTEcommerceTitle(SE,ICA,SV)</identifier>
+            <dataType>STRING</dataType>
+            <name>Retailer Product Name (Sweden, ICA, Swedish)</name>
+        </column>
+        <column>
+            <identifier>ArticleULRetailerDataLang.Remark(SE,ICA,SV)</identifier>
+            <dataType>STRING</dataType>
+            <name>Remark (Optional) (Sweden, ICA, Swedish)</name>
+        </column>
+        <column>
+            <identifier>ArticleULRetailerDataLang.AdvertisingSlogan(SE,ICA,SV)</identifier>
+            <dataType>STRING</dataType>
+            <name>Advertising Slogan (Optional) (Sweden, ICA, Swedish)</name>
+        </column>
+        <column>
+            <identifier>ArticleULRetailerDataLang.RetailerProductDescription(SE,ICA,SV)</identifier>
+            <dataType>STRING</dataType>
+            <name>Retailer Product Description (Sweden, ICA, Swedish)</name>
+        </column>
+        <column>
+            <identifier>ArticleServingInstance.PreparationState(Instance1,Prepared)</identifier>
+            <dataType>STRING</dataType>
+            <name>Preparation state</name>
+        </column>
+        <column>
+            <identifier>ArticleServingInstance.ServingInstanceIdentifier(Instance1,Prepared)</identifier>
+            <dataType>STRING</dataType>
+            <name>Serving instance</name>
+        </column>
+        <column>
+            <identifier>ArticleNutrientInformation.PreparationState(Prepared,AAA,Instance1)</identifier>
+            <dataType>STRING</dataType>
+            <name>Preparation state</name>
+        </column>
+        <column>
+            <identifier>ArticleNutrientInformation.ServingInstanceIdentifier(PREPARED,AAA,INSTANCE1)</identifier>
+            <dataType>STRING</dataType>
+            <name>Serving instance</name>
+        </column>
+        <column>
+            <identifier>ArticleNutrientInformation.NutrientTypeCode(PREPARED,AAA,INSTANCE1)</identifier>
+            <dataType>STRING</dataType>
+            <name>Nutrient type</name>
+        </column>
+        <column>
+            <identifier>ArticleNutrientInformation.MeasurementPrecision(PREPARED,AAA,INSTANCE1)</identifier>
+            <dataType>STRING</dataType>
+            <name>Measurement precision (Prepared, Amino acids, total aromatic (AAA), per 100g)</name>
+        </column>
+        <column>
+            <identifier>ArticleNutrientInformation.QuantityContained(PREPARED,AAA,INSTANCE1)</identifier>
+            <dataType>DECIMAL</dataType>
+            <name>Quantity contained (Prepared, Amino acids, total aromatic (AAA), per 100g)</name>
+        </column>
+        <column>
+            <identifier>ArticleNutrientInformation.QuantityContainedUOM(PREPARED,AAA,INSTANCE1)</identifier>
+            <dataType>ENTITY_ITEM</dataType>
+            <name>Quantity contained UOM (Prepared, Amino acids, total aromatic (AAA), per 100g)</name>
+        </column>
+        <column>
+            <identifier>ArticleNutrientInformation.PercentageOfDailyIntake(PREPARED,AAA,INSTANCE1)</identifier>
+            <dataType>DECIMAL</dataType>
+            <name>Percentage of daily intake (Prepared, Amino acids, total aromatic (AAA), per 100g)</name>
+        </column>
+        <column>
+            <identifier>ArticleNutrientInformation.NutrientDescription(Prepared,AAA,Instance1)</identifier>
+            <dataType>STRING</dataType>
+            <name>Nutrient Description</name>
+        </column>
+        <column>
+            <identifier>ArticleServingInstance.ServingSize(Instance1,Prepared)</identifier>
+            <dataType>DECIMAL</dataType>
+            <name>Serving size (per 100g, Prepared)</name>
+        </column>
+        <column>
+            <identifier>ArticleServingInstanceLang.HouseholdServingSize(INSTANCE1,PREPARED,SV)</identifier>
+            <dataType>STRING</dataType>
+            <name>Household serving size (Swedish, per 100g, Prepared)</name>
+        </column>
+        <column>
+            <identifier>ArticleServingInstance.ServingSizeUOM(Instance1,Prepared)</identifier>
+            <dataType>ENTITY_ITEM</dataType>
+            <name>Serving size UOM (per 100g, Prepared)</name>
+        </column>
+        <column>
+            <identifier>ArticleAllergenRelatedInformation.AllergenTypeCode(AE,FDA,FDA)</identifier>
+            <dataType>STRING</dataType>
+            <name>Allergen type</name>
+        </column>
+        <column>
+            <identifier>ArticleAllergenRelatedInformation.AllergenSpecificationAgency(AE,FDA,FDA)</identifier>
+            <dataType>STRING</dataType>
+            <name>Allergen specification agency</name>
+        </column>
+        <column>
+            <identifier>ArticleAllergenRelatedInformation.AllergenSpecificationName(AE,FDA,FDA)</identifier>
+            <dataType>STRING</dataType>
+            <name>Allergen specification name</name>
+        </column>
+        <column>
+            <identifier>ArticleAllergenRelatedInformation.LevelOfContainment(AE,FDA,FDA)</identifier>
+            <dataType>STRING</dataType>
+            <name>Level of containment</name>
+        </column>
+        <column>
+            <identifier>ArticleAllergenRelatedInformation.AllergenDescription(AE,FDA,FDA)</identifier>
+            <dataType>STRING</dataType>
+            <name>Allergen Description</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.Type("parent-item","GTIN","MASTER ")</identifier>
+            <dataType>INTEGER</dataType>
+            <name>Reference type</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.ReferencedSupplierAid("parent-item","GTIN","MASTER ")</identifier>
+            <dataType>STRING</dataType>
+            <name>Referenced object number</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.Quantity("parent-item","GTIN","MASTER ")</identifier>
+            <dataType>INTEGER</dataType>
+            <name>Reference number</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.DisplayOrder("parent-item","GTIN","MASTER ")</identifier>
+            <dataType>INTEGER</dataType>
+            <name>Item reference sequence</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.ReferencedGTIN("parent-item","GTIN","MASTER ")</identifier>
+            <dataType>STRING</dataType>
+            <name>Item reference GTIN</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.ReferencedProductDescription("parent-item","GTIN","MASTER ")</identifier>
+            <dataType>STRING</dataType>
+            <name>ReferencedProductDescription</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.Type("next lower level","GTIN","MASTER ")</identifier>
+            <dataType>INTEGER</dataType>
+            <name>Reference type</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.ReferencedSupplierAid("next lower level","GTIN","MASTER ")</identifier>
+            <dataType>STRING</dataType>
+            <name>Referenced object number</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.Quantity("next lower level","GTIN","MASTER ")</identifier>
+            <dataType>INTEGER</dataType>
+            <name>Reference number</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.DisplayOrder("next lower level","GTIN","MASTER ")</identifier>
+            <dataType>INTEGER</dataType>
+            <name>Item reference sequence</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.ReferencedGTIN("next lower level","GTIN","MASTER ")</identifier>
+            <dataType>STRING</dataType>
+            <name>Item reference GTIN</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.ReferencedProductDescription("next lower level","GTIN","MASTER ")</identifier>
+            <dataType>STRING</dataType>
+            <name>ReferencedProductDescription</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.Type("Goes well with","GTIN","MASTER ")</identifier>
+            <dataType>INTEGER</dataType>
+            <name>Reference type</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.ReferencedSupplierAid("Goes well with","GTIN","MASTER ")</identifier>
+            <dataType>STRING</dataType>
+            <name>Referenced object number</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.Quantity("Goes well with","GTIN","MASTER ")</identifier>
+            <dataType>INTEGER</dataType>
+            <name>Reference number</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.DisplayOrder("Goes well with","GTIN","MASTER ")</identifier>
+            <dataType>INTEGER</dataType>
+            <name>Item reference sequence</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.ReferencedGTIN("Goes well with","GTIN","MASTER ")</identifier>
+            <dataType>STRING</dataType>
+            <name>Item reference GTIN</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.ReferencedProductDescription("Goes well with","GTIN","MASTER ")</identifier>
+            <dataType>STRING</dataType>
+            <name>ReferencedProductDescription</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.Type("Physical Bundle Item","GTIN","MASTER ")</identifier>
+            <dataType>INTEGER</dataType>
+            <name>Reference type</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.ReferencedSupplierAid("Physical Bundle Item","GTIN","MASTER ")</identifier>
+            <dataType>STRING</dataType>
+            <name>Referenced object number</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.Quantity("Physical Bundle Item","GTIN","MASTER ")</identifier>
+            <dataType>INTEGER</dataType>
+            <name>Reference number</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.DisplayOrder("Physical Bundle Item","GTIN","MASTER ")</identifier>
+            <dataType>INTEGER</dataType>
+            <name>Item reference sequence</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.ReferencedGTIN("Physical Bundle Item","GTIN","MASTER ")</identifier>
+            <dataType>STRING</dataType>
+            <name>Item reference GTIN</name>
+        </column>
+        <column>
+            <identifier>ArticleReference.ReferencedProductDescription("Physical Bundle Item","GTIN","MASTER ")</identifier>
+            <dataType>STRING</dataType>
+            <name>ReferencedProductDescription</name>
+        </column>
+    </columns>
+    <rows>
+        <row>
+            <object>
+                <id>235420@1</id>
+                <label>050002621370067310390000102000000000008872287SE</label>
+            </object>
+            <values>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">050002621370067310390000102000000000008872287SE</field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> , , , , </field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> , , , , </field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">List Price</field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Sweden</field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Euro</field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">GEN</field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> </field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> </field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> </field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">GEN,CityGross Matkasse,ICA,COOP,Axfood</field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> , , , , </field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> , , , , </field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">000000000008872287,612747,1873967,69800,100307703</field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">2017-02-03,2016-12-01,2016-12-01,2016-12-01,2016-12-01</field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> ,2099-12-31,2099-12-31,2099-12-31,2099-12-31</field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> ,true,true,true,true</field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> ,false,false,false,false</field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> , , , , </field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> , , , , </field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> , , , , </field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> , , , , </field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> , , , , </field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> , , , , </field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">parent-item</field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">070461100220617310390000102000000000008872287SE</field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">1</field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> </field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> </field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"> </field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+                <field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string"></field>
+            </values>
+            <manufacturesdetails>
+                <companyName></companyName>
+                <email></email>
+                <manufacAdd></manufacAdd>
+                <returnTo></returnTo>
+                <telephone></telephone>
+                <webAddress></webAddress>
+            </manufacturesdetails>
+        </row>
+    </rows>
+</customEntityItemTable>

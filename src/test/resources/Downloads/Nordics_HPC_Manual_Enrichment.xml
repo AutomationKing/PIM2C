@@ -1,0 +1,2311 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Layek, Sachin (Cognizant)</Author>
+  <LastAuthor>Cognizant Technology Solutions</LastAuthor>
+  <Created>2015-06-30T12:53:55Z</Created>
+  <LastSaved>2017-03-15T11:57:45Z</LastSaved>
+  <Company>Cognizant</Company>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <CustomDocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <ContentTypeId dt:dt="string">0x010100DA64DCC6564BC247AC7F1A928603F522</ContentTypeId>
+  <_dlc_DocIdItemGuid dt:dt="string">849af5c4-7137-4ff1-901a-ca00470e8327</_dlc_DocIdItemGuid>
+ </CustomDocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>4755</WindowHeight>
+  <WindowWidth>15345</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <NumberFormat ss:Format="0_);\(0\)"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#DA9694" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#DA9694" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0_);\(0\)"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#DDD9C4" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
+   <Interior ss:Color="#DDD9C4" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s78">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s83">
+   <Alignment ss:Vertical="Top"/>
+  </Style>
+  <Style ss:ID="s84">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+  </Style>
+ </Styles>
+  <Names>
+   <NamedRange ss:Name="HazardousStatement" ss:RefersTo="='HazardousStatement'!R2C1:R85C1" />
+   <NamedRange ss:Name="PrecautionaryStatement" ss:RefersTo="='PrecautionaryStatement'!R2C1:R136C1" />
+  </Names>
+ <Worksheet ss:Name="Nordics HPC Data">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase"
+    ss:RefersTo="='Nordics HPC Data'!R1C1:R1C16" ss:Hidden="1"/>
+  </Names>
+  <Table x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultColumnWidth="82.5"
+   ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s63"/>
+   <Column ss:StyleID="s64"/>
+   <Column ss:Index="5" ss:StyleID="s65"/>
+   <Column ss:StyleID="s66" ss:Span="6"/>
+   <Row ss:AutoFitHeight="0" ss:Height="60" ss:StyleID="s69">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Target Market</Data><Comment
+      ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C:</Font></B><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Mandatory</Font></ss:Data></Comment><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Information Provider GLN</Data><Comment
+      ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C:</Font></B><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Mandatory.</Font></ss:Data></Comment><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Material Number</Data><Comment
+      ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C:</Font></B><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Mandatory. This is also known as the SAP Code.</Font></ss:Data></Comment><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">GTIN</Data><Comment
+      ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C:</Font></B><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;This field is Mandatory. </Font></ss:Data></Comment><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Item Description</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Non-Food Ingredient Statement </Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Consumer Usage Description</Data><Comment
+      ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C:</Font></B><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Please input Instructions for Use here.</Font></ss:Data></Comment><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Consumer Usage Storage Instructions</Data><Comment
+      ss:Author="PIM2C"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">PIM2C:</Font></B><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="9" html:Color="#000000">&#10;Please input Storage instructions here.</Font></ss:Data></Comment><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Hazard Statement Description</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Precautionary Statement Description</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Safety Instructions</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Warning</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Extended Allergen Type Code</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Allergen Specification Agency</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Allergen Specification Name </Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Level Of Containment </Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Any Allergen Warning</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ID Safety Data Sheet</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ICPE Code</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ICPE Sub Code</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Dangerous Substance Quantity</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Classification code on the transportion area</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">State of Good</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Main Component</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Danger Label Code 1</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Danger Label Code 2</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Danger Label Code 3</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Danger Label Code 4</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Category Of Danger</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Hazard Statement Code 1</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Hazard Statement Code 2</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Hazard Statement Code 3</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Hazard Statement Code 4</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Hazard Statement Code 5</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Hazard Statement Code 6</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Hazard Statement Code 7</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Hazard Statement Code 8</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Hazard Statement Code 9</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Hazard Statement Code 10</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">CAS ID</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Precautionary Statement Code 1</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Precautionary Statement Code 2</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Precautionary Statement Code 3</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Precautionary Statement Code 4</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Precautionary Statement Code 5</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Precautionary Statement Code 6</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Precautionary Statement Code 7</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Precautionary Statement Code 8</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Precautionary Statement Code 9</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Precautionary Statement Code 10</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Danger Picto Code 1</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Danger Picto Code 2</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Danger Picto Code 3</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Danger Picto Code 4</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Exact PH</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Standard Advice Word</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Biocide Agreement No</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Type of Biocide Product</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Toxicity For Aquatic Life Flag</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Toxicity For Aquatic Life Code</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Code LQ</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Dangerous Goods Quantity UoM</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Type of Gas</Data></Cell>
+   </Row><Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">DK
+	</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">5790000012411</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">000000000000001039</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">07310391010391</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">L&#228;tta minarine 40% 1 x 2,5kg</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+	<Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+	<Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+	<Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+	<Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+	<Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+	<Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+	<Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+	<Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+	<Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+	<Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+	<Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+	<Cell ss:StyleID="s77" ss:Formula="=+RC[1]"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String"></Data></Cell>
+   </Row></Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <LeftColumnVisible>39</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>10</ActiveRow>
+     <ActiveCol>42</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R2C13:R1048576C13</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;AD,BF,BN,BO,BP,BR,BQ,CM,DP,DA,FH,FT,GL,HB,HC,HE,HH,HN,HP,MH,ON,PM,PO,PP,SB,SX,TA,TD,UN&quot;</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R2C16:R1048576C16</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;CONTAINS,MAY_CONTAIN&quot;</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R2C30:R1048576C39</Range>
+   <Type>List</Type>
+   <Value>HazardousStatement</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R2C41:R1048576C50</Range>
+   <Type>List</Type>
+   <Value>PrecautionaryStatement</Value>
+  </DataValidation>
+ </Worksheet>
+ <Worksheet ss:Name="HazardousStatement">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="114" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="44.25"/>
+   <Column ss:Width="1001.25"/>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Code </Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Hazard statements (EN)</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Sweden</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Finland</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Denmark</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Norway</Data></Cell>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s78"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H200</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/explosive.html"><Data
+      ss:Type="String">Unstable explosive</Data></Cell>
+    <Cell><Data ss:Type="String">Instabilt explosivt.</Data></Cell>
+    <Cell><Data ss:Type="String">Epästabiili räjähde.</Data></Cell>
+    <Cell><Data ss:Type="String">Ustabilt eksplosiv.</Data></Cell>
+    <Cell><Data ss:Type="String">Ustabile eksplosive varer.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H201</Data></Cell>
+    <Cell><Data ss:Type="String">Explosive; mass explosive hazard</Data></Cell>
+    <Cell><Data ss:Type="String">Explosivt. Fara för massexplosion.</Data></Cell>
+    <Cell><Data ss:Type="String">Räjähde; massaräjähdysvaara.</Data></Cell>
+    <Cell><Data ss:Type="String">Eksplosiv, masseeksplosionsfare.</Data></Cell>
+    <Cell><Data ss:Type="String">Eksplosjonsfarlig; fare for masseeksplosjon.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H202</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/explosive.html"><Data
+      ss:Type="String">Explosive; severe projection hazard</Data></Cell>
+    <Cell><Data ss:Type="String">Explosivt. Allvarlig fara för splitter och kaststycken.</Data></Cell>
+    <Cell><Data ss:Type="String">Räjähde; vakava sirpalevaara.</Data></Cell>
+    <Cell><Data ss:Type="String">Eksplosiv, alvorlig fare for udslyngning af fragmenter.</Data></Cell>
+    <Cell><Data ss:Type="String">Eksplosjonsfarlig; stor fare for utkast av fragmenter.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H203</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/explosive.html"><Data
+      ss:Type="String">Explosive; fire, blast or projection hazard</Data></Cell>
+    <Cell><Data ss:Type="String">Explosivt. Fara för brand, tryckvåg eller splitter och kaststycken.</Data></Cell>
+    <Cell><Data ss:Type="String">Räjähde; palo-, räjähdys- tai sirpalevaara.</Data></Cell>
+    <Cell><Data ss:Type="String">Eksplosiv, fare for brand, eksplosion eller udslyngning af fragmenter.</Data></Cell>
+    <Cell><Data ss:Type="String">Eksplosjonsfarlig; fare for brann, trykkbølge eller utkast av fragmenter.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H204</Data></Cell>
+    <Cell><Data ss:Type="String">Fire or projection hazard</Data></Cell>
+    <Cell><Data ss:Type="String">Fara för brand eller splitter och kaststycken.</Data></Cell>
+    <Cell><Data ss:Type="String">Palo- tai sirpalevaara.</Data></Cell>
+    <Cell><Data ss:Type="String">Fare for brand eller udslyngning af fragmenter.</Data></Cell>
+    <Cell><Data ss:Type="String">Fare for brann eller utkast av fragmenter.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H205</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/explosive.html"><Data
+      ss:Type="String">May mass explode in fire</Data></Cell>
+    <Cell><Data ss:Type="String">Fara för massexplosion vid brand.</Data></Cell>
+    <Cell><Data ss:Type="String">Koko massa voi räjähtää tulessa.</Data></Cell>
+    <Cell><Data ss:Type="String">Fare for masseeksplosion ved brand.</Data></Cell>
+    <Cell><Data ss:Type="String">Fare for masseeksplosjon ved brann.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H220</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/flammablegas.html"><Data
+      ss:Type="String">Extremely flammable gas</Data></Cell>
+    <Cell><Data ss:Type="String">Extremt brandfarlig gas.</Data></Cell>
+    <Cell><Data ss:Type="String">Erittäin helposti syttyvä kaasu.</Data></Cell>
+    <Cell><Data ss:Type="String">Yderst brandfarlig gas.</Data></Cell>
+    <Cell><Data ss:Type="String">Ekstremt brannfarlig gass.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H221</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/flammablegas.html"><Data
+      ss:Type="String">Flammable gas</Data></Cell>
+    <Cell><Data ss:Type="String">Brandfarlig gas.</Data></Cell>
+    <Cell><Data ss:Type="String">Syttyvä kaasu.</Data></Cell>
+    <Cell><Data ss:Type="String">Brandfarlig gas.</Data></Cell>
+    <Cell><Data ss:Type="String">Brannfarlig gass.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H222</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/flammableaerosol.html"><Data
+      ss:Type="String">Extremely flammable aerosol</Data></Cell>
+    <Cell><Data ss:Type="String">Extremt brandfarlig aerosol.</Data></Cell>
+    <Cell><Data ss:Type="String">Erittäin helposti syttyvä aerosoli.</Data></Cell>
+    <Cell><Data ss:Type="String">Yderst brandfarlig aerosol.</Data></Cell>
+    <Cell><Data ss:Type="String">Ekstremt brannfarlig aerosol.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H223</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/flammableaerosol.html"><Data
+      ss:Type="String">Flammable aerosol</Data></Cell>
+    <Cell><Data ss:Type="String">Brandfarlig aerosol.</Data></Cell>
+    <Cell><Data ss:Type="String">Syttyvä aerosoli.</Data></Cell>
+    <Cell><Data ss:Type="String">Brandfarlig aerosol.</Data></Cell>
+    <Cell><Data ss:Type="String">Brannfarlig aerosol.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H224</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/flammable.html"><Data
+      ss:Type="String">Extremely flammable liquid and vapour</Data></Cell>
+    <Cell><Data ss:Type="String">Extremt brandfarlig vätska och ånga.</Data></Cell>
+    <Cell><Data ss:Type="String">Erittäin helposti syttyvä neste ja höyry.</Data></Cell>
+    <Cell><Data ss:Type="String">Yderst brandfarlig væske og damp.</Data></Cell>
+    <Cell><Data ss:Type="String">Ekstremt brannfarlig væske og damp.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H225</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/flammable.html"><Data
+      ss:Type="String">Highly flammable liquid and vapour</Data></Cell>
+    <Cell><Data ss:Type="String">Mycket brandfarlig vätska och ånga.</Data></Cell>
+    <Cell><Data ss:Type="String">Helposti syttyvä neste ja höyry.</Data></Cell>
+    <Cell><Data ss:Type="String">Meget brandfarlig væske og damp.</Data></Cell>
+    <Cell><Data ss:Type="String">Meget brannfarlig væske og damp.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H226</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/flammable.html"><Data
+      ss:Type="String">Flammable liquid and vapour</Data></Cell>
+    <Cell><Data ss:Type="String">Brandfarlig vätska och ånga.</Data></Cell>
+    <Cell><Data ss:Type="String">Syttyvä neste ja höyry.</Data></Cell>
+    <Cell><Data ss:Type="String">Brandfarlig væske og damp.</Data></Cell>
+    <Cell><Data ss:Type="String">Brannfarlig væske og damp.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H227</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/combustible.html"><Data
+      ss:Type="String">Combustible liquid</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H228</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/flammablesolid.html"><Data
+      ss:Type="String">Flammable solid</Data></Cell>
+    <Cell><Data ss:Type="String">Brandfarligt fast ämne.</Data></Cell>
+    <Cell><Data ss:Type="String">Syttyvä kiinteä aine.</Data></Cell>
+    <Cell><Data ss:Type="String">Brandfarligt fast stof.</Data></Cell>
+    <Cell><Data ss:Type="String">Brannfarlig fast stoff.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H240</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/explosive.html"><Data
+      ss:Type="String">Heating may cause an explosion</Data></Cell>
+    <Cell><Data ss:Type="String">Explosivt vid uppvärmning.</Data></Cell>
+    <Cell><Data ss:Type="String">Räjähdysvaarallinen kuumennettaessa.</Data></Cell>
+    <Cell><Data ss:Type="String">Eksplosionsfare ved opvarmning.</Data></Cell>
+    <Cell><Data ss:Type="String">Eksplosjonsfarlig ved oppvarming.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H241</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/explosive.html"><Data
+      ss:Type="String">Heating may cause a fire or explosion</Data></Cell>
+    <Cell><Data ss:Type="String">Brandfarligt eller explosivt vid uppvärmning.</Data></Cell>
+    <Cell><Data ss:Type="String">Räjähdys- tai palovaarallinen kuumennettaessa.</Data></Cell>
+    <Cell><Data ss:Type="String">Brand- eller eksplosionsfare ved opvarmning.</Data></Cell>
+    <Cell><Data ss:Type="String">Brann- eller eksplosjonsfarlig ved oppvarming.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H242</Data></Cell>
+    <Cell><Data ss:Type="String">Heating may cause a fire</Data></Cell>
+    <Cell><Data ss:Type="String">Brandfarligt vid uppvärmning.</Data></Cell>
+    <Cell><Data ss:Type="String">Palovaarallinen kuumennettaessa.</Data></Cell>
+    <Cell><Data ss:Type="String">Brandfare ved opvarmning.</Data></Cell>
+    <Cell><Data ss:Type="String">Brannfarlig ved oppvarming.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H250</Data></Cell>
+    <Cell><Data ss:Type="String">Catches fire spontaneously if exposed to air</Data></Cell>
+    <Cell><Data ss:Type="String">Spontanantänder vid kontakt med luft.</Data></Cell>
+    <Cell><Data ss:Type="String">Syttyy itsestään palamaan joutuessaan kosketuksiin ilman kanssa.</Data></Cell>
+    <Cell><Data ss:Type="String">Selvantænder ved kontakt med luft.</Data></Cell>
+    <Cell><Data ss:Type="String">Selvantenner ved kontakt med luft.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H251</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/flammablesolid.html"><Data
+      ss:Type="String">Self-heating;; may catch fire</Data></Cell>
+    <Cell><Data ss:Type="String">Självupphettande. Kan börja brinna.</Data></Cell>
+    <Cell><Data ss:Type="String">Itsestään kuumeneva; voi syttyä palamaan.</Data></Cell>
+    <Cell><Data ss:Type="String">Selvopvarmende, kan selvantænde.</Data></Cell>
+    <Cell><Data ss:Type="String">Selvopphetende; kan selvantenne.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H252</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/flammablesolid.html"><Data
+      ss:Type="String">Self-heating; in large quantities; may catch fire</Data></Cell>
+    <Cell><Data ss:Type="String">Självupphettande i stora mängder. Kan börja brinna.</Data></Cell>
+    <Cell><Data ss:Type="String">Suurina määrinä itsestään kuumeneva; voi syttyä palamaan.</Data></Cell>
+    <Cell><Data ss:Type="String">Selvopvarmende i store mængder, kan selvantænde.</Data></Cell>
+    <Cell><Data ss:Type="String">Selvopphetende i store mengder; kan selvantenne.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H260</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/flammablegas.html"><Data
+      ss:Type="String">In contact with water releases flammable gases which may ignite spontaneously</Data></Cell>
+    <Cell><Data ss:Type="String">Vid kontakt med vatten utvecklas brandfarliga gaser som kan självantända.</Data></Cell>
+    <Cell><Data ss:Type="String">Kehittää itsestään syttyviä kaasuja veden kanssa.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved kontakt med vand udvikles brandfarlige gasser, som kan selvantænde.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved kontakt med vann utvikles brannfarlige gasser som kan selvantenne.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H261</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/flammablegas.html"><Data
+      ss:Type="String">In contact with water releases flammable gas</Data></Cell>
+    <Cell><Data ss:Type="String">Vid kontakt med vatten utvecklas brandfarliga gaser.</Data></Cell>
+    <Cell><Data ss:Type="String">Kehittää syttyviä kaasuja veden kanssa.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved kontakt med vand udvikles brandfarlige gasser.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved kontakt med vann utvikles brannfarlige gasser.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H270</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/oxidation.html"><Data
+      ss:Type="String">May cause or intensify fire; oxidizer</Data></Cell>
+    <Cell><Data ss:Type="String">Kan orsaka eller intensifiera brand. Oxiderande.</Data></Cell>
+    <Cell><Data ss:Type="String">Aiheuttaa tulipalon vaaran tai edistää tulipaloa; hapettava.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsage eller forstærke brand, brandnærende.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsake eller forsterke brann; oksiderende.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H271</Data></Cell>
+    <Cell><Data ss:Type="String">May cause fire or explosion; strong oxidizer</Data></Cell>
+    <Cell><Data ss:Type="String">Kan orsaka brand eller explosion. Starkt oxiderande.</Data></Cell>
+    <Cell><Data ss:Type="String">Aiheuttaa tulipalo- tai räjähdysvaaran; voimakkaasti hapettava.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsage brand eller eksplosion, stærkt brandnærende.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsake brann eller eksplosjon; sterkt oksiderende.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H272</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/oxidation.html"><Data
+      ss:Type="String">May intensify fire; oxidizer</Data></Cell>
+    <Cell><Data ss:Type="String">Kan intensifiera brand. Oxiderande.</Data></Cell>
+    <Cell><Data ss:Type="String">Voi edistää tulipaloa; hapettava.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forstærke brand, brandnærende.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forsterke brann; oksiderende.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H280</Data></Cell>
+    <Cell><Data ss:Type="String">Contains gas under pressure; may explode if heated</Data></Cell>
+    <Cell><Data ss:Type="String">Innehåller gas under tryck. Kan explodera vid uppvärmning.</Data></Cell>
+    <Cell><Data ss:Type="String">Sisältää paineen alaista kaasua; voi räjähtää kuumennettaessa.</Data></Cell>
+    <Cell><Data ss:Type="String">Indeholder gas under tryk, kan eksplodere ved opvarmning.</Data></Cell>
+    <Cell><Data ss:Type="String">Inneholder gass under trykk; kan eksplodere ved oppvarming.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H281</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/cryogen.html"><Data
+      ss:Type="String">Contains refrigerated gas; may cause cryogenic burns or injury</Data></Cell>
+    <Cell><Data ss:Type="String">Innehåller kyld gas. Kan orsaka svåra köldskador.</Data></Cell>
+    <Cell><Data ss:Type="String">Sisältää jäähdytettyä kaasua; voi aiheuttaa jäätymisvamman.</Data></Cell>
+    <Cell><Data ss:Type="String">Indeholder nedkølet gas, kan forårsage kuldeskader.</Data></Cell>
+    <Cell><Data ss:Type="String">Inneholder nedkjølt gass; kan forårsake alvorlige forfrysninger.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H290</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/corrosive.html"><Data
+      ss:Type="String">May be corrosive to metals</Data></Cell>
+    <Cell><Data ss:Type="String">Kan vara korrosivt för metaller.</Data></Cell>
+    <Cell><Data ss:Type="String">Voi syövyttää metalleja.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan ætse metaller.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan være etsende for metaller.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H300</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/ingestion.html"><Data
+      ss:Type="String">Fatal if swallowed</Data></Cell>
+    <Cell><Data ss:Type="String">Dödligt vid förtäring.</Data></Cell>
+    <Cell><Data ss:Type="String">Tappavaa nieltynä.</Data></Cell>
+    <Cell><Data ss:Type="String">Livsfarlig ved indtagelse.</Data></Cell>
+    <Cell><Data ss:Type="String">Dødelig ved svelging.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H301</Data></Cell>
+    <Cell><Data ss:Type="String">Toxic if swallowed</Data></Cell>
+    <Cell><Data ss:Type="String">Giftigt vid förtäring.</Data></Cell>
+    <Cell><Data ss:Type="String">Myrkyllistä nieltynä.</Data></Cell>
+    <Cell><Data ss:Type="String">Giftig ved indtagelse.</Data></Cell>
+    <Cell><Data ss:Type="String">Giftig ved svelging.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H302</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/ingestion.html"><Data
+      ss:Type="String">Harmful if swallowed</Data></Cell>
+    <Cell><Data ss:Type="String">Skadligt vid förtäring.</Data></Cell>
+    <Cell><Data ss:Type="String">Haitallista nieltynä.</Data></Cell>
+    <Cell><Data ss:Type="String">Farlig ved indtagelse.</Data></Cell>
+    <Cell><Data ss:Type="String">Farlig ved svelging.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H303</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/ingestion.html"><Data
+      ss:Type="String">May be harmful if swallowed</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H304</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/ingestion.html"><Data
+      ss:Type="String">May be fatal if swallowed and enters airways</Data></Cell>
+    <Cell><Data ss:Type="String">Kan vara dödligt vid förtäring om det kommer ner i luftvägarna.</Data></Cell>
+    <Cell><Data ss:Type="String">Voi olla tappavaa nieltynä ja joutuessaan hengitysteihin.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan være livsfarligt, hvis det indtages og kommer i luftvejene.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan være dødelig ved svelging om det kommer ned i luftveiene.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H305</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/ingestion.html"><Data
+      ss:Type="String">May be harmful if swallowed and enters airways</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H310</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/dermaltoxicity.html"><Data
+      ss:Type="String">Fatal in contact with skin</Data></Cell>
+    <Cell><Data ss:Type="String">Dödligt vid hudkontakt.</Data></Cell>
+    <Cell><Data ss:Type="String">Tappavaa joutuessaan iholle.</Data></Cell>
+    <Cell><Data ss:Type="String">Livsfarlig ved hudkontakt.</Data></Cell>
+    <Cell><Data ss:Type="String">Dødelig ved hudkontakt.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H311</Data></Cell>
+    <Cell><Data ss:Type="String">Toxic in contact with skin</Data></Cell>
+    <Cell><Data ss:Type="String">Giftigt vid hudkontakt.</Data></Cell>
+    <Cell><Data ss:Type="String">Myrkyllistä joutuessaan iholle.</Data></Cell>
+    <Cell><Data ss:Type="String">Giftig ved hudkontakt.</Data></Cell>
+    <Cell><Data ss:Type="String">Giftig ved hudkontakt.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H312</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/dermaltoxicity.html"><Data
+      ss:Type="String">Harmful in contact with skin</Data></Cell>
+    <Cell><Data ss:Type="String">Skadligt vid hudkontakt.</Data></Cell>
+    <Cell><Data ss:Type="String">Haitallista joutuessaan iholle.</Data></Cell>
+    <Cell><Data ss:Type="String">Farlig ved hudkontakt.</Data></Cell>
+    <Cell><Data ss:Type="String">Farlig ved hudkontakt.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H313</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/dermaltoxicity.html"><Data
+      ss:Type="String">May be harmful in contact with skin</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H314</Data></Cell>
+    <Cell><Data ss:Type="String">Causes severe skin burns and eye damage</Data></Cell>
+    <Cell><Data ss:Type="String">Orsakar allvarliga frätskador på hud och ögon.</Data></Cell>
+    <Cell><Data ss:Type="String">Voimakkaasti ihoa syövyttävää ja silmiä vaurioittavaa.</Data></Cell>
+    <Cell><Data ss:Type="String">Forårsager svære forbrændinger af huden og øjenskader.</Data></Cell>
+    <Cell><Data ss:Type="String">Gir alvorlige etseskader på hud og øyne.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H315</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/irritant.html"><Data
+      ss:Type="String">Causes skin irritation</Data></Cell>
+    <Cell><Data ss:Type="String">Irriterar huden.</Data></Cell>
+    <Cell><Data ss:Type="String">Ärsyttää ihoa.</Data></Cell>
+    <Cell><Data ss:Type="String">Forårsager hudirritation.</Data></Cell>
+    <Cell><Data ss:Type="String">Irriterer huden.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H316</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/irritant.html"><Data
+      ss:Type="String">Causes mild skin irritation</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H317</Data></Cell>
+    <Cell><Data ss:Type="String">May cause an allergic skin reaction</Data></Cell>
+    <Cell><Data ss:Type="String">Kan orsaka allergisk hudreaktion.</Data></Cell>
+    <Cell><Data ss:Type="String">Voi aiheuttaa allergisen ihoreaktion.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsage allergisk hudreaktion.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan utløse en allergisk hudreaksjon.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H318</Data></Cell>
+    <Cell><Data ss:Type="String">Causes serious eye damage</Data></Cell>
+    <Cell><Data ss:Type="String">Orsakar allvarliga ögonskador.</Data></Cell>
+    <Cell><Data ss:Type="String">Vaurioittaa vakavasti silmiä.</Data></Cell>
+    <Cell><Data ss:Type="String">Forårsager alvorlig øjenskade.</Data></Cell>
+    <Cell><Data ss:Type="String">Gir alvorlig øyeskade.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H319</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/irritant.html"><Data
+      ss:Type="String">Causes serious eye irritation</Data></Cell>
+    <Cell><Data ss:Type="String">Orsakar allvarlig ögonirritation.</Data></Cell>
+    <Cell><Data ss:Type="String">Ärsyttää voimakkaasti silmiä.</Data></Cell>
+    <Cell><Data ss:Type="String">Forårsager alvorlig øjenirritation.</Data></Cell>
+    <Cell><Data ss:Type="String">Gir alvorlig øyeirritasjon.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H320</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/irritant.html"><Data
+      ss:Type="String">Causes eye irritation</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H330</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/inhalation.html"><Data
+      ss:Type="String">Fatal if inhaled</Data></Cell>
+    <Cell><Data ss:Type="String">Dödligt vid inandning.</Data></Cell>
+    <Cell><Data ss:Type="String">Tappavaa hengitettynä.</Data></Cell>
+    <Cell><Data ss:Type="String">Livsfarlig ved indånding.</Data></Cell>
+    <Cell><Data ss:Type="String">Dødelig ved innånding.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H331</Data></Cell>
+    <Cell><Data ss:Type="String">Toxic if inhaled</Data></Cell>
+    <Cell><Data ss:Type="String">Giftigt vid inandning.</Data></Cell>
+    <Cell><Data ss:Type="String">Myrkyllistä hengitettynä.</Data></Cell>
+    <Cell><Data ss:Type="String">Giftig ved indånding.</Data></Cell>
+    <Cell><Data ss:Type="String">Giftig ved innånding.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H332</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/inhalation.html"><Data
+      ss:Type="String">Harmful if inhaled</Data></Cell>
+    <Cell><Data ss:Type="String">Skadligt vid inandning.</Data></Cell>
+    <Cell><Data ss:Type="String">Haitallista hengitettynä.</Data></Cell>
+    <Cell><Data ss:Type="String">Farlig ved indånding.</Data></Cell>
+    <Cell><Data ss:Type="String">Farlig ved innånding.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H333</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/inhalation.html"><Data
+      ss:Type="String">May be harmful if inhaled</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H334</Data></Cell>
+    <Cell><Data ss:Type="String">May cause allergy or asthma symptoms or breathing difficulties if inhaled</Data></Cell>
+    <Cell><Data ss:Type="String">Kan orsaka allergi- eller astmasymtom eller andningssvårigheter vid inandning.</Data></Cell>
+    <Cell><Data ss:Type="String">Voi aiheuttaa hengitettynä allergia- tai astmaoireita tai hengitysvaikeuksia.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsage allergi- eller astmasymptomer eller åndedrætsbesvær ved indånding.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan gi allergi eller astmasymptomer eller pustevansker ved innånding.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H335</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/irritant.html"><Data
+      ss:Type="String">May cause respiratory irritation</Data></Cell>
+    <Cell><Data ss:Type="String">Kan orsaka irritation i luftvägarna.</Data></Cell>
+    <Cell><Data ss:Type="String">Saattaa aiheuttaa hengitysteiden ärsytystä.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsage irritation af luftvejene.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsake irritasjon av luftveiene.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H336</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/vertigo.html"><Data
+      ss:Type="String">May cause drowsiness or dizziness</Data></Cell>
+    <Cell><Data ss:Type="String">Kan göra att man blir dåsig eller omtöcknad.</Data></Cell>
+    <Cell><Data ss:Type="String">Saattaa aiheuttaa uneliaisuutta ja huimausta.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsage sløvhed eller svimmelhed.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsake døsighet eller svimmelhet.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H340</Data></Cell>
+    <Cell><Data ss:Type="String">May cause genetic defects (state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)</Data></Cell>
+    <Cell><Data ss:Type="String">Kan orsaka genetiska defekter &lt;ange exponeringsväg om det är definitivt bevisat att faran inte kan orsakas av några andra exponeringsvägar&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Saattaa aiheuttaa perimävaurioita &lt;mainitaan altistumisreitti, jos on kiistatta osoitettu, että vaara ei voi aiheutua muiden altistumisreittien kautta&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsage genetiske defekter &lt;angiv eksponeringsvej, hvis det er endeligt påvist, at faren ikke kan frembringes ad nogen anden eksponeringsvej&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan gi genetiske skader&#160;.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H341</Data></Cell>
+    <Cell><Data ss:Type="String">Suspected of causing genetic defects (state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)</Data></Cell>
+    <Cell><Data ss:Type="String">Misstänks kunna orsaka genetiska defekter &lt;ange exponeringsväg om det är definitivt bevisat att faran inte kan orsakas av några andra exponeringsvägar&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Epäillään aiheuttavan perimävaurioita &lt;mainitaan altistumisreitti, jos on kiistatta osoitettu, että vaara ei voi aiheutua muiden altistumisreittien kautta&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Mistænkt for at forårsage genetiske defekter &lt;angiv eksponeringsvej, hvis det er endeligt påvist, at faren ikke kan frembringes ad nogen anden eksponeringsvej&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Mistenkes å kunne gi genetiske skader&#160;.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H350</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/carcinogen.html"><Data
+      ss:Type="String">May cause cancer (state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)</Data></Cell>
+    <Cell><Data ss:Type="String">Kan orsaka cancer &lt;ange exponeringsväg om det är definitivt bevisat att faran inte kan orsakas av några andra exponeringsvägar&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Saattaa aiheuttaa syöpää &lt;mainitaan altistumisreitti, jos on kiistatta osoitettu, että vaara ei voi aiheutua muiden altistumisreittien kautta&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan fremkalde kræft &lt;angiv eksponeringsvej, hvis det er endeligt påvist, at faren ikke kan frembringes ad nogen anden eksponeringsvej&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsake kreft&#160;.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H351</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/carcinogen.html"><Data
+      ss:Type="String">Suspected of causing cancer (state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)</Data></Cell>
+    <Cell><Data ss:Type="String">Misstänks kunna orsaka cancer &lt;ange exponeringsväg om det är definitivt bevisat att faran inte kan orsakas av några andra exponeringsvägar&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Epäillään aiheuttavan syöpää &lt;mainitaan altistumisreitti, jos on kiistatta osoitettu, että vaara ei voi aiheutua muiden altistumisreittien kautta&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Mistænkt for at fremkalde kræft &lt;angiv eksponeringsvej, hvis det er endeligt påvist, at faren ikke kan frembringes ad nogen anden eksponeringsvej&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Mistenkes for å kunne forårsake kreft&#160;.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H360</Data></Cell>
+    <Cell><Data ss:Type="String">May damage fertility or the unborn child (state specific effect if known)(state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)</Data></Cell>
+    <Cell><Data ss:Type="String">Kan skada fertiliteten eller det ofödda barnet &lt;ange specifik effekt om denna är känd&gt; &lt;ange exponeringsväg om det är definitivt bevisat att faran inte kan orsakas av några andra exponeringsvägar&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Saattaa heikentää hedelmällisyyttä tai vaurioittaa sikiötä &lt;mainitaan tiedetty spesifinen vaikutus&gt; &lt;mainitaan altistumisreitti, jos on kiistatta osoitettu, että vaara ei voi aiheutua muiden altistumisreittien kautta&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan skade forplantningsevnen eller det ufødte barn &lt;angiv specifik effekt, hvis kendt&gt; &lt;angiv eksponeringsvej, hvis det er endeligt påvist, at faren ikke kan frembringes ad nogen anden eksponeringsvej&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan skade forplantningsevnen eller gi fosterskader&#160;.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H361</Data></Cell>
+    <Cell><Data ss:Type="String">Suspected of damaging fertility or the unborn child (state specific effect if known)(state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)</Data></Cell>
+    <Cell><Data ss:Type="String">Misstänks kunna skada fertiliteten eller det ofödda barnet &lt;ange specifik effekt om denna är känd&gt; &lt;ange exponeringsväg om det är definitivt bevisat att faran inte kan orsakas av några andra exponeringsvägar&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Epäillään heikentävän hedelmällisyyttä tai vaurioittavan sikiötä &lt;mainitaan tiedetty spesifinen vaikutus&gt; &lt;mainitaan altistumisreitti, jos on kiistatta osoitettu, että vaara ei voi aiheutua muiden altistumisreittien kautta&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Mistænkt for at skade forplantningsevnen eller det ufødte barn &lt;angiv specifik effekt, hvis kendt&gt; &lt;angiv eksponeringsvej, hvis det er endeligt påvist, at faren ikke kan frembringes ad nogen anden eksponeringsvej&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Mistenkes for å kunne skade forplantningsevnen eller gi fosterskader&#160;.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H362</Data></Cell>
+    <Cell><Data ss:Type="String">May cause harm to breast-fed children</Data></Cell>
+    <Cell><Data ss:Type="String">Kan skada spädbarn som ammas.</Data></Cell>
+    <Cell><Data ss:Type="String">Saattaa aiheuttaa haittaa rintaruokinnassa oleville lapsille.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan skade børn, der ammes.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan skade barn som ammes.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H370</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/targetorganeffects.html"><Data
+      ss:Type="String">Causes damage to organs (or state all organs affected, if known) (state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)</Data></Cell>
+    <Cell><Data ss:Type="String">Orsakar organskador &lt;eller ange vilka organ som påverkas om detta är känt&gt; &lt;ange exponeringsväg om det är definitivt bevisat att faran inte kan orsakas av några andra exponeringsvägar&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Vahingoittaa elimiä &lt;tai mainitaan kaikki tiedetyt kohde-elimet&gt; &lt;mainitaan altistumisreitti, jos on kiistatta osoitettu, että vaara ei voi aiheutua muiden altistumisreittien kautta&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Forårsager organskader &lt;eller angiv alle berørte organer, hvis de kendes&gt; &lt;angiv eksponeringsvej, hvis det er endeligt påvist, at faren ikke kan frembringes ad nogen anden eksponeringsvej&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Forårsaker organskader&#160;.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H371</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/targetorganeffects.html"><Data
+      ss:Type="String">May cause damage to organs (or state all organs affected, if known)(state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)</Data></Cell>
+    <Cell><Data ss:Type="String">Kan orsaka organskador &lt;eller ange vilka organ som påverkas om detta är känt&gt; &lt;ange exponeringsväg om det är definitivt bevisat att faran inte kan orsakas av några andra exponeringsvägar&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Saattaa vahingoittaa elimiä &lt;tai mainitaan kaikki tiedetyt kohde-elimet&gt; &lt;mainitaan altistumisreitti, jos on kiistatta osoitettu, että vaara ei voi aiheutua muiden altistumisreittien kautta&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsage organskader &lt;eller angiv alle berørte organer, hvis de kendes&gt; &lt;angiv eksponeringsvej, hvis det er endeligt påvist, at faren ikke kan frembringes ad nogen anden eksponeringsvej&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsake organskader&#160;.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H372</Data></Cell>
+    <Cell><Data ss:Type="String">Causes damage to organs (state all organs affected, if known) through prolonged or repeated exposure (state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)</Data></Cell>
+    <Cell><Data ss:Type="String">Orsakar organskador &lt;eller ange vilka organ som påverkas om detta är känt&gt; genom lång eller upprepad exponering &lt;ange exponeringsväg om det är definitivt bevisat att faran inte kan orsakas av några andra exponeringsvägar&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Vahingoittaa elimiä &lt;tai mainitaan kaikki tiedetyt kohde-elimet&gt; pitkäaikaisessa tai toistuvassa altistumisessa &lt;mainitaan altistumisreitti, jos on kiistatta osoitettu, että vaara ei voi aiheutua muiden altistumisreittien kautta&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Forårsager organskader &lt;eller angiv alle berørte organer, hvis de kendes&gt; ved længerevarende eller gentagen eksponering &lt;angiv eksponeringsvej, hvis det er endeligt påvist, at faren ikke kan frembringes ad nogen anden eksponeringsvej&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Forårsaker organskader&#160;ved langvarig eller gjentatt eksponering&#160;.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H373</Data></Cell>
+    <Cell><Data ss:Type="String">May cause damage to organs (state all organs affected, if known) through prolonged or repeated exposure (state route of exposure if it is conclusively proven that no other routes of exposure cause the hazard)</Data></Cell>
+    <Cell><Data ss:Type="String">Kan orsaka organskador &lt;eller ange vilka organ som påverkas om detta är känt&gt; genom lång eller upprepad exponering &lt;ange exponeringsväg om det är definitivt bevisat att faran inte kan orsakas av några andra exponeringsvägar&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Saattaa vahingoittaa elimiä &lt;tai mainitaan kaikki tiedetyt kohde-elimet&gt; pitkäaikaisessa tai toistuvassa altistumisessa &lt;mainitaan altistumisreitti, jos on kiistatta osoitettu, että vaara ei voi aiheutua muiden altistumisreittien kautta&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsage organskader &lt;eller angiv alle berørte organer, hvis de kendes&gt; ved længerevarende eller gentagen eksponering &lt;angiv eksponeringsvej, hvis det er endeligt påvist, at faren ikke kan frembringes ad nogen anden eksponeringsvej&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsake organskader&#160;ved langvarig eller gjentatt eksponering&#160;.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H400</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/highlytoxic.html"><Data
+      ss:Type="String">Very toxic to aquatic life</Data></Cell>
+    <Cell><Data ss:Type="String">Mycket giftigt för vattenlevande organismer.</Data></Cell>
+    <Cell><Data ss:Type="String">Erittäin myrkyllistä vesieliöille.</Data></Cell>
+    <Cell><Data ss:Type="String">Meget giftig for vandlevende organismer.</Data></Cell>
+    <Cell><Data ss:Type="String">Meget giftig for liv i vann.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H401</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/toxic.html"><Data ss:Type="String">Toxic to aquatic life</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H402</Data></Cell>
+    <Cell><Data ss:Type="String">Harmful to aquatic life</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H410</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/highlytoxic.html"><Data
+      ss:Type="String">Very toxic to aquatic life with long lasting effects</Data></Cell>
+    <Cell><Data ss:Type="String">Mycket giftigt för vattenlevande organismer med långtidseffekter.</Data></Cell>
+    <Cell><Data ss:Type="String">Erittäin myrkyllistä vesieliöille, pitkäaikaisia haittavaikutuksia.</Data></Cell>
+    <Cell><Data ss:Type="String">Meget giftig med langvarige virkninger for vandlevende organismer.</Data></Cell>
+    <Cell><Data ss:Type="String">Meget giftig, med langtidsvirkning, for liv i vann.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H411</Data></Cell>
+    <Cell ss:HRef="http://www.ilpi.com/msds/ref/toxic.html"><Data ss:Type="String">Toxic to aquatic life with long lasting effects</Data></Cell>
+    <Cell><Data ss:Type="String">Giftigt för vattenlevande organismer med långtidseffekter.</Data></Cell>
+    <Cell><Data ss:Type="String">Myrkyllistä vesieliöille, pitkäaikaisia haittavaikutuksia.</Data></Cell>
+    <Cell><Data ss:Type="String">Giftig for vandlevende organismer, med langvarige virkninger.</Data></Cell>
+    <Cell><Data ss:Type="String">Giftig, med langtidsvirkning, for liv i vann.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H412</Data></Cell>
+    <Cell><Data ss:Type="String">Harmful to aquatic life with long lasting effects</Data></Cell>
+    <Cell><Data ss:Type="String">Skadliga långtidseffekter för vattenlevande organismer.</Data></Cell>
+    <Cell><Data ss:Type="String">Haitallista vesieliöille, pitkäaikaisia haittavaikutuksia.</Data></Cell>
+    <Cell><Data ss:Type="String">Skadelig for vandlevende organismer, med langvarige virkninger.</Data></Cell>
+    <Cell><Data ss:Type="String">Skadelig, med langtidsvirkning, for liv i vann.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">H413</Data></Cell>
+    <Cell><Data ss:Type="String">May cause long lasting harmful effects to aquatic life</Data></Cell>
+    <Cell><Data ss:Type="String">Kan ge skadliga långtidseffekter på vattenlevande organismer.</Data></Cell>
+    <Cell><Data ss:Type="String">Voi aiheuttaa pitkäaikaisia haittavaikutuksia vesieliöille.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsage langvarige skadelige virkninger for vandlevende organismer.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan forårsake skadelige langtidsvirkninger for liv i vann.</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">H420</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Harms public health and the environment by destroying&#10;ozone in the upper atmosphere</Data></Cell>
+    <Cell><Data ss:Type="String">Skadar folkhälsan och miljön genom förstöring av ozonet i övre delen av atmosfären.</Data></Cell>
+    <Cell><Data ss:Type="String">Vahingoittaa kansanterveyttä ja ympäristöä tuhoamalla otsonia ylemmässäilmakehässä.</Data></Cell>
+    <Cell><Data ss:Type="String">Skader folkesundheden og miljøet ved at ødelægge ozon i den øvre atmosfære.</Data></Cell>
+    <Cell><Data ss:Type="String">Skader folkehelsen og miljøet ved å ødelegge ozon i øvre del av atmosfæren.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">EUH001</Data></Cell>
+    <Cell><Data ss:Type="String">Explosive when dry</Data></Cell>
+    <Cell><Data ss:Type="String">Explosivt i torrt tillstånd.</Data></Cell>
+    <Cell><Data ss:Type="String">Räjähtävää kuivana.</Data></Cell>
+    <Cell><Data ss:Type="String">Eksplosiv i tør tilstand.</Data></Cell>
+    <Cell><Data ss:Type="String">Eksplosjonsfarlig i tørr tilstand.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">EUH006</Data></Cell>
+    <Cell><Data ss:Type="String">Explosive with or without contact with air</Data></Cell>
+    <Cell><Data ss:Type="String">Explosivt vid eller utan kontakt med luft.</Data></Cell>
+    <Cell><Data ss:Type="String">Räjähtävää sellaisenaan tai ilman kanssa.</Data></Cell>
+    <Cell><Data ss:Type="String">Eksplosiv ved og uden kontakt med luft.</Data></Cell>
+    <Cell><Data ss:Type="String">Eksplosjonsfarlig ved og uten kontakt med luft.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">EUH014</Data></Cell>
+    <Cell><Data ss:Type="String">Reacts violently with water</Data></Cell>
+    <Cell><Data ss:Type="String">Reagerar häftigt med vatten.</Data></Cell>
+    <Cell><Data ss:Type="String">Reagoi voimakkaasti veden kanssa.</Data></Cell>
+    <Cell><Data ss:Type="String">Reagerer voldsomt med vand.</Data></Cell>
+    <Cell><Data ss:Type="String">Reagerer voldsomt med vann.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">EUH018</Data></Cell>
+    <Cell><Data ss:Type="String">In use may form flammable/explosive vapour-air mixture</Data></Cell>
+    <Cell><Data ss:Type="String">Vid användning kan brännbara/explosiva ång-luftblandningar bildas.</Data></Cell>
+    <Cell><Data ss:Type="String">Käytössä voi muodostua syttyvä/räjähtävä höyry-ilmaseos.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved brug kan brandbarlige dampe/eksplosive damp-luftblandinger dannes.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved bruk kan brennbar damp/eksplosive damp-luft-blandinger dannes.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">EUH019</Data></Cell>
+    <Cell><Data ss:Type="String">May form explosive peroxides</Data></Cell>
+    <Cell><Data ss:Type="String">Kan bilda explosiva peroxider.</Data></Cell>
+    <Cell><Data ss:Type="String">Saattaa muodostaa räjähtäviä peroksideja.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan danne eksplosive peroxider.</Data></Cell>
+    <Cell><Data ss:Type="String">Kan danne eksplosive peroksider.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">EUH029</Data></Cell>
+    <Cell><Data ss:Type="String">Contact with water liberates toxic gas</Data></Cell>
+    <Cell><Data ss:Type="String">Utvecklar giftig gas vid kontakt med vatten.</Data></Cell>
+    <Cell><Data ss:Type="String">Kehittää myrkyllistä kaasua veden kanssa.</Data></Cell>
+    <Cell><Data ss:Type="String">Udvikler giftig gas ved kontakt med vand.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved kontakt med vann utvikles giftig gass.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">EUH031</Data></Cell>
+    <Cell><Data ss:Type="String">Contact with acids liberates toxic gas</Data></Cell>
+    <Cell><Data ss:Type="String">Utvecklar giftig gas vid kontakt med syra.</Data></Cell>
+    <Cell><Data ss:Type="String">Kehittää myrkyllistä kaasua hapon kanssa.</Data></Cell>
+    <Cell><Data ss:Type="String">Udvikler giftig gas ved kontakt med syre.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved kontakt med syrer utvikles giftig gass.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">EUH032</Data></Cell>
+    <Cell><Data ss:Type="String">Contact with acids liberates very toxic gas</Data></Cell>
+    <Cell><Data ss:Type="String">Utvecklar mycket giftig gas vid kontakt med syra.</Data></Cell>
+    <Cell><Data ss:Type="String">Kehittää erittäin myrkyllistä kaasua hapon kanssa.</Data></Cell>
+    <Cell><Data ss:Type="String">Udvikler meget giftig gas ved kontakt med syre.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved kontakt med syrer utvikles meget giftig gass.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">EUH044 </Data></Cell>
+    <Cell><Data ss:Type="String">Risk of explosion if heated under confinement</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">EUH059</Data></Cell>
+    <Cell><Data ss:Type="String">Hazardous to the ozone layer</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">EUH066</Data></Cell>
+    <Cell><Data ss:Type="String">Repeated exposure may cause skin dryness or cracking</Data></Cell>
+    <Cell><Data ss:Type="String">Upprepad kontakt kan ge torr hud eller hudsprickor.</Data></Cell>
+    <Cell><Data ss:Type="String">Toistuva altistus voi aiheuttaa ihon kuivumista tai halkeilua.</Data></Cell>
+    <Cell><Data ss:Type="String">Gentagen kontakt kan give tør eller revnet hud.</Data></Cell>
+    <Cell><Data ss:Type="String">Gjentatt eksponering kan gi tørr eller sprukket hud.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">EUH070</Data></Cell>
+    <Cell><Data ss:Type="String">Toxic by eye contact</Data></Cell>
+    <Cell><Data ss:Type="String">Giftigt vid kontakt med ögonen.</Data></Cell>
+    <Cell><Data ss:Type="String">Myrkyllistä joutuessaan silmään.</Data></Cell>
+    <Cell><Data ss:Type="String">Giftig ved kontakt med øjnene.</Data></Cell>
+    <Cell><Data ss:Type="String">Giftig ved øyekontakt.</Data></Cell>
+   </Row>
+   <Row ss:Index="91">
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s79"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>90</HorizontalResolution>
+    <VerticalResolution>90</VerticalResolution>
+   </Print>
+   <TopRowVisible>63</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>63</ActiveRow>
+     <RangeSelection>C1</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="PrecautionaryStatement">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="136" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="91.5"/>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Code</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">English</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Sweden</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Finland</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Denmark</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Norway</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P101</Data></Cell>
+    <Cell><Data ss:Type="String"> If medical advice is needed, have product container or label at hand. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Ha förpackningen eller etiketten till hands om du måste söka läkarvård.</Data></Cell>
+    <Cell><Data ss:Type="String">Jos tarvitaan lääkinnällistä apua, näytä pakkaus tai varoitusetiketti.</Data></Cell>
+    <Cell><Data ss:Type="String">Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.</Data></Cell>
+    <Cell><Data ss:Type="String">Dersom det er nødvendig med legehjelp, ha produktets beholder eller etikett for hånden.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P102</Data></Cell>
+    <Cell><Data ss:Type="String"> Keep out of reach of children. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Förvaras oåtkomligt för barn.</Data></Cell>
+    <Cell><Data ss:Type="String">Säilytä lasten ulottumattomissa.</Data></Cell>
+    <Cell><Data ss:Type="String">Opbevares utilgængeligt for børn.</Data></Cell>
+    <Cell><Data ss:Type="String">Oppbevares utilgjengelig for barn.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P103</Data></Cell>
+    <Cell><Data ss:Type="String"> Read label before use. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Läs etiketten före användning.</Data></Cell>
+    <Cell><Data ss:Type="String">Lue merkinnät ennen käyttöä.</Data></Cell>
+    <Cell><Data ss:Type="String">Læs etiketten før brug.</Data></Cell>
+    <Cell><Data ss:Type="String">Les etiketten før bruk.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P201</Data></Cell>
+    <Cell><Data ss:Type="String"> Obtain special instructions before use. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Inhämta särskilda instruktioner före användning.</Data></Cell>
+    <Cell><Data ss:Type="String">Lue erityisohjeet ennen käyttöä.</Data></Cell>
+    <Cell><Data ss:Type="String">Indhent særlige anvisninger før brug.</Data></Cell>
+    <Cell><Data ss:Type="String">Innhent særskilt instruks før bruk.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P202</Data></Cell>
+    <Cell><Data ss:Type="String"> Do not handle until all safety precautions have been read and understood. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Använd inte produkten innan du har läst och förstått säkerhetsanvisningarna</Data></Cell>
+    <Cell><Data ss:Type="String">Lue varoitukset huolellisesti ennen käsittelyä.</Data></Cell>
+    <Cell><Data ss:Type="String">Anvend ikke produktet, før alle advarsler er læst og forstået.</Data></Cell>
+    <Cell><Data ss:Type="String">Skal ikke håndteres før alle advarsler er lest og oppfattet.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P210</Data></Cell>
+    <Cell><Data ss:Type="String"> Keep away from heat/sparks/open flames/hot surfaces. - No smoking. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Får inte utsättas för värme/gnistor/öppen låga/heta ytor. – Rökning förbjuden.</Data></Cell>
+    <Cell><Data ss:Type="String">Suojaa lämmöltä/kipinöiltä/avotulelta/kuumilta pinnoilta. – Tupakointi kielletty.</Data></Cell>
+    <Cell><Data ss:Type="String">Holdes væk fra varme/gnister/åben ild/varme overflader. Rygning forbudt.</Data></Cell>
+    <Cell><Data ss:Type="String">Holdes vekk fra varme/gnister/åpen flamme/varme overflater. - Røyking forbudt.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P211</Data></Cell>
+    <Cell><Data ss:Type="String"> Do not spray on an open flame or other ignition source. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Spreja inte över öppen låga eller andra antändningskällor.</Data></Cell>
+    <Cell><Data ss:Type="String">Ei saa suihkuttaa avotuleen tai muuhun sytytyslähteeseen.</Data></Cell>
+    <Cell><Data ss:Type="String">Spray ikke mod åben ild eller andre antændelseskilder.</Data></Cell>
+    <Cell><Data ss:Type="String">Ikke spray mot åpen flamme eller annen tennkilde.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P220</Data></Cell>
+    <Cell><Data ss:Type="String"> Keep/Store away from clothing/.../combustible materials. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Hålls/förvarad åtskilt från kläder/…/brännbara material. (se kriterier för val av skyddsangivelser, tabell 6.2, sidorna 211-212)</Data></Cell>
+    <Cell><Data ss:Type="String">Pidä/Varastoi erillään vaatetuksesta/…/syttyvistä materiaaleista. (katso turvalausekkeiden valintakriteerit, taulukko 6.2, sivut 211-212)</Data></Cell>
+    <Cell><Data ss:Type="String">Må ikke anvendes/opbevares i nærheden af tøj/…/brændbare materialer.</Data></Cell>
+    <Cell><Data ss:Type="String">Må ikke brukes/oppbevares i nærheten av tøy /.../ brennbare materialer.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P221</Data></Cell>
+    <Cell><Data ss:Type="String"> Take any precaution to avoid mixing with combustibles... </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Undvik att blanda med med brännbara ämnen… (se kriterier för val av skyddsangivelser, tabell 6.2, sidan 212)</Data></Cell>
+    <Cell><Data ss:Type="String">Varo sekoittamasta syttyvien materiaalien… kanssa. (katso turvalausekkeiden valintakriteerit, taulukko 6.2, sivu 212)</Data></Cell>
+    <Cell><Data ss:Type="String">Undgå at blande med brændbare materialer…</Data></Cell>
+    <Cell><Data ss:Type="String">Må ikke blandes med brennbare stoffer.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P222</Data></Cell>
+    <Cell><Data ss:Type="String"> Do not allow contact with air. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Undvik kontakt med luft.</Data></Cell>
+    <Cell><Data ss:Type="String">Ei saa joutua kosketuksiin ilman kanssa.</Data></Cell>
+    <Cell><Data ss:Type="String">Undgå kontakt med luft.</Data></Cell>
+    <Cell><Data ss:Type="String">Unngå kontakt med luft.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P223</Data></Cell>
+    <Cell><Data ss:Type="String"> Keep away from any possible contact with water, because of violent reaction and possible flash fire. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Undvik all kontakt med vatten eftersom det kan framkalla en våldsam reaktion och explosionsartad brand.</Data></Cell>
+    <Cell><Data ss:Type="String">Ei saa joutua kosketuksiin veden kanssa voimakkaan reaktion ja mahdollisen leimahduksen takia</Data></Cell>
+    <Cell><Data ss:Type="String">Undgå enhver kontakt med vand, da dette kan fremkalde voldsom reaktion og risiko for eksplosionsagtig brand.</Data></Cell>
+    <Cell><Data ss:Type="String">Unngå all kontakt med vann, på grunn av fare for voldsom reaksjon og eksplosjonsaktig brann.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P230</Data></Cell>
+    <Cell><Data ss:Type="String"> Keep wetted with... </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Ska hållas fuktigt med… (se kriterier för val av skyddsangivelser, tabell 6.2, sidan 212)</Data></Cell>
+    <Cell><Data ss:Type="String">Säilytä kostutettuna … (katso turvalausekkeiden valintakriteerit, taulukko 6.2, sivu 212)</Data></Cell>
+    <Cell><Data ss:Type="String">Holdes befugtet med…</Data></Cell>
+    <Cell><Data ss:Type="String">Holdes fuktet med ...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P231</Data></Cell>
+    <Cell><Data ss:Type="String"> Handle under inert gas. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Hanteras under inert gas.</Data></Cell>
+    <Cell><Data ss:Type="String">Käsittele inertissä kaasussa.</Data></Cell>
+    <Cell><Data ss:Type="String">Håndteres under inaktiv gas.</Data></Cell>
+    <Cell><Data ss:Type="String">Håndteres under inertgass.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P232</Data></Cell>
+    <Cell><Data ss:Type="String"> Protect from moisture. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Skyddas från fukt.</Data></Cell>
+    <Cell><Data ss:Type="String">Suojaa kosteudelta.</Data></Cell>
+    <Cell><Data ss:Type="String">Beskyttes mod fugt.</Data></Cell>
+    <Cell><Data ss:Type="String">Beskyttes mot fuktighet.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P233</Data></Cell>
+    <Cell><Data ss:Type="String"> Keep container tightly closed. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Behållaren ska vara väl tillsluten.</Data></Cell>
+    <Cell><Data ss:Type="String">Säilytä tiiviisti suljettuna.</Data></Cell>
+    <Cell><Data ss:Type="String">Hold beholderen tæt lukket.</Data></Cell>
+    <Cell><Data ss:Type="String">Hold beholderen tett lukket.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P234</Data></Cell>
+    <Cell><Data ss:Type="String"> Keep only in original container. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Förvaras endast i originalbehållaren.</Data></Cell>
+    <Cell><Data ss:Type="String">Säilytä alkuperäispakkauksessa.</Data></Cell>
+    <Cell><Data ss:Type="String">Opbevares kun i den originale beholder.</Data></Cell>
+    <Cell><Data ss:Type="String">Oppbevares bare i originalbeholder.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P235</Data></Cell>
+    <Cell><Data ss:Type="String"> Keep cool. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Förvaras svalt.</Data></Cell>
+    <Cell><Data ss:Type="String">Säilytä viileässä.</Data></Cell>
+    <Cell><Data ss:Type="String">Opbevares køligt.</Data></Cell>
+    <Cell><Data ss:Type="String">Oppbevares kjølig.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P240</Data></Cell>
+    <Cell><Data ss:Type="String"> Ground/bond container and receiving equipment. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Jorda/potentialförbind behållare och mottagarutrustning.</Data></Cell>
+    <Cell><Data ss:Type="String">Säiliö ja vastaanottavat laitteet on maadoitettava/yhdistettävä.</Data></Cell>
+    <Cell><Data ss:Type="String">Beholder og modtageudstyr jordforbindes/potentialudlignes.</Data></Cell>
+    <Cell><Data ss:Type="String">Beholder og mottaksutstyr jordes/potensialutlignes.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P241</Data></Cell>
+    <Cell><Data ss:Type="String"> Use explosion-proof electrical/ventilating/lighting/.../equipment. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Använd explosionssäker elektrisk/ventilations-/belysnings-/…/ utrustning. (se kriterier för val av skyddsangivelser, tabell 6.2, sidan 213)</Data></Cell>
+    <Cell><Data ss:Type="String">Käytä räjähdysturvallisia sähkö/ilmanvaihto/valaisin/… /laitteita. (katso turvalausekkeiden valintakriteerit, taulukko 6.2, sivu 213)</Data></Cell>
+    <Cell><Data ss:Type="String">Anvend eksplosionssikkert elektrisk/ventilations-/lys-/…/udstyr.</Data></Cell>
+    <Cell><Data ss:Type="String">Bruk elektrisk materiell /ventilasjonsmateriell/belysningsmateriell som er eksplosjonssikkert.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P242</Data></Cell>
+    <Cell><Data ss:Type="String"> Use only non-sparking tools. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Använd endast verktyg som inte ger upphov till gnistor.</Data></Cell>
+    <Cell><Data ss:Type="String">Käytä ainoastaan kipinöimättömiä työkaluja.</Data></Cell>
+    <Cell><Data ss:Type="String">Anvend kun værktøj, som ikke frembringer gnister.</Data></Cell>
+    <Cell><Data ss:Type="String">Bruk bare verktøy som ikke avgir gnister.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P243</Data></Cell>
+    <Cell><Data ss:Type="String"> Take precautionary measures against static discharge. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vidta åtgärder mot statisk elektricitet.</Data></Cell>
+    <Cell><Data ss:Type="String">Estä staattisen sähkön aiheuttama kipinöinti.</Data></Cell>
+    <Cell><Data ss:Type="String">Træf foranstaltninger mod statisk elektricitet.</Data></Cell>
+    <Cell><Data ss:Type="String">Treff tiltak mot statisk elektrisitet.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P244</Data></Cell>
+    <Cell><Data ss:Type="String"> Keep reduction valves free from grease and oil. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Reducerventilerna ska hållas fria från fett och olja.</Data></Cell>
+    <Cell><Data ss:Type="String">Pidä paineenalennusventtiilit vapaana rasvasta ja öljystä.</Data></Cell>
+    <Cell><Data ss:Type="String">Reduktionsventilerne holdes fri for fedt og olie.</Data></Cell>
+    <Cell><Data ss:Type="String">Reduksjonsventiler skal holdes fri for fett og olje.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P250</Data></Cell>
+    <Cell><Data ss:Type="String"> Do not subject to grinding/shock/.../friction. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Får inte utsättas för gnidning/stötar/…/friktion. (se kriterier för val av skyddsangivelser, tabell 6.2, sidan 213)</Data></Cell>
+    <Cell><Data ss:Type="String">Suojele rasitukselta/iskuilta/…/hankaukselta. (katso turvalausekkeiden valintakriteerit, taulukko 6.2, sivu 213)</Data></Cell>
+    <Cell><Data ss:Type="String">Må ikke udsættes for slibning/stød/…/gnidning.</Data></Cell>
+    <Cell><Data ss:Type="String">Må ikke utsettes for sliping/støt/.../friksjon.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P251</Data></Cell>
+    <Cell><Data ss:Type="String">Pressurized container. Do not pierce or burn, even after use.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Tryckbehållare: Får inte punkteras eller brännas, gäller även tömd behållare.</Data></Cell>
+    <Cell><Data ss:Type="String">Painesäiliö: Ei saa puhkaista tai polttaa edes tyhjänä.</Data></Cell>
+    <Cell><Data ss:Type="String">Beholder under tryk: Må ikke punkteres eller brændes, heller ikke efter brug.</Data></Cell>
+    <Cell><Data ss:Type="String">Beholder under trykk: Må ikke punkteres eller brennes, selv ikke etter bruk.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P260</Data></Cell>
+    <Cell><Data ss:Type="String"> Do not breathe dust/fume/gas/mist/vapours/spray. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Inandas inte damm/rök/gaser/dimma/ångor/sprej.</Data></Cell>
+    <Cell><Data ss:Type="String">Älä hengitä pölyä/savua/kaasua/sumua/höyryä/suihketta.</Data></Cell>
+    <Cell><Data ss:Type="String">Indånd ikke pulver/røg/gas/tåge/damp/spray.</Data></Cell>
+    <Cell><Data ss:Type="String">Ikke innånd støv/røyk/gass/tåke/damp/aerosoler.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P261</Data></Cell>
+    <Cell><Data ss:Type="String"> Avoid breathing dust/fume/gas/mist/vapours/spray.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Undvik att inandas damm/rök/gaser/dimma/ångor/sprej.</Data></Cell>
+    <Cell><Data ss:Type="String">Vältä pölyn/savun/kaasun/sumun/höyryn/suihkeen hengittämistä.</Data></Cell>
+    <Cell><Data ss:Type="String">Undgå indånding af pulver/røg/gas/tåge/damp/spray.</Data></Cell>
+    <Cell><Data ss:Type="String">Unngå innånding av støv/røyk/gass/tåke/damp/aerosoler.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P262</Data></Cell>
+    <Cell><Data ss:Type="String"> Do not get in eyes, on skin, or on clothing. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Får inte komma i kontakt med ögonen, huden eller kläderna.</Data></Cell>
+    <Cell><Data ss:Type="String">Varo kemikaalin joutumista silmiin, iholle tai vaatteisiin.</Data></Cell>
+    <Cell><Data ss:Type="String">Må ikke komme i kontakt med øjne, hud eller tøj.</Data></Cell>
+    <Cell><Data ss:Type="String">Må ikke komme i kontakt med øyne, huden eller klær.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P263</Data></Cell>
+    <Cell><Data ss:Type="String"> Avoid contact during pregnancy/while nursing. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Undvik kontakt under graviditet eller amning.</Data></Cell>
+    <Cell><Data ss:Type="String">Vältä kosketusta raskauden tai imetyksen aikana.</Data></Cell>
+    <Cell><Data ss:Type="String">Undgå kontakt under graviditet/amning.</Data></Cell>
+    <Cell><Data ss:Type="String">Unngå kontakt under graviditet/amming.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P264</Data></Cell>
+    <Cell><Data ss:Type="String"> Wash..thoroughly after handling. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Tvätta … grundligt efter användning. (se kriterier för val av skyddsangivelser, tabell 6.2, sidan 214)</Data></Cell>
+    <Cell><Data ss:Type="String">Pese … huolellisesti käsittelyn jälkeen. (katso turvalausekkeiden valintakriteerit, taulukko 6.2, sivu 214)</Data></Cell>
+    <Cell><Data ss:Type="String">Vask … grundigt efter brug.</Data></Cell>
+    <Cell><Data ss:Type="String">Vask … grundig etter bruk.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P270</Data></Cell>
+    <Cell><Data ss:Type="String"> Do no eat, drink or smoke when using this product. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Ät inte, drick inte och rök inte när du använder produkten.</Data></Cell>
+    <Cell><Data ss:Type="String">Syöminen, juominen ja tupakointi kielletty kemikaalia käytettäessä.</Data></Cell>
+    <Cell><Data ss:Type="String">Der må ikke spises, drikkes eller ryges under brugen af dette produkt.</Data></Cell>
+    <Cell><Data ss:Type="String">Ikke spis, drikk eller røyk ved bruk av produktet.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P271</Data></Cell>
+    <Cell><Data ss:Type="String"> Use only outdoors or in a well-ventilated area. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Används endast utomhus eller i väl ventilerade utrymmen</Data></Cell>
+    <Cell><Data ss:Type="String">Käytä ainoastaan ulkona tai tiloissa, joissa on hyvä ilmanvaihto.</Data></Cell>
+    <Cell><Data ss:Type="String">Brug kun udendørs eller i et rum med god udluftning.</Data></Cell>
+    <Cell><Data ss:Type="String">Brukes bare utendørs eller i et godt ventilert område.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P272</Data></Cell>
+    <Cell><Data ss:Type="String"> Contaminated work clothing should not be allowed out of the workplace. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Nedstänkta arbetskläder får inte avlägsnas från arbetsplatsen.</Data></Cell>
+    <Cell><Data ss:Type="String">Saastuneita työvaatteita ei saa viedä työpaikalta.</Data></Cell>
+    <Cell><Data ss:Type="String">Tilsmudset arbejdstøj bør ikke fjernes fra arbejdspladsen.</Data></Cell>
+    <Cell><Data ss:Type="String">Tilsølte arbeidsklær må ikke fjernes fra arbeidsplassen.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P273</Data></Cell>
+    <Cell><Data ss:Type="String"> Avoid release to the environment. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Undvik utsläpp till miljön.</Data></Cell>
+    <Cell><Data ss:Type="String">Vältettävä päästämistä ympäristöön.</Data></Cell>
+    <Cell><Data ss:Type="String">Undgå udledning til miljøet.</Data></Cell>
+    <Cell><Data ss:Type="String">Unngå utslipp til miljøet.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P280</Data></Cell>
+    <Cell><Data ss:Type="String"> Wear protective gloves/protective clothing/eye protection/face protection. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Använd skyddshandskar/skyddskläder/ögonskydd/ansiktsskydd.</Data></Cell>
+    <Cell><Data ss:Type="String">Käytä suojakäsineitä/suojavaatetusta/silmiensuojainta /kasvonsuojainta.</Data></Cell>
+    <Cell><Data ss:Type="String">Bær beskyttelseshandsker/beskyttelsestøj/øjenbeskyttelse/ansigtsbeskyttelse.</Data></Cell>
+    <Cell><Data ss:Type="String">Benytt vernehansker/verneklær/vernebriller/ansiktsskjerm.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P281</Data></Cell>
+    <Cell><Data ss:Type="String"> Use personal protective equipment as required. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Använd föreskriven personlig skyddsutrustning.</Data></Cell>
+    <Cell><Data ss:Type="String">Käytä vaadittuja henkilönsuojaimia.</Data></Cell>
+    <Cell><Data ss:Type="String">Anvend de påkrævede personlige værnemidler.</Data></Cell>
+    <Cell><Data ss:Type="String">Bruk påkrevd personlig verneutstyr.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P282</Data></Cell>
+    <Cell><Data ss:Type="String"> Wear cold insulating gloves/face shield/eye protection. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Använd köldisolerande handskar/visir/ögonskydd.</Data></Cell>
+    <Cell><Data ss:Type="String">Käytä kylmäeristäviä suojakäsineitä/kasvonsuojainta/silmiensuojainta.</Data></Cell>
+    <Cell><Data ss:Type="String">Bær kuldeisolerende handsker/ansigtsskærm/øjenbeskyttelse.</Data></Cell>
+    <Cell><Data ss:Type="String">Bruk kuldeisolerende hansker /visir/øyevern.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P283</Data></Cell>
+    <Cell><Data ss:Type="String"> Wear fire/flame resistant/retardant clothing. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Använd brand-/flamsäkra eller brand-/flamhämmande kläder.</Data></Cell>
+    <Cell><Data ss:Type="String">Käytä palosuojattua/paloturvallista vaatetusta.</Data></Cell>
+    <Cell><Data ss:Type="String">Bær brandbestandig/brandhæmmende beklædning.</Data></Cell>
+    <Cell><Data ss:Type="String">Benytt brannbestandige/flammehemmende klær.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P284</Data></Cell>
+    <Cell><Data ss:Type="String"> Wear respiratory protection. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Använd andningsskydd.</Data></Cell>
+    <Cell><Data ss:Type="String">Käytä hengityksensuojainta.</Data></Cell>
+    <Cell><Data ss:Type="String">Anvend åndedrætsværn.</Data></Cell>
+    <Cell><Data ss:Type="String">Bruk åndedrettsvern.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P285</Data></Cell>
+    <Cell><Data ss:Type="String"> In case of inadequate ventilation wear respiratory protection. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Använd andningsskydd vid otillräcklig ventilation.</Data></Cell>
+    <Cell><Data ss:Type="String">Käytä hengityksensuojainta, jos ilmanvaihto on riittämätön.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved utilstrækkelig udluftning anvendes åndedrætsværn.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved utilstrekkelig ventilasjon skal åndedrettsvern benyttes.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P231+P232</Data></Cell>
+    <Cell><Data ss:Type="String"> Handle under inert gas. Protect from moisture. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Hanteras under inert gas. Skyddas från fukt.</Data></Cell>
+    <Cell><Data ss:Type="String">Käsittele inertissä kaasussa. Suojaa kosteudelta.</Data></Cell>
+    <Cell><Data ss:Type="String">Håndteres under inaktiv gas. Beskyttes mod fugt.</Data></Cell>
+    <Cell><Data ss:Type="String">Håndteres under inertgass. Beskyttes mot fuktighet.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P235+P410</Data></Cell>
+    <Cell><Data ss:Type="String"> Keep cool. Protect from sunlight. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Förvaras svalt. Skyddas från solljus.</Data></Cell>
+    <Cell><Data ss:Type="String">Säilytä viileässä. Suojaa auringonvalolta.</Data></Cell>
+    <Cell><Data ss:Type="String">Opbevares køligt. Beskyttes mod sollys.</Data></Cell>
+    <Cell><Data ss:Type="String">Oppbevares kjølig. Beskyttes mot sollys.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P301</Data></Cell>
+    <Cell><Data ss:Type="String"> IF SWALLOWED</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">VID FÖRTÄRING:</Data></Cell>
+    <Cell><Data ss:Type="String">JOS KEMIKAALIA ON NIELTY:</Data></Cell>
+    <Cell><Data ss:Type="String">I TILFÆLDE AF INDTAGELSE:</Data></Cell>
+    <Cell><Data ss:Type="String">VED SVELGING:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P302</Data></Cell>
+    <Cell><Data ss:Type="String"> IF ON SKIN</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">VID HUDKONTAKT:</Data></Cell>
+    <Cell><Data ss:Type="String">JOS KEMIKAALIA JOUTUU IHOLLE:</Data></Cell>
+    <Cell><Data ss:Type="String">VED KONTAKT MED HUDEN:</Data></Cell>
+    <Cell><Data ss:Type="String">VED HUDKONTAKT:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P303</Data></Cell>
+    <Cell><Data ss:Type="String"> IF ON SKIN (or hair)</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">VID HUDKONTAKT (även håret):</Data></Cell>
+    <Cell><Data ss:Type="String">JOS KEMIKAALIA JOUTUU IHOLLE (tai hiuksiin):</Data></Cell>
+    <Cell><Data ss:Type="String">VED KONTAKT MED HUDEN (eller håret):</Data></Cell>
+    <Cell><Data ss:Type="String">VED HUDKONTAKT (eller håret):</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P304</Data></Cell>
+    <Cell><Data ss:Type="String"> IF INHALED</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">VID INANDNING:</Data></Cell>
+    <Cell><Data ss:Type="String">JOS KEMIKAALIA ON HENGITETTY:</Data></Cell>
+    <Cell><Data ss:Type="String">VED INDÅNDING:</Data></Cell>
+    <Cell><Data ss:Type="String">VED INNÅNDING:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P305</Data></Cell>
+    <Cell><Data ss:Type="String"> IF IN EYES</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">VID KONTAKT MED ÖGONEN:</Data></Cell>
+    <Cell><Data ss:Type="String">JOS KEMIKAALIA JOUTUU SILMIIN:</Data></Cell>
+    <Cell><Data ss:Type="String">VED KONTAKT MED ØJNENE:</Data></Cell>
+    <Cell><Data ss:Type="String">VED KONTAKT MED ØYNENE:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P306</Data></Cell>
+    <Cell><Data ss:Type="String"> IF ON CLOTHING</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">VID KONTAKT MED KLÄDERNA:</Data></Cell>
+    <Cell><Data ss:Type="String">JOS KEMIKAALIA JOUTUU VAATTEISIIN:</Data></Cell>
+    <Cell><Data ss:Type="String">VED KONTAKT MED TØJET:</Data></Cell>
+    <Cell><Data ss:Type="String">VED KONTAKT MED KLÆR:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P307</Data></Cell>
+    <Cell><Data ss:Type="String"> IF exposed</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Om du exponerats:</Data></Cell>
+    <Cell><Data ss:Type="String">Altistumisen tapahduttua:</Data></Cell>
+    <Cell><Data ss:Type="String">VED eksponering:</Data></Cell>
+    <Cell><Data ss:Type="String">Ved eksponering:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P308</Data></Cell>
+    <Cell><Data ss:Type="String"> IF exposed or concerned</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid exponering eller misstanke om exponering:</Data></Cell>
+    <Cell><Data ss:Type="String">Altistumisen tapahduttua tai jos epäillään altistumista:</Data></Cell>
+    <Cell><Data ss:Type="String">VED eksponering eller mistanke om eksponering:</Data></Cell>
+    <Cell><Data ss:Type="String">Ved eksponering eller mistanke om eksponering:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P309</Data></Cell>
+    <Cell><Data ss:Type="String"> IF exposed or if you feel unwell</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid exponering eller obehag:</Data></Cell>
+    <Cell><Data ss:Type="String">Altistumisen tapahduttua tai jos ilmenee pahoinvointia:</Data></Cell>
+    <Cell><Data ss:Type="String">VED eksponering eller ubehag:</Data></Cell>
+    <Cell><Data ss:Type="String">Ved eksponering eller ubehag:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P310</Data></Cell>
+    <Cell><Data ss:Type="String"> Immediately call a POISON CENTER or doctor/physician. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Kontakta genast GIFTINFORMATIONSCENTRAL eller läkare.</Data></Cell>
+    <Cell><Data ss:Type="String">Ota välittömästi yhteys MYRKYTYSTIETOKESKUKSEEN tai lääkäriin.</Data></Cell>
+    <Cell><Data ss:Type="String">Ring omgående til en GIFTINFORMATION eller en læge.</Data></Cell>
+    <Cell><Data ss:Type="String">Kontakt umiddelbart et GIFTINFORMASJONSSENTER eller lege.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P311</Data></Cell>
+    <Cell><Data ss:Type="String"> Call a POISON CENTER or doctor/physician. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Kontakta GIFTINFORMATIONSCENTRAL eller läkare.</Data></Cell>
+    <Cell><Data ss:Type="String">Ota yhteys MYRKYTYSTIETOKESKUKSEEN tai lääkäriin.</Data></Cell>
+    <Cell><Data ss:Type="String">Ring til en GIFTINFORMATION eller en læge.</Data></Cell>
+    <Cell><Data ss:Type="String">Kontakt et GIFTINFORMASJONSSENTER eller lege.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P312</Data></Cell>
+    <Cell><Data ss:Type="String"> Call a POISON CENTER or doctor/physician if you feel unwell. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid obehag, kontakta GIFTINFORMATIONSCENTRAL eller läkare.</Data></Cell>
+    <Cell><Data ss:Type="String">Ota yhteys MYRKYTYSTIETOKESKUKSEEN tai lääkäriin, jos ilmenee pahoinvointia.</Data></Cell>
+    <Cell><Data ss:Type="String">I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.</Data></Cell>
+    <Cell><Data ss:Type="String">Kontakt et GIFTINFORMASJONSSENTER eller lege ved ubehag.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P313</Data></Cell>
+    <Cell><Data ss:Type="String"> Get medical advice/attention. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Sök läkarhjälp.</Data></Cell>
+    <Cell><Data ss:Type="String">Hakeudu lääkäriin.</Data></Cell>
+    <Cell><Data ss:Type="String">Søg lægehjælp.</Data></Cell>
+    <Cell><Data ss:Type="String">Søk legehjelp.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P314</Data></Cell>
+    <Cell><Data ss:Type="String"> Get medical advice/attention if you feel unwell. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Sök läkarhjälp vid obehag</Data></Cell>
+    <Cell><Data ss:Type="String">Hakeudu lääkäriin, jos ilmenee pahoinvointia.</Data></Cell>
+    <Cell><Data ss:Type="String">Søg lægehjælp ved ubehag.</Data></Cell>
+    <Cell><Data ss:Type="String">Søk legehjelp ved ubehag.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P315</Data></Cell>
+    <Cell><Data ss:Type="String"> Get immediate medical advice/attention. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Sök omedelbart läkarhjälp.</Data></Cell>
+    <Cell><Data ss:Type="String">Hakeudu välittömästi lääkäriin.</Data></Cell>
+    <Cell><Data ss:Type="String">Søg omgående lægehjælp.</Data></Cell>
+    <Cell><Data ss:Type="String">Søk legehjelp umiddelbart.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P320</Data></Cell>
+    <Cell><Data ss:Type="String"> Specific treatment is urgent (see ... on this label).</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Särskild behandling krävs omedelbart (se … på etiketten). (se kriterier för val av skyddsangivelser, tabell 6.3, sidan 218)</Data></Cell>
+    <Cell><Data ss:Type="String">Erityishoitoa tarvitaan välittömästi (katso … pakkauksen merkinnöissä). (katso turvalausekkeiden valintakriteerit, taulukko 6.3, sivu 218)</Data></Cell>
+    <Cell><Data ss:Type="String">Særlig behandling straks påkrævet (se … på denne etiket).</Data></Cell>
+    <Cell><Data ss:Type="String">Særlig behandling kreves umiddelbart (se ... på etiketten).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P321</Data></Cell>
+    <Cell><Data ss:Type="String"> Specific treatment (see ... on this label). </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Särskild behandling (se … på etiketten). (se kriterier för val av skyddsangivelser, tabell 6.3, sidan 218)</Data></Cell>
+    <Cell><Data ss:Type="String">Erityishoitoa tarvitaan (katso … pakkauksen merkinnöissä). (katso turvalausekkeiden valintakriteerit, taulukko 6.3, sivu 218)</Data></Cell>
+    <Cell><Data ss:Type="String">Særlig behandling (se … på denne etiket).</Data></Cell>
+    <Cell><Data ss:Type="String">Særlig behandling (se ... på etiketten).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P322</Data></Cell>
+    <Cell><Data ss:Type="String"> Specific measures (see ... on this label). </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Särskilda åtgärder (se … på etiketten). (se kriterier för val av skyddsangivelser, tabell 6.3, sidan 219)</Data></Cell>
+    <Cell><Data ss:Type="String">Erityistoimenpiteitä tarvitaan (katso … pakkauksen merkinnöissä). (katso turvalausekkeiden valintakriteerit, taulukko 6.3, sivu 219)</Data></Cell>
+    <Cell><Data ss:Type="String">Særlige foranstaltninger (se … på denne etiket).</Data></Cell>
+    <Cell><Data ss:Type="String">Særlige tiltak (se ... på etiketten).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P330</Data></Cell>
+    <Cell><Data ss:Type="String"> Rinse mouth. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Skölj munnen.</Data></Cell>
+    <Cell><Data ss:Type="String">Huuhdo suu.</Data></Cell>
+    <Cell><Data ss:Type="String">Skyl munden.</Data></Cell>
+    <Cell><Data ss:Type="String">Skyll munnen.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P331</Data></Cell>
+    <Cell><Data ss:Type="String"> Do NOT induce vomiting. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Framkalla INTE kräkning.</Data></Cell>
+    <Cell><Data ss:Type="String">EI saa oksennuttaa.</Data></Cell>
+    <Cell><Data ss:Type="String">Fremkald IKKE opkastning.</Data></Cell>
+    <Cell><Data ss:Type="String">IKKE framkall brekning.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P332</Data></Cell>
+    <Cell><Data ss:Type="String"> If skin irritation occurs</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid hudirritation:</Data></Cell>
+    <Cell><Data ss:Type="String">Jos ilmenee ihoärsytystä:</Data></Cell>
+    <Cell><Data ss:Type="String">Ved hudirritation:</Data></Cell>
+    <Cell><Data ss:Type="String">Ved hudirritasjon:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P333</Data></Cell>
+    <Cell><Data ss:Type="String"> If skin irritation or rash occurs</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid hudirritation eller utslag:</Data></Cell>
+    <Cell><Data ss:Type="String">Jos ilmenee ihoärsytystä tai ihottumaa:</Data></Cell>
+    <Cell><Data ss:Type="String">Ved hudirritation eller udslet:</Data></Cell>
+    <Cell><Data ss:Type="String">Ved hudirritasjon eller utslett:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P334</Data></Cell>
+    <Cell><Data ss:Type="String"> Immerse in cool water/wrap in wet bandages. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Skölj under kallt vatten/använd våta omslag.</Data></Cell>
+    <Cell><Data ss:Type="String">Upota kylmään veteen/kääri märkiin siteisiin.</Data></Cell>
+    <Cell><Data ss:Type="String">Skyl under koldt vand/anvend våde omslag.</Data></Cell>
+    <Cell><Data ss:Type="String">Skyll i kaldt vann / anvend våt kompress.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P335</Data></Cell>
+    <Cell><Data ss:Type="String"> Brush off loose particles from skin. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Borsta bort lösa partiklar från huden.</Data></Cell>
+    <Cell><Data ss:Type="String">Poista irtohiukkaset iholta.</Data></Cell>
+    <Cell><Data ss:Type="String">Børst løse partikler bort fra huden.</Data></Cell>
+    <Cell><Data ss:Type="String">Børst bort løse partikler fra huden.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P336</Data></Cell>
+    <Cell><Data ss:Type="String"> Thaw frosted parts with lukewarm water. Do no rub affected area. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Värm det köldskadade området med ljummet vatten. Gnid inte det skadade området.</Data></Cell>
+    <Cell><Data ss:Type="String">Sulata jäätyneet alueet haalealla vedellä. Vahingoittunutta aluetta ei saa hangata.</Data></Cell>
+    <Cell><Data ss:Type="String">Forsigtig opvarmning af frostskadede legemsdele i lunkent vand. Gnid ikke det angrebne område.</Data></Cell>
+    <Cell><Data ss:Type="String">This phrase is currently not available.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P337</Data></Cell>
+    <Cell><Data ss:Type="String"> If eye irritation persists</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid bestående ögonirritation:</Data></Cell>
+    <Cell><Data ss:Type="String">Jos silmä-ärsytys jatkuu:</Data></Cell>
+    <Cell><Data ss:Type="String">Ved vedvarende øjenirritation:</Data></Cell>
+    <Cell><Data ss:Type="String">Ved vedvarende øyeirritasjon:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P338</Data></Cell>
+    <Cell><Data ss:Type="String"> Remove contact lenses, if present and easy to do. Continue rinsing. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Ta ur eventuella kontaktlinser om det går lätt. Fortsätt att skölja.</Data></Cell>
+    <Cell><Data ss:Type="String">Poista piilolinssit, jos sen voi tehdä helposti. Jatka huuhtomista.</Data></Cell>
+    <Cell><Data ss:Type="String">Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.</Data></Cell>
+    <Cell><Data ss:Type="String">Fjern eventuelle kontaktlinser dersom dette enkelt lar seg gjøre. Fortsett skyllingen.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P340</Data></Cell>
+    <Cell><Data ss:Type="String"> Remove victim to fresh air and keep at rest in a position comfortable for breathing. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Flytta personen till frisk luft och se till att han eller hon vilar i en ställning som underlättar andningen</Data></Cell>
+    <Cell><Data ss:Type="String">Siirrä henkilö raittiiseen ilmaan ja pidä lepoasennossa, jossa on helppo hengittää.</Data></Cell>
+    <Cell><Data ss:Type="String">Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen.</Data></Cell>
+    <Cell><Data ss:Type="String">Flytt personen til frisk luft og sørg for at vedkommende hviler i en stilling som letter åndedrettet.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P341</Data></Cell>
+    <Cell><Data ss:Type="String"> If breathing is difficult, remove victim to fresh air and keep at rest in a position comfortable for breathing. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid andningsbesvär, flytta personen till frisk luft och se till att han eller hon vilar i en ställning som underlättar andningen.</Data></Cell>
+    <Cell><Data ss:Type="String">Jos hengitysvaikeuksia, siirrä henkilö raittiiseen ilmaan ja pidä lepoasennossa, jossa on helppo hengittää.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved vejrtrækningsbesvær: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved pustevansker, flytt personen til frisk luft og sørg for at vedkommende hviler i en stilling som letter åndedrettet.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P342</Data></Cell>
+    <Cell><Data ss:Type="String"> If experiencing respiratory symptoms</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid besvär i luftvägarna:</Data></Cell>
+    <Cell><Data ss:Type="String">Jos ilmenee hengitysoireita:</Data></Cell>
+    <Cell><Data ss:Type="String">Ved luftvejssymptomer:</Data></Cell>
+    <Cell><Data ss:Type="String">Ved symptomer i luftveiene:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P350</Data></Cell>
+    <Cell><Data ss:Type="String"> Gently wash with plenty of soap and water. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Tvätta försiktigt med mycket tvål och vatten.</Data></Cell>
+    <Cell><Data ss:Type="String">Pese varovasti runsaalla vedellä ja saippualla.</Data></Cell>
+    <Cell><Data ss:Type="String">Vask forsigtigt med rigeligt sæbe og vand.</Data></Cell>
+    <Cell><Data ss:Type="String">Vask forsiktig med mye såpe og vann.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P351</Data></Cell>
+    <Cell><Data ss:Type="String"> Rinse cautiously with water for several minutes. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Skölj försiktigt med vatten i flera minuter.</Data></Cell>
+    <Cell><Data ss:Type="String">Huuhdo huolellisesti vedellä usean minuutin ajan.</Data></Cell>
+    <Cell><Data ss:Type="String">Skyl forsigtigt med vand i flere minutter.</Data></Cell>
+    <Cell><Data ss:Type="String">Skyll forsiktig med vann i flere minutter.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P352</Data></Cell>
+    <Cell><Data ss:Type="String"> Wash with plenty of soap and water. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Tvätta med mycket vatten.</Data></Cell>
+    <Cell><Data ss:Type="String">Pese runsaalla vedellä.</Data></Cell>
+    <Cell><Data ss:Type="String">Vask med rigeligt vand.</Data></Cell>
+    <Cell><Data ss:Type="String">Vask med mye vann.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P353</Data></Cell>
+    <Cell><Data ss:Type="String"> Rinse skin with water/shower. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Skölj huden med vatten/duscha.</Data></Cell>
+    <Cell><Data ss:Type="String">Huuhdo/suihkuta iho vedellä.</Data></Cell>
+    <Cell><Data ss:Type="String">Skyl/brus huden med vand.</Data></Cell>
+    <Cell><Data ss:Type="String">Skyll/dusj huden med vann.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P360</Data></Cell>
+    <Cell><Data ss:Type="String"> Rinse immediately contaminated clothing and skin with plenty of water before removing clothes. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Skölj genast nedstänkta kläder och hud med mycket vatten innan du tar av dig kläderna.</Data></Cell>
+    <Cell><Data ss:Type="String">Huuhdo saastunut vaatetus ja iho välittömästi runsaalla vedellä ennen vaatetuksen riisumista.</Data></Cell>
+    <Cell><Data ss:Type="String">Skyl omgående tilsmudset tøj og hud med rigeligt vand, før tøjet fjernes.</Data></Cell>
+    <Cell><Data ss:Type="String">Skyll umiddelbart tilsølte klær og hud med mye vann før klærne fjernes.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P361</Data></Cell>
+    <Cell><Data ss:Type="String"> Remove/Take off immediately all contaminated clothing. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Ta omedelbart av alla nedstänkta kläder.</Data></Cell>
+    <Cell><Data ss:Type="String">Riisu saastunut vaatetus välittömästi.</Data></Cell>
+    <Cell><Data ss:Type="String">Tilsmudset tøj tages straks af/fjernes.</Data></Cell>
+    <Cell><Data ss:Type="String">Tilsølte klær må fjernes straks.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P362</Data></Cell>
+    <Cell><Data ss:Type="String"> Take off contaminated clothing and wash before reuse. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Nedstänkta kläder tas av och tvättas innan de används igen.</Data></Cell>
+    <Cell><Data ss:Type="String">Riisu ja pese saastunut vaatetus ennen uudelleenkäyttöä.</Data></Cell>
+    <Cell><Data ss:Type="String">Forurenet tøj tages af og vaskes, før det bruges igen.</Data></Cell>
+    <Cell><Data ss:Type="String">Tilsølte klær må fjernes og vaskes før de brukes på nytt.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P363</Data></Cell>
+    <Cell><Data ss:Type="String"> Wash contaminated clothing before reuse. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Nedstänkta kläder ska tvättas innan de används igen.</Data></Cell>
+    <Cell><Data ss:Type="String">Pese saastunut vaatetus ennen uudelleenkäyttöä.</Data></Cell>
+    <Cell><Data ss:Type="String">Tilsmudset tøj skal vaskes, før det kan anvendes igen.</Data></Cell>
+    <Cell><Data ss:Type="String">Tilsølte klær må vaskes før de brukes på nytt.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P370</Data></Cell>
+    <Cell><Data ss:Type="String"> In case of fire</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid brand:</Data></Cell>
+    <Cell><Data ss:Type="String">Tulipalon sattuessa:</Data></Cell>
+    <Cell><Data ss:Type="String">Ved brand:</Data></Cell>
+    <Cell><Data ss:Type="String">Ved brann:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P371</Data></Cell>
+    <Cell><Data ss:Type="String"> In case of major fire and large quantities</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid större brand och stora mängder:</Data></Cell>
+    <Cell><Data ss:Type="String">Jos tulipalo ja ainemäärät ovat suuret:</Data></Cell>
+    <Cell><Data ss:Type="String">Ved større brand og store mængder:</Data></Cell>
+    <Cell><Data ss:Type="String">Ved større brann og store mengder:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P372</Data></Cell>
+    <Cell><Data ss:Type="String"> Explosion risk in case of fire. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Explosionsrisk vid brand.</Data></Cell>
+    <Cell><Data ss:Type="String">Tulipalon sattuessa räjähdysvaara.</Data></Cell>
+    <Cell><Data ss:Type="String">Eksplosionsfare ved brand.</Data></Cell>
+    <Cell><Data ss:Type="String">Eksplosjonsfare ved brann.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P373</Data></Cell>
+    <Cell><Data ss:Type="String"> DO NOT fight fire when fire reaches explosives. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Försök INTE bekämpa branden när den når explosiva varor.</Data></Cell>
+    <Cell><Data ss:Type="String">Tulta EI SAA yrittää sammuttaa sen saavutettua räjähteet.</Data></Cell>
+    <Cell><Data ss:Type="String">BEKÆMP IKKE branden, hvis denne når eksplosiverne.</Data></Cell>
+    <Cell><Data ss:Type="String">IKKE bekjemp brannen når den når eksplosive varer.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P374</Data></Cell>
+    <Cell><Data ss:Type="String"> Fight fire with normal precautions from a reasonable distance. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Bekämpa branden på vanligt sätt på behörigt avstånd.</Data></Cell>
+    <Cell><Data ss:Type="String">Sammuta palo kohtuullisen välimatkan päästä tavanomaisin varotoimin.</Data></Cell>
+    <Cell><Data ss:Type="String">Træf normale foranstaltninger mod brand og bekæmp den på en fornuftig afstand.</Data></Cell>
+    <Cell><Data ss:Type="String">Bekjemp brannen med normal forsiktighet på behørig avstand.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P375</Data></Cell>
+    <Cell><Data ss:Type="String"> Fight fire remotely due to the risk of explosion. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Bekämpa branden på avstånd på grund av explosionsrisken.</Data></Cell>
+    <Cell><Data ss:Type="String">Sammuta palo etäältä räjähdysvaaran takia.</Data></Cell>
+    <Cell><Data ss:Type="String">Bekæmp branden på afstand på grund af eksplosionsfare.</Data></Cell>
+    <Cell><Data ss:Type="String">Bekjemp brannen på avstand på grunn av eksplosjonsfare.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P376</Data></Cell>
+    <Cell><Data ss:Type="String"> Stop leak if safe to do so. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Stoppa läckan om det kan göras på ett säkert sätt.</Data></Cell>
+    <Cell><Data ss:Type="String">Sulje vuoto, jos sen voi tehdä turvallisesti.</Data></Cell>
+    <Cell><Data ss:Type="String">Stands lækagen, hvis dette er sikkert.</Data></Cell>
+    <Cell><Data ss:Type="String">Stopp lekkasje dersom dette kan gjøres på en sikker måte.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P377</Data></Cell>
+    <Cell><Data ss:Type="String"> Leaking gas fire. Do not extinguish, unless leak can be stopped safely.</Data></Cell>
+    <Cell><Data ss:Type="String"> Do not extinguish, unless leak can be stopped safely. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Läckande gas som brinner: Försök inte släcka branden om inte läckan kan stoppas på ett säkert sätt.</Data></Cell>
+    <Cell><Data ss:Type="String">Vuotavasta kaasusta johtuva palo: Ei saa sammuttaa, jollei vuotoa voida pysäyttää turvallisesti.</Data></Cell>
+    <Cell><Data ss:Type="String">Brand fra udsivende gas: Sluk ikke, medmindre det er sikkert at stoppe lækagen.</Data></Cell>
+    <Cell><Data ss:Type="String">Brann ved gasslekkasje: Ikke slukk med mindre lekkasjen kan stanses på en sikker måte.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P378</Data></Cell>
+    <Cell><Data ss:Type="String"> Use ... for extinction. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Släck branden med …. (se kriterier för val av skyddsangivelser, tabell 6.3, sidan 222)</Data></Cell>
+    <Cell><Data ss:Type="String">Käytä palon sammuttamiseen … (katso turvalausekkeiden valintakriteerit, taulukko 6.3, sivu 222)</Data></Cell>
+    <Cell><Data ss:Type="String">Anvend … til brandslukning.</Data></Cell>
+    <Cell><Data ss:Type="String">Slukk med:....</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P380</Data></Cell>
+    <Cell><Data ss:Type="String"> Evacuate area. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Utrym området.</Data></Cell>
+    <Cell><Data ss:Type="String">Evakuoi alue.</Data></Cell>
+    <Cell><Data ss:Type="String">Evakuer området.</Data></Cell>
+    <Cell><Data ss:Type="String">Evakuer området.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P381</Data></Cell>
+    <Cell><Data ss:Type="String"> Eliminate all ignition sources if safe to do so. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Avlägsna alla antändningskällor om det kan göras på ett säkert sätt.</Data></Cell>
+    <Cell><Data ss:Type="String">Poista kaikki sytytyslähteet, jos sen voi tehdä turvallisesti.</Data></Cell>
+    <Cell><Data ss:Type="String">Fjern alle antændelseskilder, hvis dette kan gøres sikkert.</Data></Cell>
+    <Cell><Data ss:Type="String">Fjern alle tennkilder dersom dette kan gjøres på en sikker måte.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P390</Data></Cell>
+    <Cell><Data ss:Type="String"> Absorb spillage to prevent material damage. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Sug upp spill för att undvika materiella skador.</Data></Cell>
+    <Cell><Data ss:Type="String">Imeytä valumat vahinkojen estämiseksi.</Data></Cell>
+    <Cell><Data ss:Type="String">Absorber udslip for at undgå materielskade.</Data></Cell>
+    <Cell><Data ss:Type="String">Absorber spill for å hindre materiell skade.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P391</Data></Cell>
+    <Cell><Data ss:Type="String"> Collect spillage. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Samla upp spill.</Data></Cell>
+    <Cell><Data ss:Type="String">Valumat on kerättävä.</Data></Cell>
+    <Cell><Data ss:Type="String">Udslip opsamles.</Data></Cell>
+    <Cell><Data ss:Type="String">Samle opp spill.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P301+P310</Data></Cell>
+    <Cell><Data ss:Type="String">IF SWALLOWED. Immediately call a POISON CENTER or doctor/physician.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">VID FÖRTÄRING: Kontakta genast GIFTINFORMATIONSCENTRAL eller läkare.</Data></Cell>
+    <Cell><Data ss:Type="String">JOS KEMIKAALIA ON NIELTY: Ota välittömästi yhteys MYRKYTYSTIETOKESKUKSEEN tai lääkäriin.</Data></Cell>
+    <Cell><Data ss:Type="String">I TILFÆLDE AF INDTAGELSE: Ring omgående til en GIFTINFORMATION eller en læge.</Data></Cell>
+    <Cell><Data ss:Type="String">VED SVELGING: Kontakt umiddelbart et GIFTINFORMASJONSSENTER eller lege.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P301+P312</Data></Cell>
+    <Cell><Data ss:Type="String">  IF SWALLOWED. Call a POISON CENTER or doctor/physician if you feel unwell.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">VID FÖRTÄRING: Kontakta GIFTINFORMATIONSCENTRAL eller läkare om du mår dåligt.</Data></Cell>
+    <Cell><Data ss:Type="String">JOS KEMIKAALIA ON NIELTY: Ota yhteys MYRKYTYSTIETOKESKUKSEEN tai lääkäriin, jos ilmenee pahoinvointia.</Data></Cell>
+    <Cell><Data ss:Type="String">I TILFÆLDE AF INDTAGELSE: I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.</Data></Cell>
+    <Cell><Data ss:Type="String">VED SVELGING: Kontakt et GIFTINFORMASJONSSENTER eller lege ved ubehag.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P301+P330+P331</Data></Cell>
+    <Cell><Data ss:Type="String"> IF SWALLOWED. rinse mouth. Do NOT induce vomiting.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P302+P334</Data></Cell>
+    <Cell><Data ss:Type="String"> IF ON SKIN. Immerse in cool water/wrap in wet bandages.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">VID HUDKONTAKT: Skölj under kallt vatten/använd våta omslag.</Data></Cell>
+    <Cell><Data ss:Type="String">JOS KEMIKAALIA JOUTUU IHOLLE: Upota kylmään veteen/kääri märkiin siteisiin.</Data></Cell>
+    <Cell><Data ss:Type="String">VED KONTAKT MED HUDEN: Skyl under koldt vand/anvend våde omslag.</Data></Cell>
+    <Cell><Data ss:Type="String">VED HUDKONTAKT: Skyll i kaldt vann / anvend våt kompress.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P302+P350</Data></Cell>
+    <Cell><Data ss:Type="String"> IF ON SKIN. Gently wash with plenty of soap and water. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">VID HUDKONTAKT: Tvätta försiktigt med mycket tvål och vatten.</Data></Cell>
+    <Cell><Data ss:Type="String">JOS KEMIKAALIA JOUTUU IHOLLE: Pese varovasti runsaalla vedellä ja saippualla.</Data></Cell>
+    <Cell><Data ss:Type="String">VED KONTAKT MED HUDEN: Vask forsigtigt med rigeligt sæbe og vand.</Data></Cell>
+    <Cell><Data ss:Type="String">VED HUDKONTAKT: Vask forsiktig med mye såpe og vann.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P302+P352</Data></Cell>
+    <Cell><Data ss:Type="String"> IF ON SKIN. Wash with plenty of soap and water.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">VID HUDKONTAKT: Tvätta med mycket vatten.</Data></Cell>
+    <Cell><Data ss:Type="String">JOS KEMIKAALIA JOUTUU IHOLLE: Pese runsaalla vedellä.</Data></Cell>
+    <Cell><Data ss:Type="String">VED KONTAKT MED HUDEN: Vask med rigeligt vand.</Data></Cell>
+    <Cell><Data ss:Type="String">VED HUDKONTAKT: Vask med mye vann.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P303+P361+P353</Data></Cell>
+    <Cell><Data ss:Type="String">IF ON SKIN (or hair). Remove/Take off immediately all contaminated clothing. Rinse skin with water/shower.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">VID HUDKONTAKT (även håret): Ta omedelbart av alla nedstänkta kläder. Skölj huden med vatten/duscha.</Data></Cell>
+    <Cell><Data ss:Type="String">JOS KEMIKAALIA JOUTUU IHOLLE (tai hiuksiin): Riisu saastunut vaatetus välittömästi. Huuhdo/suihkuta iho vedellä.</Data></Cell>
+    <Cell><Data ss:Type="String">VED KONTAKT MED HUDEN (eller håret): Tilsmudset tøj tages straks af/fjernes. Skyl/brus huden med vand.</Data></Cell>
+    <Cell><Data ss:Type="String">VED HUDKONTAKT (eller håret): Tilsølte klær må fjernes straks. Skyll/dusj huden med vann.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P304+P340</Data></Cell>
+    <Cell><Data ss:Type="String">IF INHALED. Remove victim to fresh air and keep at rest in a position comfortable for breathing.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">VID INANDNING: Flytta personen till frisk luft och se till att han eller hon vilar i en ställning som underlättar andningen.</Data></Cell>
+    <Cell><Data ss:Type="String">JOS KEMIKAALIA ON HENGITETTY: Siirrä henkilö raittiiseen ilmaan ja pidä lepoasennossa, jossa on helppo hengittää.</Data></Cell>
+    <Cell><Data ss:Type="String">VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen.</Data></Cell>
+    <Cell><Data ss:Type="String">VED INNÅNDING: Flytt personen til frisk luft og sørg for at vedkommende hviler i en stilling som letter åndedrettet.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P304+P341</Data></Cell>
+    <Cell><Data ss:Type="String">IF INHALED. If breathing is difficult, remove victim to fresh air and keep at rest in a position comfortable for breathing.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">VID INANDNING: Vid andningsbesvär, flytta personen till frisk luft och se till att han eller hon vilar i en ställning som underlättar andningen.</Data></Cell>
+    <Cell><Data ss:Type="String">JOS KEMIKAALIA ON HENGITETTY: Jos hengitysvaikeuksia, siirrä henkilö raittiiseen ilmaan ja pidä lepoasennossa, jossa on helppo hengittää.</Data></Cell>
+    <Cell><Data ss:Type="String">VED INDÅNDING: Ved vejrtrækningsbesvær: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen.</Data></Cell>
+    <Cell><Data ss:Type="String">VED INNÅNDING: Ved pustevansker, flytt personen til frisk luft og sørg for at vedkommende hviler i en stilling som letter åndedrettet.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P305+P351+P338</Data></Cell>
+    <Cell><Data ss:Type="String"> IF IN EYES. Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">VID KONTAKT MED ÖGONEN: Skölj försiktigt med vatten i flera minuter. Ta ur eventuella kontaktlinser om det går lätt. Fortsätt att skölja.</Data></Cell>
+    <Cell><Data ss:Type="String">JOS KEMIKAALIA JOUTUU SILMIIN: Huuhdo huolellisesti vedellä usean minuutin ajan. Poista piilolinssit, jos sen voi tehdä helposti. Jatka huuhtomista.</Data></Cell>
+    <Cell><Data ss:Type="String">VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.</Data></Cell>
+    <Cell><Data ss:Type="String">VED KONTAKT MED ØYNENE: Skyll forsiktig med vann i flere minutter. Fjern eventuelle kontaktlinser dersom dette enkelt lar seg gjøre. Fortsett skyllingen.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P306+P360</Data></Cell>
+    <Cell><Data ss:Type="String">IF ON CLOTHING. rinse immediately contaminated clothing and skin with plenty of water before removing clothes.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">VID KONTAKT MED KLÄDERNA: Skölj omedelbart nedstänkta kläder och hud med mycket vatten innan du tar av dig kläderna.</Data></Cell>
+    <Cell><Data ss:Type="String">JOS KEMIKAALIA JOUTUU VAATTEISIIN: Huuhdo saastunut vaatetus ja iho välittömästi runsaalla vedellä ennen vaatetuksen riisumista.</Data></Cell>
+    <Cell><Data ss:Type="String">VED KONTAKT MED TØJET: Skyl omgående tilsmudset tøj og hud med rigeligt vand, før tøjet fjernes.</Data></Cell>
+    <Cell><Data ss:Type="String">VED KONTAKT MED KLÆR: Skyll umiddelbart tilsølte klær og hud med mye vann før klærne fjernes.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P307+P311</Data></Cell>
+    <Cell><Data ss:Type="String">IF exposed. Call a POISON CENTER or doctor/physician. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Om du exponerats: Kontakta GIFTINFORMATIONSCENTRAL eller läkare.</Data></Cell>
+    <Cell><Data ss:Type="String">Altistumisen tapahduttua: Ota yhteys MYRKYTYSTIETOKESKUKSEEN tai lääkäriin.</Data></Cell>
+    <Cell><Data ss:Type="String">VED eksponering: Ring til en GIFTINFORMATION eller en læge.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved eksponering: Kontakt et GIFTINFORMASJONSSENTER eller lege.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P308+P313</Data></Cell>
+    <Cell><Data ss:Type="String">IF exposed or concerned. Get medical advice/attention.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid exponering eller misstanke om exponering Sök läkarhjälp.</Data></Cell>
+    <Cell><Data ss:Type="String">Altistumisen tapahduttua tai jos epäillään altistumista: Hakeudu lääkäriin.</Data></Cell>
+    <Cell><Data ss:Type="String">VED eksponering eller mistanke om eksponering: Søg lægehjælp.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved eksponering eller mistanke om eksponering: Søk legehjelp.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P309+P311</Data></Cell>
+    <Cell><Data ss:Type="String">IF exposed or if you feel unwell. Call a POISON CENTER or doctor/physician.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid exponering eller obehag: Kontakta GIFTINFORMATIONSCENTRAL eller läkare.</Data></Cell>
+    <Cell><Data ss:Type="String">Altistumisen tapahduttua tai jos ilmenee pahoinvointia: Ota yhteys MYRKYTYSTIETOSKESKUKSEEN tai lääkäriin.</Data></Cell>
+    <Cell><Data ss:Type="String">VED eksponering eller ubehag: Ring til en GIFTINFORMATION eller en læge.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved eksponering eller ubehag: Kontakt et GIFTINFORMASJONSSENTER eller lege.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P332+P313</Data></Cell>
+    <Cell><Data ss:Type="String"> If skin irritation occurs. Get medical advice/attention.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid hudirritation: Sök läkarhjälp.</Data></Cell>
+    <Cell><Data ss:Type="String">Jos ilmenee ihoärsytystä: Hakeudu lääkäriin.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved hudirritation: Søg lægehjælp.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved hudirritasjon: Søk legehjelp.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P333+P313</Data></Cell>
+    <Cell><Data ss:Type="String"> If skin irritation or rash occurs. Get medical advice/attention.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid hudirritation eller utslag: Sök läkarhjälp.</Data></Cell>
+    <Cell><Data ss:Type="String">Jos ilmenee ihoärsytystä tai ihottumaa: Hakeudu lääkäriin.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved hudirritation eller udslet: Søg lægehjælp.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved hudirritasjon eller utslett: Søk legehjelp.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P335+P334</Data></Cell>
+    <Cell><Data ss:Type="String"> Brush off loose particles from skin. Immerse in cool water/wrap in wet bandages. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Borsta bort lösa partiklar från huden. Skölj under kallt vatten/ använd våta omslag.</Data></Cell>
+    <Cell><Data ss:Type="String">Poista irtohiukkaset iholta. Upota kylmään veteen/kääri märkiin siteisiin.</Data></Cell>
+    <Cell><Data ss:Type="String">Børst løse partikler bort fra huden. Skyl under koldt vand/anvend våde omslag.</Data></Cell>
+    <Cell><Data ss:Type="String">Børst bort løse partikler fra huden. Skyll i kaldt vann / anvend våt kompress.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P337+P313</Data></Cell>
+    <Cell><Data ss:Type="String"> If eye irritation persists. Get medical advice/attention.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid bestående ögonirritation: Sök läkarhjälp.</Data></Cell>
+    <Cell><Data ss:Type="String">Jos silmä-ärsytys jatkuu: Hakeudu lääkäriin.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved vedvarende øjenirritation: Søg lægehjælp.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved vedvarende øyeirritasjon: Søk legehjelp.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P342+P311</Data></Cell>
+    <Cell><Data ss:Type="String"> If experiencing respiratory symptoms. Call a POISON CENTER or doctor/physician. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid besvär i luftvägarna: Kontakta GIFTINFORMATIONSCENTRAL eller läkare.</Data></Cell>
+    <Cell><Data ss:Type="String">Jos ilmenee hengitysoireita: Ota yhteys MYRKYTYSTIETOKESKUKSEEN tai lääkäriin.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved luftvejssymptomer: Ring til en GIFTINFORMATION eller en læge.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved symptomer i luftveiene: Kontakt et GIFTINFORMASJONSSENTER eller lege.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P370+P376</Data></Cell>
+    <Cell><Data ss:Type="String"> In case of fire. Stop leak if safe to do so.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid brand: Stoppa läckan om det kan göras på ett säkert sätt.</Data></Cell>
+    <Cell><Data ss:Type="String">Tulipalon sattuessa: Sulje vuoto, jos sen voi tehdä turvallisesti.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved brand: Stands lækagen, hvis dette er sikkert.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved brann: Stopp lekkasje dersom dette kan gjøres på en sikker måte.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P370+P378</Data></Cell>
+    <Cell><Data ss:Type="String"> In case of fire. Use ... for extinction.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid brand: Släck branden med …. (se kriterier för val av skyddsangivelser, tabell 6.3, sidan 224)</Data></Cell>
+    <Cell><Data ss:Type="String">Tulipalon sattuessa: Käytä palon sammuttamiseen … (katso turvalausekkeiden valintakriteerit, taulukko 6.3, sivu 224)</Data></Cell>
+    <Cell><Data ss:Type="String">Ved brand: Anvend … til brandslukning.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved brann: Slukk med ...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P370+P380</Data></Cell>
+    <Cell><Data ss:Type="String"> In case of fire. Evacuate area. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid brand: Utrym området.</Data></Cell>
+    <Cell><Data ss:Type="String">Tulipalon sattuessa: Evakuoi alue.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved brand: Evakuer området.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved brann: Evakuer området.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P370+P380+P375</Data></Cell>
+    <Cell><Data ss:Type="String"> In case of fire. Evacuate area. Fight fire remotely due to the risk of explosion.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid brand: Utrym området. Bekämpa branden på avstånd på grund av explosionsrisken.</Data></Cell>
+    <Cell><Data ss:Type="String">Tulipalon sattuessa: Evakuoi alue. Sammuta palo etäältä räjähdysvaaran takia.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved brand: Evakuer området. Bekæmp branden på afstand på grund af eksplosionsfare.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved brann: Evakuer området. Bekjemp brannen på avstand på grunn av eksplosjonsfare.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P371+P380+P375</Data></Cell>
+    <Cell><Data ss:Type="String"> In case of major fire and large quantities. Evacuate area. Fight fire remotely due to the risk of explosion.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Vid större brand och stora mängder: Utrym området. Bekämpa branden på avstånd på grund av explosionsrisken.</Data></Cell>
+    <Cell><Data ss:Type="String">Jos tulipalo ja ainemäärät ovat suuret: Evakuoi alue. Sammuta palo etäältä räjähdysvaaran takia.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved større brand og store mængder: Evakuer området. Bekæmp branden på afstand på grund af eksplosionsfare.</Data></Cell>
+    <Cell><Data ss:Type="String">Ved større brann og store mengder: Evakuer området. Bekjemp brannen på avstand på grunn av eksplosjonsfare.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P401</Data></Cell>
+    <Cell><Data ss:Type="String"> Store ... </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Förvaras … (se kriterier för val av skyddsangivelser, tabell 6.4, sidan 225)</Data></Cell>
+    <Cell><Data ss:Type="String">Varastoi … (katso turvalausekkeiden valintakriteerit, taulukko 6.4, sivu 225)</Data></Cell>
+    <Cell><Data ss:Type="String">Opbevares i overensstemmelse med lokale/regionale/nationale/ internationale regler (specificeres).</Data></Cell>
+    <Cell><Data ss:Type="String">Oppbevares …</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P402</Data></Cell>
+    <Cell><Data ss:Type="String"> Store in a dry place. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Förvaras torrt.</Data></Cell>
+    <Cell><Data ss:Type="String">Varastoi kuivassa paikassa.</Data></Cell>
+    <Cell><Data ss:Type="String">Opbevares et tørt sted.</Data></Cell>
+    <Cell><Data ss:Type="String">Oppbevares tørt.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P403</Data></Cell>
+    <Cell><Data ss:Type="String"> Store in a well-ventilated place. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Förvaras på väl ventilerad plats.</Data></Cell>
+    <Cell><Data ss:Type="String">Varastoi paikassa, jossa on hyvä ilmanvaihto.</Data></Cell>
+    <Cell><Data ss:Type="String">Opbevares på et godt ventileret sted.</Data></Cell>
+    <Cell><Data ss:Type="String">Oppbevares på et godt ventilert sted.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P404</Data></Cell>
+    <Cell><Data ss:Type="String"> Store in a closed container. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Förvaras i sluten behållare.</Data></Cell>
+    <Cell><Data ss:Type="String">Varastoi suljettuna.</Data></Cell>
+    <Cell><Data ss:Type="String">Opbevares i en lukket beholder.</Data></Cell>
+    <Cell><Data ss:Type="String">Oppbevares i lukket beholder.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P405</Data></Cell>
+    <Cell><Data ss:Type="String"> Store locked up. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Förvaras inlåst.</Data></Cell>
+    <Cell><Data ss:Type="String">Varastoi lukitussa tilassa.</Data></Cell>
+    <Cell><Data ss:Type="String">Opbevares under lås.</Data></Cell>
+    <Cell><Data ss:Type="String">Oppbevares innelåst.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P406</Data></Cell>
+    <Cell><Data ss:Type="String"> Store in corrosive resistant/... container with a resistant inner liner. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Förvaras i korrosionsbeständig/… behållare med beständigt innerhölje. (se kriterier för val av skyddsangivelser, tabell 6.4, sidan 226)</Data></Cell>
+    <Cell><Data ss:Type="String">Varastoi syöpymättömässä/… säiliössä, jossa on kestävä sisävuoraus. (katso turvalausekkeiden valintakriteerit, taulukko 6.4, sivu 226)</Data></Cell>
+    <Cell><Data ss:Type="String">Opbevares i ætsningsbestandig/… beholder med modstandsdygtig indvendig belægning.</Data></Cell>
+    <Cell><Data ss:Type="String">Oppbevares i korrosjonsbestandig/… beholder med korrosjonsbestandig indre belegg.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P407</Data></Cell>
+    <Cell><Data ss:Type="String"> Maintain air gap between stacks/pallets. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Se till att det finns luft mellan staplar/pallar.</Data></Cell>
+    <Cell><Data ss:Type="String">Jätä pinojen/kuormalavojen väliin ilmarako.</Data></Cell>
+    <Cell><Data ss:Type="String">Opbevares med luftmellemrum mellem stakkene/pallerne.</Data></Cell>
+    <Cell><Data ss:Type="String">Se til at det er luft mellom stabler/paller.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P410</Data></Cell>
+    <Cell><Data ss:Type="String"> Protect from sunlight. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Skyddas från solljus.</Data></Cell>
+    <Cell><Data ss:Type="String">Suojaa auringonvalolta.</Data></Cell>
+    <Cell><Data ss:Type="String">Beskyttes mod sollys.</Data></Cell>
+    <Cell><Data ss:Type="String">Beskyttes mot sollys.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P411</Data></Cell>
+    <Cell><Data ss:Type="String"> Store at temperatures not exceeding ... oC/...oF. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Förvaras vid högst … °C/…°F. (se kriterier för val av skyddsangivelser, tabell 6.4, sidan 226)</Data></Cell>
+    <Cell><Data ss:Type="String">Varastoi alle … °C/…°F lämpötilassa. (katso turvalausekkeiden valintakriteerit, taulukko 6.4, sivu 226)</Data></Cell>
+    <Cell><Data ss:Type="String">Opbevares ved en temperatur, som ikke overstiger … °C/…°F.</Data></Cell>
+    <Cell><Data ss:Type="String">Oppbevares ved en temperatur som ikke er høyere enn ...°C /... °F.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P412</Data></Cell>
+    <Cell><Data ss:Type="String"> Do not expose to temperatures exceeding 50 oC/122oF. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Får inte utsättas för temperaturer över 50 °C/ 122 °F.</Data></Cell>
+    <Cell><Data ss:Type="String">Ei saa altistaa yli 50 °C/ 122 °F lämpötiloille.</Data></Cell>
+    <Cell><Data ss:Type="String">Må ikke udsættes for en temperatur, som overstiger 50 °C/122 °F.</Data></Cell>
+    <Cell><Data ss:Type="String">Må ikke utsettes for temperaturer høyere enn 50°C /122°F.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P413</Data></Cell>
+    <Cell><Data ss:Type="String"> Store bulk masses greater than ... kg/... lbs at temperatures not exceeding ... oC/...oF. Store away from other materials.</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Bulkprodukter som väger mer än … kg/ … lbs förvaras vid högst … °C/…°F. (se kriterier för val av skyddsangivelser, tabell 6.4, sidan 226)</Data></Cell>
+    <Cell><Data ss:Type="String">Säilytä yli … kg/…lbs painoinen irtotavara enintään … °C/…°F lämpötilassa. (katso turvalausekkeiden valintakriteerit, taulukko 6.4, sivu 226)</Data></Cell>
+    <Cell><Data ss:Type="String">Bulkmængder på over … kg/…lbs opbevares ved en temperatur, som ikke overstiger … °C/ …°F.</Data></Cell>
+    <Cell><Data ss:Type="String">Bulkmengder på over ...kg/...lbs oppbevares ved en temperatur som ikke er høyere enn ...°C /... °F.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P422</Data></Cell>
+    <Cell><Data ss:Type="String"> Store contents under... </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Förvara innehållet i… (se kriterier för val av skyddsangivelser, tabell 6.4, sidan 226)</Data></Cell>
+    <Cell><Data ss:Type="String">Varastoi sisältö … (katso turvalausekkeiden valintakriteerit, taulukko 6.4, sivu 226)</Data></Cell>
+    <Cell><Data ss:Type="String">Indholdet skal opbevares under …</Data></Cell>
+    <Cell><Data ss:Type="String">Oppbevar innholdet under …</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P402+P404</Data></Cell>
+    <Cell><Data ss:Type="String"> Store in a dry place. Store in a closed container. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Förvaras torrt. Förvaras i sluten behållare.</Data></Cell>
+    <Cell><Data ss:Type="String">Varastoi kuivassa paikassa. Varastoi suljettuna.</Data></Cell>
+    <Cell><Data ss:Type="String">Opbevares et tørt sted. Opbevares i en lukket beholder.</Data></Cell>
+    <Cell><Data ss:Type="String">Oppbevares tørt. Oppbevares i lukket beholder.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P403+P233</Data></Cell>
+    <Cell><Data ss:Type="String"> Store in a well-ventilated place. Keep container tightly closed. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Förvaras på väl ventilerad plats. Förpackningen ska förvaras väl tillsluten.</Data></Cell>
+    <Cell><Data ss:Type="String">Varastoi paikassa, jossa on hyvä ilmanvaihto. Säilytä tiiviisti suljettuna.</Data></Cell>
+    <Cell><Data ss:Type="String">Opbevares på et godt ventileret sted. Hold beholderen tæt lukket.</Data></Cell>
+    <Cell><Data ss:Type="String">Oppbevares på et godt ventilert sted. Hold beholderen tett lukket.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P403+P235</Data></Cell>
+    <Cell><Data ss:Type="String"> Store in a well-ventilated place. Keep cool. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Förvaras på väl ventilerad plats. Förvaras svalt.</Data></Cell>
+    <Cell><Data ss:Type="String">Varastoi paikassa, jossa on hyvä ilmanvaihto. Säilytä viileässä.</Data></Cell>
+    <Cell><Data ss:Type="String">Opbevares på et godt ventileret sted. Opbevares køligt.</Data></Cell>
+    <Cell><Data ss:Type="String">Oppbevares på et godt ventilert sted. Oppbevares kjølig.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P410+P403</Data></Cell>
+    <Cell><Data ss:Type="String"> Protect from sunlight. Store in a well-ventilated place. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Skyddas från solljus. Förvaras på väl ventilerad plats.</Data></Cell>
+    <Cell><Data ss:Type="String">Suojaa auringonvalolta. Varastoi paikassa, jossa on hyvä ilmanvaihto.</Data></Cell>
+    <Cell><Data ss:Type="String">Beskyttes mod sollys. Opbevares på et godt ventileret sted.</Data></Cell>
+    <Cell><Data ss:Type="String">Beskyttes mot sollys. Oppbevares på et godt ventilert sted.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P410+P412</Data></Cell>
+    <Cell><Data ss:Type="String"> Protect from sunlight. Do no expose to temperatures exceeding 50 celcius degress. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Skyddas från solljus. Får inte utsättas för temperaturer över 50 °C/ 122 °F.</Data></Cell>
+    <Cell><Data ss:Type="String">Suojaa auringonvalolta. Ei saa altistaa yli 50 °C/ 122 °F lämpötiloille.</Data></Cell>
+    <Cell><Data ss:Type="String">Beskyttes mod sollys. Må ikke udsættes for en temperatur, som overstiger 50 °C/122 °F.</Data></Cell>
+    <Cell><Data ss:Type="String">Beskyttes mot sollys. Må ikke utsettes for temperaturer høyere enn 50°C /122°F.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P411+P235</Data></Cell>
+    <Cell><Data ss:Type="String"> Store at temperatures not exceeding ...Keep cool. </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Förvaras vid högst … °C/…°F. Förvaras svalt. (se kriterier för val av skyddsangivelser, tabell 6.4, sidan 227)</Data></Cell>
+    <Cell><Data ss:Type="String">Varastoi alle … °C/…°F lämpötilassa. Säilytä viileässä. (katso turvalausekkeiden valintakriteerit, taulukko 6.4, sivu 227)</Data></Cell>
+    <Cell><Data ss:Type="String">Opbevares ved en temperatur, som ikke overstiger … °C/…°F. Opbevares køligt.</Data></Cell>
+    <Cell><Data ss:Type="String">Oppbevares ved en temperatur som ikke er høyere enn ...°C /... °F. Oppbevares kjølig.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">P501</Data></Cell>
+    <Cell><Data ss:Type="String"> Dispose of contents/container to... - See more at</Data></Cell>
+    <Cell><Data ss:Type="String"> http</Data></Cell>
+    <Cell><Data ss:Type="String">//www.chemsafetypro.com/Topics/GHS/GHS_precautionary_statement_p_code.html#sthash.ftyWmk6a.dpuf</Data></Cell>
+    <Cell><Data ss:Type="String">Lämna den helt tömda förpackningen till förpackningsinsamlingen.</Data></Cell>
+    <Cell><Data ss:Type="String">Hävitä sisältö/pakkaus paikallisten/alueellisten/kansallisten/ kansainvälisten määräysten mukaisesti (täsmennettävä).&#10;&#10;Modified: Hävitä tyhjä pakkaus viemällä se keräyspisteeseen. </Data></Cell>
+    <Cell><Data ss:Type="String">Beholderen bortskaffes med almindelig dagrenovation.</Data></Cell>
+    <Cell><Data ss:Type="String">Innhold/beholder leveres til …</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <TopRowVisible>105</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>116</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

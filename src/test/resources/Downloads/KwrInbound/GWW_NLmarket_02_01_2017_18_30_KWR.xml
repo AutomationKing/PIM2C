@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SearchImport>
+  <Item>
+    <GTIN>08710908113444</GTIN>
+    <IPGLN>8711700400008</IPGLN>
+    <TargetMarket>NL</TargetMarket>
+    <SearchTerms>
+      <Value Language="EN">adouccissant3,adoucissan,adoucissant,adoucissant lessive,adoucissant linge,adoucissat,adoucisseur,assouplissant,assouplissent</Value>
+    </SearchTerms>
+    <No1SearchTerm>
+      <Value Language="EN" />
+    </No1SearchTerm>
+    <SearchKeywordList>
+      <Value Language="EN">Adoucissant3</Value>
+    </SearchKeywordList>
+    <PrioritySearchTerms>
+      <Value Language="EN">adoucissant3,assouplissant</Value>
+    </PrioritySearchTerms>
+    <BrandProvidedSearchTerms>
+      <Value Language="EN" />
+    </BrandProvidedSearchTerms>
+    <CombinedBrandSKLSearchTerms>
+      <Value Language="EN">adouccissant3,adoucissan,adoucissant,adoucissant lessive,adoucissant linge,adoucissat,adoucisseur,assouplissant,assouplissent</Value>
+    </CombinedBrandSKLSearchTerms>
+	<eSubBrand><Value Language="EN">Esub3</Value></eSubBrand>
+	<eFunctionalName><Value Language="EN">eFunctionalName3_Test</Value></eFunctionalName>
+    <eVariant><Value Language="EN">eVariant3_Test</Value></eVariant>
+    <eSize><Value Language="EN">eSize3_Test</Value></eSize>
+	<FB1><Value Language="EN">FB1_Test3</Value></FB1>
+    <FB2><Value Language="EN">FB2_Test3</Value></FB2>
+    <FB3><Value Language="EN">FB3_Test3</Value></FB3>
+    <FB4><Value Language="EN">FB4_Test3</Value></FB4>
+    <FB5><Value Language="EN">FB5_Test3</Value></FB5>
+    <FB6><Value Language="EN">FB6_Test3</Value></FB6>
+    <LongFormProductDescription><Value Language="EN">LongFormProductDescription3_Test</Value></LongFormProductDescription>
+	<GoesWellWith>08710908113468</GoesWellWith>
+  </Item>
+</SearchImport>

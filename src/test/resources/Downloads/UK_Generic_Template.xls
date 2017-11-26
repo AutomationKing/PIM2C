@@ -1,0 +1,940 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Chaudhary,Maitri(Cognizant)</Author>
+  <LastAuthor>Chaudhary,Maitri(Cognizant)</LastAuthor>
+  <Created>2015-08-21T10:49:28Z</Created>
+  <LastSaved>2015-08-21T11:32:16Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7995</WindowHeight>
+  <WindowWidth>20115</WindowWidth>
+  <WindowTopX>240</WindowTopX>
+  <WindowTopY>75</WindowTopY>
+  <TabRatio>862</TabRatio>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s121" ss:Name="Normal 15">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s141" ss:Name="Normal_Sheet1">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Parent="s141">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s171">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s172" ss:Parent="s141">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s173">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s174">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s196" ss:Parent="s121">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s263">
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s272">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s285" ss:Parent="s121">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Global Attrbutes inclu Layer">
+  <Table ss:ExpandedColumnCount="220" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="102"/>
+   <Column ss:AutoFitWidth="0" ss:Width="86.25"/>
+   <Column ss:Width="70.5"/>
+   <Column ss:Width="49.5"/>
+   <Column ss:Width="122.25"/>
+   <Column ss:Width="137.25"/>
+   <Column ss:Width="122.25"/>
+   <Column ss:Width="85.5"/>
+   <Column ss:Width="69.75"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="69"/>
+   <Column ss:Width="114"/>
+   <Column ss:Width="167.25"/>
+   <Column ss:Width="172.5"/>
+   <Column ss:Width="146.25"/>
+   <Column ss:Width="66.75"/>
+   <Column ss:Width="54.75"/>
+   <Column ss:Width="54"/>
+   <Column ss:Width="78"/>
+   <Column ss:Width="59.25"/>
+   <Column ss:Width="83.25"/>
+   <Column ss:Width="59.25"/>
+   <Column ss:Width="83.25"/>
+   <Column ss:Width="59.25"/>
+   <Column ss:Width="84"/>
+   <Column ss:Width="57.75"/>
+   <Column ss:Width="169.5"/>
+   <Column ss:Width="93.75"/>
+   <Column ss:Width="81.75"/>
+   <Column ss:Width="105.75"/>
+   <Column ss:Width="54.75"/>
+   <Column ss:Width="78.75"/>
+   <Column ss:Width="103.5"/>
+   <Column ss:Width="132"/>
+   <Column ss:Width="108"/>
+   <Column ss:Width="102.75"/>
+   <Column ss:Width="108"/>
+   <Column ss:Width="146.25"/>
+   <Column ss:Width="170.25"/>
+   <Column ss:Width="140.25"/>
+   <Column ss:Width="146.25"/>
+   <Column ss:Width="161.25"/>
+   <Column ss:Width="121.5"/>
+   <Column ss:Width="80.25"/>
+   <Column ss:Width="91.5"/>
+   <Column ss:Width="140.25"/>
+   <Column ss:Width="84.75"/>
+   <Column ss:Width="92.25"/>
+   <Column ss:Width="128.25"/>
+   <Column ss:Width="146.25"/>
+   <Column ss:Width="105.75"/>
+   <Column ss:Width="139.5"/>
+   <Column ss:Width="134.25"/>
+   <Column ss:Width="124.5"/>
+   <Column ss:Width="96.75"/>
+   <Column ss:Width="84"/>
+   <Column ss:Width="94.5"/>
+   <Column ss:Width="56.25"/>
+   <Column ss:Width="77.25"/>
+   <Column ss:Width="102.75"/>
+   <Column ss:Width="123.75"/>
+   <Column ss:Width="126"/>
+   <Column ss:Width="129.75"/>
+   <Column ss:Width="126.75"/>
+   <Column ss:Width="96.75"/>
+   <Column ss:Width="81"/>
+   <Column ss:Width="109.5"/>
+   <Column ss:Width="63.75"/>
+   <Column ss:Width="62.25"/>
+   <Column ss:Width="61.5"/>
+   <Column ss:Index="72" ss:Width="64.5"/>
+   <Column ss:Width="147"/>
+   <Column ss:Width="222.75"/>
+   <Column ss:Width="146.25"/>
+   <Column ss:Width="60"/>
+   <Column ss:Width="126"/>
+   <Column ss:Width="117"/>
+   <Column ss:Width="119.25"/>
+   <Column ss:Width="237.75"/>
+   <Column ss:Width="235.5"/>
+   <Column ss:Width="186"/>
+   <Column ss:Width="183.75"/>
+   <Column ss:Width="164.25"/>
+   <Column ss:Width="208.5"/>
+   <Column ss:Width="180.75"/>
+   <Column ss:Width="252.75"/>
+   <Column ss:Width="178.5"/>
+   <Column ss:Width="175.5"/>
+   <Column ss:Width="69"/>
+   <Column ss:Width="123.75"/>
+   <Column ss:Width="139.5"/>
+   <Column ss:Width="125.25"/>
+   <Column ss:Width="171.75"/>
+   <Column ss:Width="208.5"/>
+   <Column ss:Width="156"/>
+   <Column ss:Width="143.25"/>
+   <Column ss:Index="99" ss:Width="53.25"/>
+   <Column ss:Width="107.25"/>
+   <Column ss:Width="128.25"/>
+   <Column ss:Width="60"/>
+   <Column ss:Width="84"/>
+   <Column ss:Index="105" ss:Width="56.25"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="75"/>
+   <Column ss:Width="126"/>
+   <Column ss:Width="98.25"/>
+   <Column ss:Width="122.25"/>
+   <Column ss:Width="72.75"/>
+   <Column ss:Width="231.75"/>
+   <Column ss:Width="120.75"/>
+   <Column ss:Width="231.75"/>
+   <Column ss:Width="143.25"/>
+   <Column ss:Width="168"/>
+   <Column ss:Width="113.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="51.75"/>
+   <Column ss:Index="120" ss:Width="52.5"/>
+   <Column ss:Width="70.5"/>
+   <Column ss:Width="150"/>
+   <Column ss:Width="162"/>
+   <Column ss:Width="147.75"/>
+   <Column ss:Width="118.5"/>
+   <Column ss:Width="140.25"/>
+   <Column ss:Width="148.5"/>
+   <Column ss:Width="104.25"/>
+   <Column ss:Width="176.25"/>
+   <Column ss:Width="69.75"/>
+   <Column ss:Width="86.25"/>
+   <Column ss:Width="136.5"/>
+   <Column ss:Width="141.75"/>
+   <Column ss:Width="69.75"/>
+   <Column ss:Width="120"/>
+   <Column ss:Width="147.75"/>
+   <Column ss:Width="149.25"/>
+   <Column ss:Width="221.25"/>
+   <Column ss:Width="238.5"/>
+   <Column ss:Width="99.75" ss:Span="1"/>
+   <Column ss:Index="142" ss:Width="39.75"/>
+   <Column ss:Width="72"/>
+   <Column ss:Width="62.25"/>
+   <Column ss:Width="91.5"/>
+   <Column ss:Width="102.75"/>
+   <Column ss:Width="120.75" ss:Span="1"/>
+   <Column ss:Index="149" ss:Width="60"/>
+   <Column ss:Width="81.75"/>
+   <Column ss:Width="92.25"/>
+   <Column ss:Width="188.25"/>
+   <Column ss:Width="147"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="81"/>
+   <Column ss:Index="157" ss:Width="113.25"/>
+   <Column ss:Width="93" ss:Span="5"/>
+   <Column ss:Index="164" ss:Width="143.25"/>
+   <Column ss:Width="94.5"/>
+   <Column ss:Index="167" ss:Width="78.75"/>
+   <Column ss:Index="169" ss:Width="112.5"/>
+   <Column ss:Width="108.75"/>
+   <Column ss:Width="198"/>
+   <Column ss:Width="142.5"/>
+   <Column ss:Width="146.25"/>
+   <Column ss:Width="61.5"/>
+   <Column ss:Width="103.5"/>
+   <Column ss:Width="87.75"/>
+   <Column ss:Width="60"/>
+   <Column ss:Width="81.75"/>
+   <Column ss:Width="92.25"/>
+   <Column ss:Width="188.25"/>
+   <Column ss:Width="147"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="81"/>
+   <Column ss:Index="185" ss:Width="113.25"/>
+   <Column ss:Width="93" ss:Span="5"/>
+   <Column ss:Index="192" ss:Width="143.25"/>
+   <Column ss:Width="94.5"/>
+   <Column ss:Width="45"/>
+   <Column ss:Width="78.75"/>
+   <Column ss:Index="197" ss:Width="112.5"/>
+   <Column ss:Width="108.75"/>
+   <Column ss:Width="198"/>
+   <Column ss:Width="142.5"/>
+   <Column ss:Width="146.25"/>
+   <Column ss:Width="61.5"/>
+   <Column ss:Width="103.5"/>
+   <Column ss:Width="87.75"/>
+   <Row ss:StyleID="s174">
+    <Cell ss:StyleID="s171"><Data ss:Type="String">Item no.</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">GTIN</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">IPGLN</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">Target Market</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">SAP Code</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">1VOT Name</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">IPGLN Name not number</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">Material Number</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">target market country name</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">globalTradeItemNumber</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">effectiveDate</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Product Type</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Last changed by </Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Last changed date</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Created by </Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Created date </Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Manufacturer</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Consumer Unit Indicator</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Short Description</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Product Description</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Trade Item GroupCode</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">GTIN Name</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Alternate Item Classification Scheme</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Alternate Item Classification Code</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">additionalTradeItemDescription</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">ProductionVariantEffectiveDate</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Barcode Type</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">EANUCCCode</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">EANUCCType</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Contact Name</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">countryOfOrigin</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Long Form Product Description</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">brandName</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Language specific brand name</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">subbrand</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Functional Name</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Variant</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">eSubbrand</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">eFunctionalName</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">eVariant</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">1VOT eCommerce Name</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">eSize</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">SAP Name </Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">Feature & Benefit 1</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Feature & Benefit 2</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Feature & Benefit 3</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Feature & Benefit 4</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Feature & Benefit 5</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Feature & Benefit 6</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Search Keyword List</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Search Terms</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Number 1 Search Term</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">netContent</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">netContent UOM</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">BBEnrichment Approved</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">BBEnrichment Complete</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">BBManager Comments</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Child Item</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Parent Item</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Goes Well With</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">importClassificationType</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">importClassificationValue</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">deliveryToDistributionCenterTemperatureMaximum</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">deliveryToDistributionCenterTemperatureMinimum</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">deliveryToMarketTemperatureMaximum</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">deliveryToMarketTemperatureMinimum</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">specialHandlingCodeTransportation</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">storageHandlingTemperatureMaximum</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">storageHandlingTemperatureMaximum/unitOfMeasure</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">storageHandlingTemperatureMinimum</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">storageHandlingTemperatureMinimum/unitOfMeasure</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">quantityofNextLowerLevelTradeItem</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">stackingfactor</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">hasDisplayReadyPackaging</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">isPackagingMarkedReturnable</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">packageMarksEnvironment</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">packagingMarkedExpirationDateType</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">packagingMaterialCode</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">packagingMaterialCompositionQuantity/UOM</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">packagingTypeCode</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">packagingWeight</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">packagingWeight UOM</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">hasBatchNumber</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">isNetContentDeclarationIndicated</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">depth</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">depth UOM</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">width</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">width UOM</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">height</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">height UOM</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">grossWeight</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">grossWeight UOM</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">netWeight</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">netWeight UOM</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">NonGTINPalletGrossWeight</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">NonGTINPalletHeight</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">palletTermsAndConditions</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">palletTypeCode</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">quantityOfCompleteLayersContainedInATradeItem</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">quantityOfLayersPerPallet</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">quantityOfTradeItemsContainedInACompleteLayer</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">quantityOfTradeItemsPerPallet</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">quantityOfTradeItemsPerPalletLayer</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">transportStackingFactor</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">volume</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">volumeUOM</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">drainedWeight</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">flashPointTemperature</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">flashPointTemperatureUOM</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">dangerousGoods TechnicalName/Language</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">dangerousGoodsClassificationCode</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">dangerousGoodsHazardousCode</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">dangerousGoodsIndicator</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">dangerousGoodsPackingGroup</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">dangerousGoodsRegulationCode</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">dangerousGoodsShippingName</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">dangerousGoodsTechnicalName</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">IsDangerousSubstance</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">hazardStatementCode</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Regulatory Act</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Regulatory Agency</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">GHS Description Code</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">GHS Signalwords  Code</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">RegulatedProductName</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Precautionary Statement Codes</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Precautionary Statement Description</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">invoiceName</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Is Trade Item A Display Unit</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">isTradeItemAPromotionalItem</Data></Cell>  
+    <Cell ss:StyleID="s172"><Data ss:Type="String">isTradeItemAVariableUnit</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">isTradeItemGeneticallyModified</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">isTradeItemIrradiated</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">isTradeItemMarkedWithBiocide</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">isTradeItemMarkedWithCoffeeTax</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Ingredients List</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">isIngredientIrradiated</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Handling Instruction Code</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Health Claims</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Nutritional Claim</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Claims</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">ProductIsConsumedAsSold</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Communication Address</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">MarketingMessage</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Does Trade Item Carry USD A Child Nutrition Label</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">FatContent</Data></Cell> 
+    <Cell ss:StyleID="s172"><Data ss:Type="String">legalAndTechnicalApprove</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">legalAndTechnicalApprove comment</Data></Cell>
+      </Row><Row>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">000768406200365000228000016000000000015423010GB</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">00076840620036</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">Unilever United Kingdom</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">GB</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">000000000015423010</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">B&J Tub Half Baked 8x500ml CL2 DB</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">Unilever United Kingdom</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">000000000015423010</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">10000215</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">4/22/2016 12:00 AM</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">BASE_UNIT_OR_EACH</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BBTeaUK1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">8/2/2016 12:21 PM</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sit_user1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">5/28/2016 12:19 PM</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Unilever</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">B&J Tub Half Baked 8x500ml CL2 DB</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">B&J Tub Half Baked 8x500ml CL2 DB</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">B&J Tub Half Baked 8x500ml CL2 DB</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">EAN_UCC_13_SYMBOL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">076840620036</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">UPC Consumer Package Code</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Netherlands</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2790a1a2a3a4a5a6a7a8a9a10a11a12a13a14a15a16a17a18a19a20a21a22a23a24a25a26a27a28a29a30a31a32a33a34a35a36a37a38a39a40a41a42a43a44a45a46a47a48a49a50a51a52a53a54a55a56a57a58a59a60a61a62a63a64a65a66a67a68a69a70a71a72a73a74a75a76a77a78a79a80a0a1a2a3a4a5a6a7a8a9a10a11a12a13a14a15a16a17a18a19a20a21a22a23a24a25a26a27a28a29a30a31a32a33a34a35a36a37a38a39a40a41a42a43a44a45a46a47a48a49a50a51a52a53a54a55a56a57a58a59a60a61a62a63a64a65a66a67a68a69a70a71a72a73a74a75a76a77a78a79a80a81a82a83a84a85a86a87a88a89a90a91a92a93a94a95a96a97a98a99a100a101a102a103a104a105a106a107a108a109a110a111a112a113a114a115a116a117a118a119a120a121a122a123a124a125a126a127a128a129a130a131a132a133a134a135a136a137a138a139a140a141a142a143a144a145a146a147a148a149a150a151a152a153a154a155a156a157a158a159a160a161a162a163a164a165a166a167a168a169a170a171a172a173a174a175a176a177a178a179a180a181a182a183a184a185a186a187a188a189a190a191a192a193a194a195a196a197a198a199a200a201a202a203a204a205a206a207a208a209a210a211a212a213a214a215a216a217a218a219a220a221a222a223a224a225a226a227a228a229a230a231a232a233a234a235a236a237a238a239a240a241a242a243a244a245a246a247a248a249a250a251a252a253a254a255a256a257a258a259a260a261a262a263a264a265a266a267a268a269a270a271a272a273a274a275a276a277a278a279a280a281a282a283a284a285a286a287a288a289a290a291a292a293a294a295a296a297a298a299a300a301a302a303a304a305a306a307a308a309a310a311a312a313a314a315a316a317a318a319a320a321a322a323a324a325a326a327a328a329a330a331a332a333a334a335a336a337a338a339a340a341a342a343a344a345a346a347a348a349a350a351a352a353a354a355a356a357a358a359a360a361a362a363a364a365a366a367a368a369a370a371a372a373a374a375a376a377a378a379a380a381a382a383a384a385a386a387a388a389a390a391a392a393a394a395a396a397a398a399a400a401a402a403a404a405a406a407a408a409a410a411a412a413a414a415a416a417a418a419a420a421a422a423a424a425a426a427a428a429a430a431a432a433a434a435a436a437a438a439a440a441a442a443a444a445a446a447a448a449a450a451a452a453a454a455a456a457a458a459a460a461a462a463a464a465a466a467a468a469a470a471a472a473a474a475a476a477a478a479a480a481a482a483a484a485a486a487a488a489a490a491a492a493a494a495a496a497a498a499a500a501a502a503a504a505a506a507a508a509a510a511a512a513a514a515a516a517a518a519a520a521a522a523a524a525a526a527a528a529a530a531a532a533a534a535a536a537a538a539a540a541a542a543a544a545a546a547a548a549a550a551a552a553a554a555a556a557a558a559a560a561a562a563a564a565a566a567a568a569a570a571a572a573a574a575a576a577a578a579a580a581a582a583a584a585a586a587a588a589a590a591a592a593a594a595a596a597a598a599a600a601a602a603a604a605a606a607a608a609a610a611a612a613a614a615a616a617a618a619a620a621a622a623a624a625a626a627a628a629a630a631a632a633a634a635a636a637a638a639a640a641a642a643a644a645a646a647a648a649a650a651a652a653a654a655a656a657a658a659a660a661a662a663a664a665a666a667a668a669a670a671a672a673a674a675a676a677a678a679a680a681a682a683a684a685a686a687a688a689a690a691a692a693a694a695a696a697a698a699a700a701a702a703a704a705a706a707a708a709a710a711a712a713a714a715a716a717a718a719a720a721a722a723a724a725a726a727a728a729a730a731a732a733a734a735a736a737a738a739a740a741a742a743a744a745a746a747a748a749a750a751a752a753a754a755a756a757a758a759a760a761a762a763a764a765a766a767a768a769a770a771a772a773a774a775a776a777a778a779a780a781a782a783a784a785a786a787a788a789a790a791a792a793a794a795a796a797a798a799a800a801a802a803a804a805a806a807a808a809a810a811a812a813a814a815a816a817a818a819a820a821a822a823a824a825a826a827a828a829a830a831a832a833a834a835a836a837a838a839a840a841a842a843a844a845a846a847a848a849a850a851a852a853a854a855a856a857a858a859a860a861a862a863a864a865a866a867a868a869a870a871a872a873a874a875a876a877a878a879a880a881a882a883a884a885a886a887a888a889a890a891a892a893a894a895a896a897a898a899a900a901a902a903a904a905a906a907a908a909a910a911a912a913a914a915a916a917a918a919a920a921a922a923a924a925a926a927a928a929a930a931a932a933a934a935a936a937a938a939a940a941a942a943a944a945a946a947a948a949a950a951a952a953a954a955a956a957a958a959a960a961a962a963a964a965a966a967a968a969a970a971a972a973a974a975a976a977a978a979a980a981a982a983a984a985a986a987a988a989a990a991a992a993a994a995a996a997a998a999a1000a1001a1002a1003a1004a1005a1006a1007a1008a1009a1010a1011a1012a1013a1014a1015a1016a1017a1018a1019a1020a1021a1022a1023a1024a1025a1026a1027a1028a1029a1030a1031a1032a1033a1034a1035a1036a1037a1038a1039a1040a1041a1042a1043a1044a1045a1046a1047a1048a1049a1050a1051a1052a1053a1054a1055a1056a1057a1058a1059a1060a1061a1062a1063a1064a1065a1066a1067a1068a1069a1070a1071a1072a1073a1074a1075a1076a1077a1078a1079a1080a1081a1082a1083a1084a1085a1086a1087a1088a1089a1090a1091a1092a1093a1094a1095a1096a1097a1098a1099a1100a1101a1102a1103a1104a1105a1106a1107a1108a1109a1110a1111a1112a1113a1114a1115a1116a1117a1118a1119a1120a1121a1122a1123a1124a1125a1126a1127a1128a1129a1130a1131a1132a1133a1134a1135a1136a1137a1138a1139a1140a1141a1142a1143a1144a1145a1146a1147a1148a1149a1150a1151a1152a1153a1154a1155a1156a1157a1158a1159a1160a1161a1162a1163a1164a1165a1166a1167a1168a1169a1170a1171a1172a1173a1174a1175a1176a1177a1178a1179a1180a1181a1182a1183a1184a1185a1186a1187a1188a1189a1190a1191a1192a1193a1194a1195a1196a1197a1198a1199a1200a1201a1202a1203a1204a1205a1206a1207a1208a1209a1210a1211a1212a1213a1214a1215a1216a1217a1218a1219a1220a1221a1222a1223a1224a1225a1226a1227a1228a1229a1230a1231a1232a1233a1234a1235a1236a1237a1238a1239a1240a1241a1242a1243a1244a1245a1246a1247a1248a1249a1250a1251a1252a1253a1254a1255a1256a1257a1258a1259a1260a1261a1262a1263a1264a1265a1266a1267a1268a1269a1270a1271a1272a1273a1274a1275a1276a1277a1278a1279a1280a1281a1282a1283a1284a1285a1286a1287a1288a1289a1290a1291a1292a1293a1294a1295a1296a1297a1298a1299a1300a1301a1302a1303a1304a1305a1306a1307a1308a1309a1310a1311a1312a1313a1314a1315a1316a1317a1318a1319a1320a1321a1322a1323a1324a1325a1326a1327a1328a1329a1330a1331a1332a1333a1334a1335a1336a1337a1338a1339a1340a1341a1342a1343a1344a1345a1346a1347a1348a1349a1350a1351a1352a1353a1354a1355a1356a1357a1358a1359a1360a1361a1362a1363a1364a1365a1366a1367a1368a1369a1370a1371a1372a1373a1374a1375a1376a1377a1378a1379a1380a1381a1382a1383a1384a1385a1386a1387a1388a1389a1390a1391a1392a1393a1394a1395a1396a1397a1398a1399a1400a1401a1402a1403a1404a1405a1406a1407a1408a1409a1410a1411a1412a1413a1414a1415a1416a1417a1418a1419a1420a1421a1422a1423a1424a1425a1426a1427a1428a1429a1430a1431a1432a1433a1434a1435a1436a1437a1438a1439a1440a1441a1442a1443a1444a1445a1446a1447a1448a1449a1450a1451a1452a1453a1454a1455a1456a1457a1458a1459a1460a1461a1462a1463a1464a1465a1466a1467a1468a1469a1470a1471a1472a1473a1474a1475a1476a1477a1478a1479a1480a1481a1482a1483a1484a1485a1486a1487a1488a1489a1490a1491a1492a1493a1494a1495a1496a1497a1498a1499a1500a1501a1502a1503a1504a1505a1506a1507a1508a1509a1510a</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ben & Jerry's</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ben & Jerry's</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ice Cream Dessert</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">HALF BAKED</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Testing</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Testing</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Testing</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Ben & Jerry's Testing Testing Testing Testing </Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Testing</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">B&J Tub Half Baked 8x500ml CL2 DB</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Testing</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">Testing</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Testing</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Testing</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Testing</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Testing</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Testing</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">2790a1a2a3a4a5a6a7a8a9a10a11a12a13a14a15a16a17a18a19a20a21a22a23a24a25a26a27a28a29a30a31a32a33a34a35a36a37a38a39a40a41a42a43a44a45a46a47a48a49a50a51a52a53a54a55a56a57a58a59a60a61a62a63a64a65a66a67a68a69a70a71a72a73a74a75a76a77a78a79a80a</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Testing</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">500.000000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">millilitre</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">04056100542304</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">INTRASTAT</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">21050010</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-18.0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-25.0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-18.0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-25.0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-18.0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">degree Celsius</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-25.0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">degree Celsius</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">FALSE</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Green dot</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Best before date</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Cup</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">98.000000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">millimetre</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">98.000000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">millimetre</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">108.000000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">millimetre</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0.434000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">kilogram</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0.411000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">kilogram</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">1,037,232.000000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">cubic millimetre</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">B&J Tub Half Baked 8x500ml CL2 DB</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">FALSE</Data></Cell>  
+    <Cell ss:StyleID="s62"><Data ss:Type="String">FALSE</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">FALSE</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+   </Row>  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet> <Worksheet ss:Name="Retailer Specific Attributes">
+  <Table ss:ExpandedColumnCount="50" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="102.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="86.25"/>
+   <Column ss:Width="70.5"/>
+   <Column ss:Width="49.5"/>
+   <Column ss:Width="126"/>
+   <Column ss:Width="102.75"/>
+   <Column ss:Width="98.25"/>
+   <Column ss:Width="126.75"/>
+   <Column ss:Width="163.5"/>
+   <Column ss:Width="84"/>
+   <Column ss:Width="103.5"/>
+   <Column ss:Width="124.5"/>
+   <Column ss:Width="121.5"/>
+   <Column ss:Width="132.75"/>
+   <Column ss:Width="86.25"/>
+   <Column ss:Width="105.75"/>
+   <Column ss:Width="108"/>
+   <Column ss:Width="102"/>
+   <Column ss:Width="69.75"/>
+   <Column ss:Index="21" ss:Width="96.75"/>
+   <Column ss:Width="79.5"/>
+   <Column ss:Width="124.5"/>
+   <Column ss:Width="118.5"/>
+   <Column ss:Width="161.25"/>
+   <Column ss:Index="27" ss:Width="102.75"/>
+   <Column ss:Width="93"/>
+   <Column ss:Width="164.25"/>
+   <Column ss:Width="161.25"/>
+   <Column ss:Index="32" ss:Width="102.75"/>
+   <Column ss:Width="93"/>
+   <Column ss:Width="171.75"/>
+   <Row ss:StyleID="s263">
+    <Cell ss:StyleID="s171"><Data ss:Type="String">GTIN</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">IPGLN</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">Target Market</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">SAP Code</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">Retailer Name</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">StartAvailabilityDate</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">EndAvailabilityDate</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">alternateItemIdentification</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">alternateItemIdentification/agency</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">deliveryLeadTime</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">firstDeliveryDateTime</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">isTradeItemADespatchUnit</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">isTradeItemAnInvoiceUnit</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">isTradeItemAnOrderableUnit</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">orderingLeadTime</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">orderingLeadTimeUOM</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">orderQuantityMinimum</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">orderQuantityMultiple</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">cataloguePrice</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">listPrice</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">listPriceBasisPerUnit</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">listPriceCurrency</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">listPriceEffectiveStartDate</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">listPriceEffectiveEndDate</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Retailer Specific Brand Description</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Remark</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Advertisement Slogan</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">Preparation Instructions</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">ConsumerUsageStorageInstructions</Data></Cell>
+    </Row>   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    
+    
+    
+    
+    
+    
+    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    
+   
+   
+   
+   
+   
+    
+   
+   
+   
+   
+   
+    
+   
+   
+   
+   
+   
+    
+   
+   
+   
+   }  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet> <Worksheet ss:Name="Allergen Information">
+  <Table ss:ExpandedColumnCount="9" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="90"/>
+   <Column ss:AutoFitWidth="0" ss:Width="78.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="87"/>
+   <Column ss:AutoFitWidth="0" ss:Width="115.5"/>
+   <Column ss:Width="142.5"/>
+   <Column ss:Width="131.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="103.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="95.25"/>
+   <Column ss:Width="116.25"/>
+   <Row>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">GTIN</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">IPGLN</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">Target Market</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">SAP Code</Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="String">AllergenSpecificationAgency </Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="String">AllergenSpecificationName</Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="String">LevelOfContainment</Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="String">AllergenTypeCode</Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="String">Allergen Description</Data></Cell>
+   </Row><Row>
+    <Cell ss:StyleID="s272"><Data ss:Type="String">00076840620036</Data></Cell>
+    <Cell ss:StyleID="s272"><Data ss:Type="String">Unilever United Kingdom</Data></Cell>
+    <Cell ss:StyleID="s272"><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell ss:StyleID="s272"><Data ss:Type="String">000000000015423010</Data></Cell>
+    <Cell ss:StyleID="s285"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s285"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s285"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s285"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s285"><Data ss:Type="String"></Data></Cell>
+   </Row>     </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet> <Worksheet ss:Name="Nutritional Information">
+  <Table ss:ExpandedColumnCount="12" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="99"/>
+   <Column ss:AutoFitWidth="0" ss:Width="81"/>
+   <Column ss:Width="70.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="90.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="89.25"/>
+   <Column ss:Width="130.5"/>
+   <Column ss:Width="90.75"/>
+   <Column ss:Width="128.25"/>
+   <Column ss:Width="154.5"/>
+   <Column ss:Width="111"/>
+   <Column ss:Width="147"/>
+   <Column ss:Width="126.75"/>
+   <Row>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">GTIN</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">IPGLN</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">Target Market</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">SAP Code</Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="String">NutrientTypeCode</Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="String">NutrientQuantityContained </Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="String">NutrientQuantityContainedUOM</Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="String">MeasurementPrecision</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">NutrientDescription</Data></Cell>
+   </Row><Row>
+    <Cell ss:StyleID="s272"><Data ss:Type="String">00076840620036</Data></Cell>
+    <Cell ss:StyleID="s272"><Data ss:Type="String">Unilever United Kingdom</Data></Cell>
+    <Cell ss:StyleID="s272"><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell ss:StyleID="s272"><Data ss:Type="String">000000000015423010</Data></Cell>
+    <Cell ss:StyleID="s285"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s285"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s285"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s285"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+   </Row>     </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet> <Worksheet ss:Name="Servings Information">
+  <Table ss:ExpandedColumnCount="8" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="78"/>
+   <Column ss:AutoFitWidth="0" ss:Width="96"/>
+   <Column ss:AutoFitWidth="0" ss:Width="103.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="99.75"/>
+   <Column ss:Width="147.75"/>
+   <Column ss:Width="58.5"/>
+   <Column ss:Width="80.25"/>
+   <Column ss:Width="108"/>
+   <Row>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">GTIN</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">IPGLN</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">Target Market</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">SAP Code</Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="String">NumberOfServingsPerPackage</Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="String">ServingSize</Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="String">ServingSizeUOM</Data></Cell>
+    <Cell ss:StyleID="s196"><Data ss:Type="String">HouseholdServingSize</Data></Cell>
+    
+   </Row><Row>
+    <Cell ss:StyleID="s272"><Data ss:Type="String">00076840620036</Data></Cell>
+    <Cell ss:StyleID="s272"><Data ss:Type="String">Unilever United Kingdom</Data></Cell>
+    <Cell ss:StyleID="s272"><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell ss:StyleID="s272"><Data ss:Type="String">000000000015423010</Data></Cell>
+    <Cell ss:StyleID="s285"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s285"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s285"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s285"><Data ss:Type="String"></Data></Cell>
+   </Row>  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet> <Worksheet ss:Name="HPC Allergen Information">
+  <Table ss:ExpandedColumnCount="11" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="88.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="93"/>
+   <Column ss:AutoFitWidth="0" ss:Width="102"/>
+   <Column ss:AutoFitWidth="0" ss:Width="105"/>
+   <Column ss:Width="145.5"/>
+   <Column ss:Width="132"/>
+   <Column ss:Width="171"/>
+   <Column ss:Width="134.25"/>
+   <Column ss:Width="138.75"/>
+   <Column ss:Width="134.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="105.75"/>
+   <Row>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">GTIN</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">IPGLN</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">Target Market</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">SAP Code</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">extendedAllergenTypeCode</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">allergenSpecificationAgency</Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">allergenSpecificationName </Data></Cell>
+    <Cell ss:StyleID="s172"><Data ss:Type="String">levelOfContainment </Data></Cell>
+   </Row><Row>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">00076840620036</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">Unilever United Kingdom</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell ss:StyleID="s173"><Data ss:Type="String">000000000015423010</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+   </Row>     </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ </Workbook>

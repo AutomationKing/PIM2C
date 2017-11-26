@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="utf-8"?><CU xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+  <CU_MAIN_DATA>
+      <PART_NO>83270123_24</PART_NO>
+      <REVISION>17</REVISION>
+      <STATUS>CURRENT</STATUS>
+      <DESCRIPTION>CU ADES ORIGINAL ANDROID 1L</DESCRIPTION>
+      <PLANNED_EFFECTIVE_DATE>07-Feb-2017</PLANNED_EFFECTIVE_DATE>
+      <ACCESS_GROUP>PLAN</ACCESS_GROUP>
+      <CREATED_BY>Daniel Kuzmenka</CREATED_BY>
+      <RFI>Data readiness Moonlander r3</RFI>
+      <EAN>7891150001961</EAN>
+      <ItemNumber>078911500019617891038000727000000000084147575BR</ItemNumber>
+   </CU_MAIN_DATA>
+  <CU_CLASSIFICATION_DATA>
+      <L1>Foods</L1>
+      <L2>AdeS</L2>
+  </CU_CLASSIFICATION_DATA>
+  <CU_ART_LIST>
+      <CU_ART>
+         <PART_NO>956819_24</PART_NO>
+         <DESCRIPTION>TAPA P/ADES RECAP GREEN 946ML</DESCRIPTION>
+      </CU_ART>
+      <CU_ART>
+         <PART_NO>73052_24</PART_NO>
+         <DESCRIPTION>COLA HOT MELT TPA</DESCRIPTION>
+      </CU_ART>
+      <CU_ART>
+         <PART_NO>76159_24</PART_NO>
+         <DESCRIPTION>FITA TP MPM ADES/SLIM FAST</DESCRIPTION>
+      </CU_ART>
+      <CU_ART>
+         <PART_NO>76192_24</PART_NO>
+         <DESCRIPTION>FITA PEP TETRA SQUARE ADES 1LT</DESCRIPTION>
+      </CU_ART>
+      <CU_ART>
+         <PART_NO>73074_24</PART_NO>
+         <DESCRIPTION>FITA PULL TAB TETRA SQUARE ADES 1LT</DESCRIPTION>
+      </CU_ART>
+      <CU_ART>
+         <PART_NO>67141752_24</PART_NO>
+         <DESCRIPTION>LAM ADES ORIGINAL 1L NBCAL</DESCRIPTION>
+      </CU_ART>
+  </CU_ART_LIST>
+  <CUC_LIST>
+      <CUC>
+         <PART_NO>83300777_24</PART_NO>
+         <REVISION>4</REVISION>
+         <CUC_CLASSIFICATION_DATA>
+            <L1>R&amp;D Category Beverages</L1>
+            <L2>Soy Based Beverages</L2>
+            <L3>Flavoured</L3>
+            <APPEARANCE>No Appropriate Choice</APPEARANCE>
+            <TECHNOLOGY>No Appropriate Choice</TECHNOLOGY>
+            <CHARACTERISTIC>No Appropriate Choice</CHARACTERISTIC>
+            <OTHER>No Appropriate Choice</OTHER>
+         </CUC_CLASSIFICATION_DATA>
+      </CUC>
+  </CUC_LIST>
+  <CU_BOM_HEADERS>
+      <CU_BOM_HEADER>
+         <SU_PLANT>5038_24</SU_PLANT>
+         <SU_PLANT_DESCRIPTION>UBI Fca Pouso Alegre - Foods (Production-Cordillera)</SU_PLANT_DESCRIPTION>
+      </CU_BOM_HEADER>
+  </CU_BOM_HEADERS>
+  <DU_LIST>
+      <DU>
+         <DU_MAIN_DATA>
+            <PART_NO>84147926_24</PART_NO>
+            <REVISION>17</REVISION>
+            <DESCRIPTION>ADES ORIGINAL 12X1L</DESCRIPTION>
+            <PLANNED_EFFECTIVE_DATE>06-Feb-2017</PLANNED_EFFECTIVE_DATE>
+            <RFI>cambio de caja</RFI>
+            <EAN>27891150001965</EAN>
+         </DU_MAIN_DATA>
+         <DU_CLASSIFICATION_DATA/>
+         <DU_ART_LIST>
+            <DU_ART>
+               <PART_NO>83279640_24</PART_NO>
+               <DESCRIPTION>INK JET STANDARD BLACK C6119A</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>546871_24</PART_NO>
+               <DESCRIPTION>SOLVENTE VIDEO JET 1610 SPEED</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>148502_24</PART_NO>
+               <DESCRIPTION>CANT 97CM ADES 200ML SLIM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>89521_24</PART_NO>
+               <DESCRIPTION>BOB RIBON ZEBRA 165X450MM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>100000031873_24</PART_NO>
+               <DESCRIPTION>PALLET CHEP BR</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>83345992_24</PART_NO>
+               <DESCRIPTION>GLUE HOT MELT GEN NEW</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>546863_24</PART_NO>
+               <DESCRIPTION>TINTA VIDEO JET 1610 SPEED</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>216731_24</PART_NO>
+               <DESCRIPTION>FLM STRECH 500MMX20MIC</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231556_24</PART_NO>
+               <DESCRIPTION>SOLVENTE VIDEO JET 16 8425 900ML</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>89527_24</PART_NO>
+               <DESCRIPTION>ET CB BLANCA 160X160MM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231555_24</PART_NO>
+               <DESCRIPTION>TINTA VIDEO JET 16 8420 950ML</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>83338248_24</PART_NO>
+               <DESCRIPTION>CARTON BOX ADES ORIGINAL 1L VIP WHITE</DESCRIPTION>
+            </DU_ART>
+         </DU_ART_LIST>
+         <KPI_PLANT_GROUP_KEYWORD/>
+         <MSU_CUSTOMERS/>
+      </DU>
+      <DU>
+         <DU_MAIN_DATA>
+            <PART_NO>205139_24</PART_NO>
+            <REVISION>15</REVISION>
+            <DESCRIPTION>ADES ORIGINAL 12X1L</DESCRIPTION>
+            <PLANNED_EFFECTIVE_DATE>03-Aug-2015</PLANNED_EFFECTIVE_DATE>
+            <RFI>Produção com código antigo e fórmula Android</RFI>
+            <EAN>27891150001965</EAN>
+         </DU_MAIN_DATA>
+         <DU_CLASSIFICATION_DATA/>
+         <DU_ART_LIST>
+            <DU_ART>
+               <PART_NO>83279640_24</PART_NO>
+               <DESCRIPTION>INK JET STANDARD BLACK C6119A</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>546871_24</PART_NO>
+               <DESCRIPTION>SOLVENTE VIDEO JET 1610 SPEED</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231418_24</PART_NO>
+               <DESCRIPTION>CX WA TB SQUARE ADES ORIGINAL 12X1L HAT</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>148502_24</PART_NO>
+               <DESCRIPTION>CANT 97CM ADES 200ML SLIM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>89521_24</PART_NO>
+               <DESCRIPTION>BOB RIBON ZEBRA 165X450MM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>100000031873_24</PART_NO>
+               <DESCRIPTION>PALLET CHEP BR</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>546863_24</PART_NO>
+               <DESCRIPTION>TINTA VIDEO JET 1610 SPEED</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>216731_24</PART_NO>
+               <DESCRIPTION>FLM STRECH 500MMX20MIC</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>73053_24</PART_NO>
+               <DESCRIPTION>COLA HOT MELT BDJ</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231556_24</PART_NO>
+               <DESCRIPTION>SOLVENTE VIDEO JET 16 8425 900ML</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>89527_24</PART_NO>
+               <DESCRIPTION>ET CB BLANCA 160X160MM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231555_24</PART_NO>
+               <DESCRIPTION>TINTA VIDEO JET 16 8420 950ML</DESCRIPTION>
+            </DU_ART>
+         </DU_ART_LIST>
+         <KPI_PLANT_GROUP_KEYWORD/>
+         <MSU_CUSTOMERS/>
+      </DU>
+      <DU>
+         <DU_MAIN_DATA>
+            <PART_NO>205139_24</PART_NO>
+            <REVISION>15</REVISION>
+            <DESCRIPTION>ADES ORIGINAL 12X1L</DESCRIPTION>
+            <PLANNED_EFFECTIVE_DATE>03-Aug-2015</PLANNED_EFFECTIVE_DATE>
+            <RFI>Produção com código antigo e fórmula Android</RFI>
+            <EAN>27891150001965</EAN>
+         </DU_MAIN_DATA>
+         <DU_CLASSIFICATION_DATA/>
+         <DU_ART_LIST>
+            <DU_ART>
+               <PART_NO>83279640_24</PART_NO>
+               <DESCRIPTION>INK JET STANDARD BLACK C6119A</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>546871_24</PART_NO>
+               <DESCRIPTION>SOLVENTE VIDEO JET 1610 SPEED</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231418_24</PART_NO>
+               <DESCRIPTION>CX WA TB SQUARE ADES ORIGINAL 12X1L HAT</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>148502_24</PART_NO>
+               <DESCRIPTION>CANT 97CM ADES 200ML SLIM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>89521_24</PART_NO>
+               <DESCRIPTION>BOB RIBON ZEBRA 165X450MM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>100000031873_24</PART_NO>
+               <DESCRIPTION>PALLET CHEP BR</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>546863_24</PART_NO>
+               <DESCRIPTION>TINTA VIDEO JET 1610 SPEED</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>216731_24</PART_NO>
+               <DESCRIPTION>FLM STRECH 500MMX20MIC</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>73053_24</PART_NO>
+               <DESCRIPTION>COLA HOT MELT BDJ</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231556_24</PART_NO>
+               <DESCRIPTION>SOLVENTE VIDEO JET 16 8425 900ML</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>89527_24</PART_NO>
+               <DESCRIPTION>ET CB BLANCA 160X160MM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231555_24</PART_NO>
+               <DESCRIPTION>TINTA VIDEO JET 16 8420 950ML</DESCRIPTION>
+            </DU_ART>
+         </DU_ART_LIST>
+         <KPI_PLANT_GROUP_KEYWORD/>
+         <MSU_CUSTOMERS/>
+      </DU>
+      <DU>
+         <DU_MAIN_DATA>
+            <PART_NO>84147926_24</PART_NO>
+            <REVISION>17</REVISION>
+            <DESCRIPTION>ADES ORIGINAL 12X1L</DESCRIPTION>
+            <PLANNED_EFFECTIVE_DATE>06-Feb-2017</PLANNED_EFFECTIVE_DATE>
+            <RFI>cambio de caja</RFI>
+            <EAN>27891150001965</EAN>
+         </DU_MAIN_DATA>
+         <DU_CLASSIFICATION_DATA/>
+         <DU_ART_LIST>
+            <DU_ART>
+               <PART_NO>83279640_24</PART_NO>
+               <DESCRIPTION>INK JET STANDARD BLACK C6119A</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>546871_24</PART_NO>
+               <DESCRIPTION>SOLVENTE VIDEO JET 1610 SPEED</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>148502_24</PART_NO>
+               <DESCRIPTION>CANT 97CM ADES 200ML SLIM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>89521_24</PART_NO>
+               <DESCRIPTION>BOB RIBON ZEBRA 165X450MM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>100000031873_24</PART_NO>
+               <DESCRIPTION>PALLET CHEP BR</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>83345992_24</PART_NO>
+               <DESCRIPTION>GLUE HOT MELT GEN NEW</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>546863_24</PART_NO>
+               <DESCRIPTION>TINTA VIDEO JET 1610 SPEED</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>216731_24</PART_NO>
+               <DESCRIPTION>FLM STRECH 500MMX20MIC</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231556_24</PART_NO>
+               <DESCRIPTION>SOLVENTE VIDEO JET 16 8425 900ML</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>89527_24</PART_NO>
+               <DESCRIPTION>ET CB BLANCA 160X160MM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231555_24</PART_NO>
+               <DESCRIPTION>TINTA VIDEO JET 16 8420 950ML</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>83338248_24</PART_NO>
+               <DESCRIPTION>CARTON BOX ADES ORIGINAL 1L VIP WHITE</DESCRIPTION>
+            </DU_ART>
+         </DU_ART_LIST>
+         <KPI_PLANT_GROUP_KEYWORD/>
+         <MSU_CUSTOMERS/>
+      </DU>
+      <DU>
+         <DU_MAIN_DATA>
+            <PART_NO>84147575_24</PART_NO>
+            <REVISION>2</REVISION>
+            <DESCRIPTION>ADES ORIGINAL TB 6X1L</DESCRIPTION>
+            <PLANNED_EFFECTIVE_DATE>19-Aug-2016</PLANNED_EFFECTIVE_DATE>
+            <RFI>cambiar cola 73053 por nueva 83345992</RFI>
+            <EAN>77891150001960</EAN>
+         </DU_MAIN_DATA>
+         <DU_CLASSIFICATION_DATA/>
+         <DU_ART_LIST>
+            <DU_ART>
+               <PART_NO>83279640_24</PART_NO>
+               <DESCRIPTION>INK JET STANDARD BLACK C6119A</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>148502_24</PART_NO>
+               <DESCRIPTION>CANT 97CM ADES 200ML SLIM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>89521_24</PART_NO>
+               <DESCRIPTION>BOB RIBON ZEBRA 165X450MM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>100000031873_24</PART_NO>
+               <DESCRIPTION>PALLET CHEP BR</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>83345992_24</PART_NO>
+               <DESCRIPTION>GLUE HOT MELT GEN NEW</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>971317_24</PART_NO>
+               <DESCRIPTION>CX GEN ADES MPK 6X1L MPK</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>216731_24</PART_NO>
+               <DESCRIPTION>FLM STRECH 500MMX20MIC</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231556_24</PART_NO>
+               <DESCRIPTION>SOLVENTE VIDEO JET 16 8425 900ML</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>89527_24</PART_NO>
+               <DESCRIPTION>ET CB BLANCA 160X160MM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231555_24</PART_NO>
+               <DESCRIPTION>TINTA VIDEO JET 16 8420 950ML</DESCRIPTION>
+            </DU_ART>
+         </DU_ART_LIST>
+         <KPI_PLANT_GROUP_KEYWORD/>
+         <MSU_CUSTOMERS/>
+      </DU>
+      <DU>
+         <DU_MAIN_DATA>
+            <PART_NO>67178197_24</PART_NO>
+            <REVISION>1</REVISION>
+            <DESCRIPTION>ADES ORIGINAL TB 6X1L</DESCRIPTION>
+            <PLANNED_EFFECTIVE_DATE>19-Jan-2017</PLANNED_EFFECTIVE_DATE>
+            <RFI>DA VINCI</RFI>
+            <EAN>77891150001960</EAN>
+         </DU_MAIN_DATA>
+         <DU_CLASSIFICATION_DATA/>
+         <DU_ART_LIST>
+            <DU_ART>
+               <PART_NO>83279640_24</PART_NO>
+               <DESCRIPTION>INK JET STANDARD BLACK C6119A</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>148502_24</PART_NO>
+               <DESCRIPTION>CANT 97CM ADES 200ML SLIM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>89521_24</PART_NO>
+               <DESCRIPTION>BOB RIBON ZEBRA 165X450MM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>100000031873_24</PART_NO>
+               <DESCRIPTION>PALLET CHEP BR</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>83345992_24</PART_NO>
+               <DESCRIPTION>GLUE HOT MELT GEN NEW</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>971317_24</PART_NO>
+               <DESCRIPTION>CX GEN ADES MPK 6X1L MPK</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>216731_24</PART_NO>
+               <DESCRIPTION>FLM STRECH 500MMX20MIC</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231556_24</PART_NO>
+               <DESCRIPTION>SOLVENTE VIDEO JET 16 8425 900ML</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>89527_24</PART_NO>
+               <DESCRIPTION>ET CB BLANCA 160X160MM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231555_24</PART_NO>
+               <DESCRIPTION>TINTA VIDEO JET 16 8420 950ML</DESCRIPTION>
+            </DU_ART>
+         </DU_ART_LIST>
+         <KPI_PLANT_GROUP_KEYWORD/>
+         <MSU_CUSTOMERS/>
+      </DU>
+      <DU>
+         <DU_MAIN_DATA>
+            <PART_NO>67178171_24</PART_NO>
+            <REVISION>1</REVISION>
+            <DESCRIPTION>ADES SABOR ORIGINAL 12X1L</DESCRIPTION>
+            <PLANNED_EFFECTIVE_DATE>19-Jan-2017</PLANNED_EFFECTIVE_DATE>
+            <RFI>DA VINCI</RFI>
+            <EAN>27891150001965</EAN>
+         </DU_MAIN_DATA>
+         <DU_CLASSIFICATION_DATA/>
+         <DU_ART_LIST>
+            <DU_ART>
+               <PART_NO>83279640_24</PART_NO>
+               <DESCRIPTION>INK JET STANDARD BLACK C6119A</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>546871_24</PART_NO>
+               <DESCRIPTION>SOLVENTE VIDEO JET 1610 SPEED</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>67153850_24</PART_NO>
+               <DESCRIPTION>OUTERCASE ADES ORIGINAL GEN VIP</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>148502_24</PART_NO>
+               <DESCRIPTION>CANT 97CM ADES 200ML SLIM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>89521_24</PART_NO>
+               <DESCRIPTION>BOB RIBON ZEBRA 165X450MM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>100000031873_24</PART_NO>
+               <DESCRIPTION>PALLET CHEP BR</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>83345992_24</PART_NO>
+               <DESCRIPTION>GLUE HOT MELT GEN NEW</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>546863_24</PART_NO>
+               <DESCRIPTION>TINTA VIDEO JET 1610 SPEED</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>216731_24</PART_NO>
+               <DESCRIPTION>FLM STRECH 500MMX20MIC</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231556_24</PART_NO>
+               <DESCRIPTION>SOLVENTE VIDEO JET 16 8425 900ML</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>89527_24</PART_NO>
+               <DESCRIPTION>ET CB BLANCA 160X160MM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231555_24</PART_NO>
+               <DESCRIPTION>TINTA VIDEO JET 16 8420 950ML</DESCRIPTION>
+            </DU_ART>
+         </DU_ART_LIST>
+         <KPI_PLANT_GROUP_KEYWORD/>
+         <MSU_CUSTOMERS/>
+      </DU>
+      <DU>
+         <DU_MAIN_DATA>
+            <PART_NO>67178171_24</PART_NO>
+            <REVISION>1</REVISION>
+            <DESCRIPTION>ADES SABOR ORIGINAL 12X1L</DESCRIPTION>
+            <PLANNED_EFFECTIVE_DATE>19-Jan-2017</PLANNED_EFFECTIVE_DATE>
+            <RFI>DA VINCI</RFI>
+            <EAN>27891150001965</EAN>
+         </DU_MAIN_DATA>
+         <DU_CLASSIFICATION_DATA/>
+         <DU_ART_LIST>
+            <DU_ART>
+               <PART_NO>83279640_24</PART_NO>
+               <DESCRIPTION>INK JET STANDARD BLACK C6119A</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>546871_24</PART_NO>
+               <DESCRIPTION>SOLVENTE VIDEO JET 1610 SPEED</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>67153850_24</PART_NO>
+               <DESCRIPTION>OUTERCASE ADES ORIGINAL GEN VIP</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>148502_24</PART_NO>
+               <DESCRIPTION>CANT 97CM ADES 200ML SLIM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>89521_24</PART_NO>
+               <DESCRIPTION>BOB RIBON ZEBRA 165X450MM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>100000031873_24</PART_NO>
+               <DESCRIPTION>PALLET CHEP BR</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>83345992_24</PART_NO>
+               <DESCRIPTION>GLUE HOT MELT GEN NEW</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>546863_24</PART_NO>
+               <DESCRIPTION>TINTA VIDEO JET 1610 SPEED</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>216731_24</PART_NO>
+               <DESCRIPTION>FLM STRECH 500MMX20MIC</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231556_24</PART_NO>
+               <DESCRIPTION>SOLVENTE VIDEO JET 16 8425 900ML</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>89527_24</PART_NO>
+               <DESCRIPTION>ET CB BLANCA 160X160MM</DESCRIPTION>
+            </DU_ART>
+            <DU_ART>
+               <PART_NO>231555_24</PART_NO>
+               <DESCRIPTION>TINTA VIDEO JET 16 8420 950ML</DESCRIPTION>
+            </DU_ART>
+         </DU_ART_LIST>
+         <KPI_PLANT_GROUP_KEYWORD/>
+         <MSU_CUSTOMERS/>
+      </DU>
+  </DU_LIST>
+  <CON>
+      <LANGUAGES>
+         <LANGUAGE>English</LANGUAGE>
+      </LANGUAGES>
+      <CON_MAIN_DATA>
+         <PART_NO>94082996_24</PART_NO>
+         <REVISION>1</REVISION>
+         <DESCRIPTION>CON ADES ORIGINAL 1L</DESCRIPTION>
+         <PLANNED_EFFECTIVE_DATE>28-Oct-2016</PLANNED_EFFECTIVE_DATE>
+         <ACCESS_GROUP>PLAN</ACCESS_GROUP>
+         <LAST_MODIFIED_BY>GOESJU01</LAST_MODIFIED_BY>
+         <RFI>Revisão para PIM2C</RFI>
+         <FRAME_ID>G-FOODS-CON-GLOBAL</FRAME_ID>
+         <FRAME_REV>21</FRAME_REV>
+      </CON_MAIN_DATA>
+      <MCON_DATA>
+         <PART_NO/>
+         <DESCRIPTION/>
+      </MCON_DATA>
+      <MSU_CUSTOMERS/>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Country" language="English">
+         <VALUE>Brazil</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Brand Name" language="English">
+         <VALUE>AdeS</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Product Name" property="Country" attribute="1" header="Product Name" language="English">
+         <VALUE>AdeS Original</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Country" language="English">
+         <VALUE>Brazil</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="General Information" sub_section="(none)" property_group="Legal Description" property="Country" attribute="1" header="Descriptive Name" language="English">
+         <VALUE>Alimento com soja</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Size Information" property="Serving Size" attribute="Metric (ml) - As sold" header="UOM" language="English">
+         <VALUE>ml</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Size Information" property="Serving Size" attribute="Metric (ml) - As sold" header="per Serving" language="English">
+         <VALUE>200</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Size Information" property="Serving Size" attribute="Household Measure - As sold" header="UOM" language="English">
+         <VALUE>Cup</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Size Information" property="Serving Size" attribute="Household Measure - As sold" header="per Serving" language="English">
+         <VALUE>1</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Information" property="Variable serving size" attribute="   -   " header="Present" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Nutrition" sub_section="(none)" property_group="Serving Information" property="Product is consumed as sold" attribute="   -   " header="Present" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Gluten Free" attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Dietary - Guaranteed" property="Gluten Free" attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume" attribute="   -   " header="Value" language="English">
+         <VALUE>1000</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Portions/Doses/Uses" attribute="   -   " header="Value" language="English">
+         <VALUE>5</VALUE>
+         <UOM>No.</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Declarations" property="Volume per serving/portion" attribute="   -   " header="Value" language="English">
+         <VALUE>200</VALUE>
+         <UOM>ml</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 1" attribute="   -   " header="Description" language="English">
+         <VALUE>BAIXO EM AÇUCARES</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 2" attribute="   -   " header="Description" language="English">
+         <VALUE>Este não é um alimento baixo ou reduzido em valor energético</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 3" attribute="   -   " header="Description" language="English">
+         <VALUE>0% COLESTEROL COMO TODO ALIMENTO COM SOJA</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 4" attribute="   -   " header="Description" language="English">
+         <VALUE>Fonte de cálcio</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="On Pack Claims" property="Claim 5" attribute="   -   " header="Description" language="English">
+         <VALUE>7 vitaminas e zinco</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Peanuts/Peanut products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sesame Seeds and prods." attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Sulphite (=&gt; 10mg/kg)" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Cereals cont. Gluten + prods." attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Crustaceans and products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="Yes" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="No" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Soybeans/Soybean prods." attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Nuts/Nuts products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Egg/Egg products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Molluscs and products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Fish / Fish products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="Yes" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="No" language="English">
+         <VALUE>Y</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="Comp of RM" language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Food Allergen / Food Intolerance" property="Milk / Dairy products" attribute="   -   " header="Contam." language="English">
+         <VALUE>N</VALUE>
+         <UOM>mg/kg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Months" header="Value" language="English">
+         <VALUE>10</VALUE>
+         <UOM>month(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="Claims and Declarations" sub_section="(none)" property_group="Shelf Life" property="Shelf Life Total" attribute="Days" header="Value" language="English">
+         <VALUE>300</VALUE>
+         <UOM>day(s)</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On-Pack Nutrition Information as Sold" property="Serving Size" attribute="   -   " header="Value" language="English">
+         <VALUE>200 mL</VALUE>
+         <UOM/>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Fat" attribute="   -   " header="per Serving" language="English">
+         <VALUE>3.1</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Protein" attribute="   -   " header="per Serving" language="English">
+         <VALUE>5.2</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Vitamin E" attribute="   -   " header="per Serving" language="English">
+         <VALUE>2</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Energy" attribute="kJ" header="per Serving" language="English">
+         <VALUE>288</VALUE>
+         <UOM>kJ</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Energy" attribute="kcal" header="per Serving" language="English">
+         <VALUE>69</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Carbohydrate" attribute="   -   " header="per Serving" language="English">
+         <VALUE>4.8</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Cholesterol" attribute="   -   " header="per Serving" language="English">
+         <VALUE>0</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Fibre" attribute="Dietary" header="per Serving" language="English">
+         <VALUE>1.9</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Calcium" attribute="   -   " header="per Serving" language="English">
+         <VALUE>240</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Sodium" attribute="mg" header="per Serving" language="English">
+         <VALUE>166</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Vitamin A" attribute="   -   " header="per Serving" language="English">
+         <VALUE>90</VALUE>
+         <UOM>µg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Vitamin D" attribute="   -   " header="per Serving" language="English">
+         <VALUE>2</VALUE>
+         <UOM>µg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Carbohydrate of which" attribute="Sugars" header="per Serving" language="English">
+         <VALUE>3.3</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Carbohydrate of which" attribute="Lactose" header="per Serving" language="English">
+         <VALUE>0</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="SAFA" header="per Serving" language="English">
+         <VALUE>0.4</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="MUFA" header="per Serving" language="English">
+         <VALUE>0.6</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="PUFA" header="per Serving" language="English">
+         <VALUE>1.8</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Fat of which" attribute="Trans" header="per Serving" language="English">
+         <VALUE>0</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Folic Acid" attribute="   -   " header="per Serving" language="English">
+         <VALUE>36</VALUE>
+         <UOM>µg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Vitamin B2" attribute="   -   " header="per Serving" language="English">
+         <VALUE>0.39</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Vitamin B6" attribute="   -   " header="per Serving" language="English">
+         <VALUE>0.2</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Vitamin B12" attribute="   -   " header="per Serving" language="English">
+         <VALUE>0.96</VALUE>
+         <UOM>µg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 1" property="Zinc" attribute="   -   " header="per Serving" language="English">
+         <VALUE>1.1</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 2" property="Fat" attribute="   -   " header="%" language="English">
+         <VALUE>6</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 2" property="Fat" attribute="   -   " header="GDA synonym" language="English">
+         <VALUE>VD</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 2" property="Fat" attribute="   -   " header="Guideline Daily Amount" language="English">
+         <VALUE>3.1</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 2" property="Energy" attribute="kcal" header="%" language="English">
+         <VALUE>3</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 2" property="Energy" attribute="kcal" header="GDA synonym" language="English">
+         <VALUE>VD</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 2" property="Energy" attribute="kcal" header="Guideline Daily Amount" language="English">
+         <VALUE>69</VALUE>
+         <UOM>kcal</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 2" property="Sodium" attribute="mg" header="%" language="English">
+         <VALUE>7</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 2" property="Sodium" attribute="mg" header="GDA synonym" language="English">
+         <VALUE>VD</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 2" property="Sodium" attribute="mg" header="Guideline Daily Amount" language="English">
+         <VALUE>166</VALUE>
+         <UOM>mg</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 2" property="Carbohydrate of which" attribute="Sugars" header="GDA synonym" language="English">
+         <VALUE>VD</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 2" property="Carbohydrate of which" attribute="Sugars" header="Guideline Daily Amount" language="English">
+         <VALUE>3.3</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 2" property="Fat of which" attribute="SAFA" header="%" language="English">
+         <VALUE>2</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 2" property="Fat of which" attribute="SAFA" header="GDA synonym" language="English">
+         <VALUE>VD</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <PROPERTY_DATA section="On Pack Nutrition Information" sub_section="As Sold" property_group="On Pack Nutr Data 2" property="Fat of which" attribute="SAFA" header="Guideline Daily Amount" language="English">
+         <VALUE>0.4</VALUE>
+         <UOM>g</UOM>
+         <NOTE/>
+      </PROPERTY_DATA>
+      <TEXT_DATA section="General Information" sub_section="(none)" text_header="Description" language="English">
+         <TEXT>ADES ORIGINAL 1L</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Local Information" sub_section="(none)" text_header="Local Information" language="English">
+         <TEXT>Fabricado por: Unilever Brasil Industrial Ltda - Av. Prefeito Olavo Gomes, 3701 - Pouso Alegre – MG - CEP: 37550-000- CNPJ 01.615.814/0045-14.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Ingredient Declaration" sub_section="(none)" text_header="Ingredients Declaration" language="English">
+         <TEXT>Água, grãos de soja, açúcar invertido, minerais cálcio e zinco, açúcar, sal, vitaminas E, B2, B6, A, ácido fólico, D e B12, estabilizantes citrato trissódico, goma gelana e goma xantana, aromatizante, emulsificante lecitina de soja e edulcorante sucralose.
+NÃO CONTÉM GLÚTEN.
+ALÉRGICOS: CONTÉM SOJA E DERIVADOS.
+</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Instructions for Use" language="English">
+         <TEXT>Agite Antes
+Pronto para Beber
+Servir Gelado ou Quente</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Storage Instructions" language="English">
+         <TEXT>Após aberto, consumir em até 3 dias, conservando em geladeira</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Instructions" sub_section="(none)" text_header="Safety Instructions" language="English">
+         <TEXT>Tampa abre-fecha
+Não consumir caso a embalagem esteja amassada, estufada ou danificada</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Claims and Declarations" sub_section="(none)" text_header="Claims / Disclaimers" language="English">
+         <TEXT>AVISO IMPORTANTE: Este produto não deve ser usado para alimentar crianças menores de 1 (um) ano de idade, a não ser por indicação expressa de médico ou nutricionista. O aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.</TEXT>
+      </TEXT_DATA>
+      <TEXT_DATA section="Claims and Declarations" sub_section="(none)" text_header="Declarations" language="English">
+         <TEXT>Contém aromatizante sintético idêntico ao natural</TEXT>
+      </TEXT_DATA>
+      <REF_TEXT_DATA section="Claims and Declarations" sub_section="(none)" short_description="CON cross cantaminat" description="Risk of Cross Contamination during Processing" language="English">
+         <TEXT>Information captured in the following property groups relates to the total allergen status of a product i.e. allergens inherent in the underlying ingredient composition of the product in addition to those due to cross contamination during processing of the product and which impact on final product labelling</TEXT>
+      </REF_TEXT_DATA>
+  </CON>
+</CU>

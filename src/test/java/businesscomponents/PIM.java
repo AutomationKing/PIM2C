@@ -35,6 +35,7 @@ public class PIM extends ReusableLibrary
 	 public static  String Caseval1;
 	 public static int propno=1;
 	 private static Date startTime;
+	 //ravi
 	 private static Date endTime;
 	 public static long totalTime=0;	
 	 public static int total_count=0;
@@ -52,6 +53,8 @@ public class PIM extends ReusableLibrary
 	{
 		super(scriptHelper);
 	}
+	
+	//ravi
 	GenericFunctions GF = new GenericFunctions(scriptHelper);
 	WebElement element;
 	private Actions action ;

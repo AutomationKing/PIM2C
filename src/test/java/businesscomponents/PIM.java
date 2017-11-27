@@ -59,6 +59,8 @@ public class PIM extends ReusableLibrary
 	WebElement element;
 	private Actions action ;
 	public static String sapName;
+	
+	//ravi
 	public static String productDesc;
 	public static String record; 
 	
